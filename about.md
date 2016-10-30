@@ -6,13 +6,18 @@ description: All about Eric Moe.
 sitemap: main
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+My name is Eric Moe and I am a designer. I was born and raised in <a href="http://www.keepaustinweird.com/" target="_blank" >Austin</a>, Texas. Against all predictions I am studying <a href="http://utvac.org/" target="_blank">design</a> and <a href="https://login.cs.utexas.edu/" target="_blank">computer science</a> at <a href="http://tower.utexas.edu/" target="_blank">The University of Texas at Austin</a>.
 
+In my work I strive to create design that is <a href="https://dl.dropboxusercontent.com/u/27871123/Treehouse_A%20Public%20Space.pdf" target="_blank">just right</a>. My work facilitates the communication, skills, and cooperation needed to get there.
+
+In my free time I like to swim at <a href="http://www.edwardsaquifer.net/barton.html" target="_blank">Barton Springs</a>, watch movies at the <a href="http://birthmoviesdeath.com/about" target="_blank">theater</a>, listen to <a href="http://99percentinvisible.org/" target="_blank">podcasts</a> at the gym, tell bad jokes, and be unbelievably tall.
+
+<!--<img class="col one left" src="/img/prof_pic.jpg"> -->
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
+	<img class="col one" src="/img/prof_pic.jpg" alt="" title="example image"/>
+</div>
 <br/>
 <hr/>
 <br/>
@@ -64,13 +69,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	The best way to reach me is by email, though any of these will work.
 </div>
 
-<!--
-	<a href="mailto:geomoetric@gmail.com"><i class="fa fa-envelope-square"></i></a> <a href="https://www.instagram.com/geomoetric/" target="_blank"><i class="fa fa-instagram"></i></a> <a href="https://twitter.com/geomoetric/" target="_blank"><i class="fa fa-twitter-square"></i></a> <a href="https://dribbble.com/geomoetric/" target="_blank"><i class="fa fa-dribbble"></i></a> <a href="https://www.linkedin.com/in/geomoetric/" target="_blank"><i class="fa fa-linkedin-square"></i></a> <a href="http://geomoetric.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a> <a href="https://www.pinterest.com/geomoetric/" target="_blank"><i class="fa fa-pinterest-square"></i></a> <a href="ttps://www.reddit.com/user/geomoetric/" target="_blank"><i class="fa fa-reddit-square"></i></a> <a href="https://github.com/geomoetric/" target="_blank"><i class="fa fa-github-square"></i></a> <a href="https://www.etsy.com/shop/Geomoetric/" target="_blank"><i class="fa fa-shopping-cart"></i></a> <a href="https://www.behance.net/EricMoe" target="_blank"><i class="fa fa-behance-square"></i></a>
-    
-    <a href="mailto:geomoetric@gmail.com"><i class="fa fa-envelope"></i></a> <a href="https://www.instagram.com/geomoetric/" target="_blank"><i class="fa fa-instagram"></i></a> <a href="https://twitter.com/geomoetric/" target="_blank"><i class="fa fa-twitter"></i></a> <a href="https://dribbble.com/geomoetric/" target="_blank"><i class="fa fa-dribbble"></i></a> <a href="https://www.linkedin.com/in/geomoetric/" target="_blank"><i class="fa fa-linkedin"></i></a> <a href="http://geomoetric.tumblr.com/" target="_blank"><i class="fa fa-tumblr"></i></a> <a href="https://www.pinterest.com/geomoetric/" target="_blank"><i class="fa fa-pinterest"></i></a> <a href="ttps://www.reddit.com/user/geomoetric/" target="_blank"><i class="fa fa-reddit"></i></a> <a href="https://github.com/geomoetric/" target="_blank"><i class="fa fa-github"></i></a> <a href="https://www.etsy.com/shop/Geomoetric/" target="_blank"><i class="fa fa-shopping-cart"></i></a> <a href="https://www.behance.net/EricMoe" target="_blank"><i class="fa fa-behance"></i></a>
-    
-    -->
 
