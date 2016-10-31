@@ -17,7 +17,7 @@ sitemap: main
 <br/>
 <ul>
 <li>Created social media content, client proposals, and original graphics.</li>
-<li>Worked with prominent austin businesses like ThunderCloud Subs, Kerbey Lane Cafe, and Freedom Solar Power.</li>
+<li>Worked with prominent austin businesses like <a href="http://thundercloud.com/" target="_blank">ThunderCloud Subs</a>, <a href="http://kerbeylanecafe.com/" target="_blank">Kerbey Lane Cafe</a>, and <a href="http://freedomsolarpower.com/" target="_blank">Freedom Solar Power</a>.</li>
 <li>Coordinated corporate events and worked with event rental contractors in a variety of fields.</li>
 </ul>
 <br/>
@@ -30,7 +30,7 @@ sitemap: main
 <ul>
 <li>Designed invitations for Liberal Arts Development.</li>
 <li>Created illustrations for Life and Letters magazine.</li>
-<li>Launched the 2016 Annual Impact Report.</li>
+<li>Launched the 2016 <a href="https://liberalarts.utexas.edu/alumni-and-giving/annual-impact-report.php" target="_blank">Annual Impact Report</a>.</li>
 </ul>
 <br/>
 <hr/>
