@@ -1,13 +1,11 @@
 ---
 published: false
----
----
 layout: post
 title: Style Guide
-date: 2016-10-21 00:00:00 -0500
+date: '2016-10-21 00:00:00 -0500'
 description: Markdown/Kramdown style guide.
-
 ---
+
 
 # Default Markdown/Kramdown
 
