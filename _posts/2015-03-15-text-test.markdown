@@ -44,6 +44,28 @@ Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan c
 #### Heading 4
 ##### Heading 5
 
+This is *emphasized*,
+_this_ too!
+
+
+This is **strong**,
+__this__ too!
+
+A [link](http://kramdown.gettalong.org "hp")
+to the homepage.
+
+A link to the [kramdown hp].
+
+[kramdown hp]: http://kramdown.gettalong.org "hp"
+
+
+This is a text with a
+footnote[^1].
+
+[^1]: And here is the definition.
+
+
+This is *red*{: style="color: red"}.
 
 > A sample blockquote.
 >
@@ -70,11 +92,6 @@ many tildes as the starting line.
 
 * A list item with additional text
 
-<br/>
-term
-: definition
-: another definition
-
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
@@ -86,29 +103,13 @@ term
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
 
-This is *emphasized*,
-_this_ too!
+
+<br/>
+term
+: definition
+: another definition
 
 
-This is **strong**,
-__this__ too!
-
-
-A [link](http://kramdown.gettalong.org "hp")
-to the homepage.
-
-A link to the [kramdown hp].
-
-[kramdown hp]: http://kramdown.gettalong.org "hp"
-
-
-This is a text with a
-footnote[^1].
-
-[^1]: And here is the definition.
-
-
-This is *red*{: style="color: red"}.
 
 
 
