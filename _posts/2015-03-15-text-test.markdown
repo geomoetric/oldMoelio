@@ -37,53 +37,53 @@ Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan c
 <hr/>
 
 # Default Markdown/Kramdown
-
-
-# H1 header
-
-## H2 header
-
-### H3 header
-
-#### H4 header
-
-##### H5 header
-
-###### H6 header
-
 <hr/>
-
+<br/>
+# H1 header
+<br/>
+## H2 header
+<br/>
+### H3 header
+<br/>
+#### H4 header
+<br/>
+##### H5 header
+<br/>
+###### H6 header
+<br/>
+<hr/>
+<br/>
 This is *emphasized*,
 _this_ too!
 
 
 This is **strong**,
 __this__ too!
-
+<br/>
 <hr/>
-
+<br/>
 A [link](http://kramdown.gettalong.org "hp")
 to the homepage.
 
 A link to the [kramdown hp].
 
 [kramdown hp]: http://kramdown.gettalong.org "hp"
-
+<br/>
 <hr/>
-
+<br/>
 This is a text with a
 footnote[^1].
 
 [^1]: And here is the definition.
-
+<br/>
 <hr/>
-
+<br/>
 term
 : definition
 : another definition
-
+<br/>
 <hr/>
-
+<br/>
 * A list item with additional text
 * another one
 * check it out though!
@@ -93,13 +93,13 @@ term
    2. sub item two
    3. sub item three
 2. Item two
-
+<br/>
 <hr/>
-
+<br/>
 This is *red*{: style="color: red"}.
-
+<br/>
 <hr/>
-
+<br/>
 > A sample blockquote.
 >
 > >Nested blockquotes are
@@ -107,9 +107,9 @@ This is *red*{: style="color: red"}.
 >
 > ## Headers work too
 > This is the outer quote again.
-
+<br/>
 <hr/>
-
+<br/>
 ~~~~~~
 This is also a code block.
 ~~~~~~
@@ -127,6 +127,6 @@ ___
 | cell4   | cell5   | cell6   |
 |=====
 | Foot1   | Foot2   | Foot3
-
+<br/>
 
 
