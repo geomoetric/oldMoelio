@@ -56,6 +56,9 @@ A link to the [kramdown hp].
 
 [kramdown hp]: http://kramdown.gettalong.org "hp"
 
+A [link](http://kramdown.gettalong.org){:target="_blank"} to a new tab.
+
+
 <br/>
 <hr/>
 <br/>
