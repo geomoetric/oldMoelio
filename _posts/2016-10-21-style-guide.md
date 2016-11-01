@@ -1,6 +1,14 @@
 ---
 published: false
 ---
+---
+layout: post
+title: Style Guide
+date: 2016-10-21 00:00:00 -0500
+description: Markdown/Kramdown style guide.
+
+---
+
 # Default Markdown/Kramdown
 
 If your markdown/kramdown isn't working, do not despare! You probably have to add some line spacing [enter] between elements.
