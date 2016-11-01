@@ -44,12 +44,16 @@ Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan c
 #### Heading 4
 ##### Heading 5
 
+<hr/>
+
 This is *emphasized*,
 _this_ too!
 
 
 This is **strong**,
 __this__ too!
+
+<hr/>
 
 A [link](http://kramdown.gettalong.org "hp")
 to the homepage.
@@ -58,20 +62,36 @@ A link to the [kramdown hp].
 
 [kramdown hp]: http://kramdown.gettalong.org "hp"
 
+<hr/>
 
 This is a text with a
 footnote[^1].
 
 [^1]: And here is the definition.
 
+<hr/>
+
 term
 : definition
 : another definition
 
-* A list item with additional text
+<hr/>
 
+* A list item with additional text
+* another one
+* check it out though!
+
+1. Item one
+   1. sub item one
+   2. sub item two
+   3. sub item three
+2. Item two
+
+<hr/>
 
 This is *red*{: style="color: red"}.
+
+<hr/>
 
 > A sample blockquote.
 >
@@ -81,6 +101,7 @@ This is *red*{: style="color: red"}.
 > ## Headers work too
 > This is the outer quote again.
 
+<hr/>
 
 ~~~~~~
 This is also a code block.
@@ -88,7 +109,7 @@ This is also a code block.
 Ending lines must have at least as
 many tildes as the starting line.
 
-
+___
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -100,11 +121,5 @@ many tildes as the starting line.
 |=====
 | Foot1   | Foot2   | Foot3
 
-<br/>
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
 
