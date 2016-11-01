@@ -68,6 +68,9 @@ term
 : definition
 : another definition
 
+* A list item with additional text
+
+
 This is *red*{: style="color: red"}.
 
 > A sample blockquote.
@@ -81,13 +84,11 @@ This is *red*{: style="color: red"}.
 
 ~~~~~~
 This is also a code block.
-~~~
+~~~~~~
 Ending lines must have at least as
 many tildes as the starting line.
-~~~~~~~~~~~~
 
 
-* A list item with additional text
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
