@@ -99,7 +99,6 @@ many tildes as the starting line.
 | cell4   | cell5   | cell6   |
 |=====
 | Foot1   | Foot2   | Foot3
-{: rules="groups"}
 
 <br/>
 
