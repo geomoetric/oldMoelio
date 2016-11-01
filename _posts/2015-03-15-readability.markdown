@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Text Test
+title:  Readability
 date:   2015-03-15 16:40:16
-description: Testing the Text
+description: Testing the readability.
 share: facebook twitter linkedin
 ---
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
@@ -28,134 +28,8 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
 
-# heading 1
-<h2>heading 2</h2>
-<h3>heading 3</h3>
-<h4>heading 4</h4>
-<h5>heading 5</h5>
-
-<hr/>
-
-# Default Markdown/Kramdown
-
-<hr/>
-<br/>
-
-# H1 header
-
-<br/>
-
-## H2 header
-
-<br/>
-
-### H3 header
-
-<br/>
-
-#### H4 header
-
-<br/>
-
-##### H5 header
-
-<br/>
-
-###### H6 header
-
-<br/>
-<hr/>
-<br/>
-
-This is *emphasized*,
-_this_ too!
 
 
-This is **strong**,
-__this__ too!
 
-<br/>
-<hr/>
-<br/>
-
-A [link](http://kramdown.gettalong.org "hp")
-to the homepage.
-
-A link to the [kramdown hp].
-
-[kramdown hp]: http://kramdown.gettalong.org "hp"
-
-<br/>
-<hr/>
-<br/>
-
-This is a text with a
-footnote[^1].
-
-[^1]: And here is the definition.
-
-<br/>
-<hr/>
-<br/>
-
-term
-: definition
-: another definition
-
-<br/>
-<hr/>
-<br/>
-
-* A list item with additional text
-* another one
-* check it out though!
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-<br/>
-<hr/>
-<br/>
-
-This is *red*{: style="color: red"}.
-
-<br/>
-<hr/>
-<br/>
-
-> A sample blockquote.
->
-> >Nested blockquotes are
-> >also possible.
->
-> ## Headers work too
-> This is the outer quote again.
-
-<br/>
-<hr/>
-<br/>
-
-~~~~~~
-This is also a code block.
-~~~~~~
-Ending lines must have at least as
-many tildes as the starting line.
-
-___
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-
-<br/>
 
 
