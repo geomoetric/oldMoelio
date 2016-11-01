@@ -61,7 +61,6 @@ Ending lines must have at least as
 many tildes as the starting line.
 ~~~~~~~~~~~~
 
----
 
 1. Item one
    1. sub item one
@@ -71,7 +70,7 @@ many tildes as the starting line.
 
 * A list item with additional text
 
-
+<br/>
 term
 : definition
 : another definition
