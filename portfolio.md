@@ -12,8 +12,8 @@ sitemap: main
 <div class="project">
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
+        {% if project.image %}
+        <img class="thumbnail" src="{{ project.image }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
@@ -30,8 +30,8 @@ sitemap: main
 <div class="project ">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
+        {% if project.image %}
+        <img class="thumbnail" src="{{ project.image }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
