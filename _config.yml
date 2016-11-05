@@ -77,11 +77,11 @@ markdown: kramdown
 
 highlighter: rouge
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: /img/prof_pic.jpg
+# defaults:
+#  - scope:
+#      path: ""
+ #   values:
+  #    image: /img/prof_pic.jpg
 
 
 # Pagination
@@ -104,4 +104,6 @@ sass:
   
 # gems
 gems:
-  - jekyll-seo-tag
+    - jekyll-sitemap
+    - jekyll-paginate
+    - jekyll-seo-tag
