@@ -34,21 +34,54 @@ username:
   github:     "geomoetric" 
   instagram:      "geomoetric"
   
+# Jekyll SEO tag
+author: geomoetric
+twitter:
+  username: geomoetric
+facebook:
+  app_id: 
+  publisher: 
+  admins:
+logo: /favicon.ico/
+social:
+  name: Eric Moe
+  links:
+    - https://twitter.com/geomoetric
+    - https://www.facebook.com/geomoetric
+    - https://www.linkedin.com/in/geomoetric
+    - https://github.com/geomoetric
+    - https://www.instagram.com/geomoetric/
+    - http://geomoetric.tumblr.com/
+    - https://dribbble.com/geomoetric/
+    - https://www.pinterest.com/geomoetric/
+    - https://www.reddit.com/user/geomoetric/
+    - https://www.etsy.com/shop/Geomoetric/
+    - https://www.behance.net/EricMoe
+google_verify:
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+  
+
+#   http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:   America/Chicago
 future: false  # publish future dated posts --  true, false (default) 
 
 
-# Analytics and webmaster tools stuff goes here
+# Analytics stuff goes here
 google_analytics:   UA-86525313-1  
-google_verify:  
+  
 
 
 # Build settings
 markdown: kramdown
 
 highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img/prof_pic.jpg
 
 
 # Pagination
@@ -64,7 +97,6 @@ collections:
     output: true
     permalink: /poetry/:path/
 
-gems: [jekyll-paginate]
 
 # sass
 sass:
