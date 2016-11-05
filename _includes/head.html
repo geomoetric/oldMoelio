@@ -7,6 +7,15 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
     
+     <!-- Twitter Cards -->
+    {% if site.twitter %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="og:image">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:creator" content="@{{ site.username.twitter }}">{% endif %}
+    
+    <!-- SEO plugin -->
     {% seo %}
 
     <!-- Looking for CSS, Font Awesome, Google Fonts, or Google analytics? Head on over to footer.html -->
