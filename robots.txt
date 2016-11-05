@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+Disallow: /social-feeds/
+Disallow: /sitemap.xml/
+Disallow: /googlea335489ab1799092.html
+
+Sitemap: https://ericmoe.co/sitemap.xml/
