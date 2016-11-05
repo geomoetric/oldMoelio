@@ -3,6 +3,7 @@ layout: post
 title: Project One
 description: a project with a background image
 img: /img/12.jpg
+twitter: /img/12.jpg
 date:   2015-03-15 16:40:16
 ---
 
