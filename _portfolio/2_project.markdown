@@ -2,9 +2,7 @@
 layout: post
 title: Project 2
 description: a project with a background image
-image: /img/2.jpg
-twitter: /img/2.jpg
-img: /img/2.jpg
+image: /img/1.jpg
 date:   2015-03-15 16:40:16
 ---
 
