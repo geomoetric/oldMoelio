@@ -2,7 +2,7 @@
 layout: post
 title: Project
 description: a project that redirects to another website
-img:
+twitter: /img/3.jpg
 redirect: https://unsplash.com
 ---
 
