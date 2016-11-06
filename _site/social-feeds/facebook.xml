@@ -5,8 +5,8 @@
     <description>The design portfolio of Eric Moe.</description>
     <link>http://localhost:4000</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 06 Nov 2016 09:30:32 -0600</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2016 09:30:32 -0600</lastBuildDate>
+    <pubDate>Sun, 06 Nov 2016 09:43:48 -0600</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2016 09:43:48 -0600</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
     
@@ -19,6 +19,22 @@
 
         
 
+        
+        <item>
+            <title>Blog Test</title>
+            <description>&lt;h1 id=&quot;this-is-just-a-test&quot;&gt;This is just a test&lt;/h1&gt;
+&lt;p&gt;But it’s pretty cool hopefully!&lt;/p&gt;
+
+&lt;div class=&quot;img_row&quot;&gt;
+	&lt;img class=&quot;col three&quot; src=&quot;/img/12.jpg&quot; alt=&quot;&quot; title=&quot;example image&quot; /&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Sun, 06 Nov 2016 00:11:00 -0500</pubDate>
+            <link>/2016/11/06/test-blog-post.html</link>
+            <guid isPermaLink="true">/2016/11/06/test-blog-post.html</guid>
+            
+            
+        </item>
         
     
         

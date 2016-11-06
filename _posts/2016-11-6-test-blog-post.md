@@ -1,11 +1,11 @@
-___
+---
 layout: post
-title: Blog Test
-description: A test of my site's social featrues.
-image: /img/12.jpg
-date: 2016-11-06T00:11:00-05:00
-share: facebook twitter portfolio #test
-___
+title:  Blog Test
+description:    A test of my site's social featrues.
+image:  /img/12.jpg
+date:   2016-11-06T00:11:00-05:00
+share:  facebook twitter portfolio #test
+---
 
 # This is just a test
 But it's pretty cool hopefully!
