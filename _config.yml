@@ -59,8 +59,10 @@ social:
     - https://www.behance.net/EricMoe
 google_verify:
 
-
-  
+# Jekyll auto social
+twitter_format: "@title: @url@tags"
+twitter_url_length: 22
+twitter_max_length: 140
 
 #   http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:   America/Chicago

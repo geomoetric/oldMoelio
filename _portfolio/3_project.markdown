@@ -4,6 +4,7 @@ title: Project
 description: a project that redirects to another website
 twitter: /img/3.jpg
 redirect: https://unsplash.com
+date:   2015-03-15 16:40:16
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
