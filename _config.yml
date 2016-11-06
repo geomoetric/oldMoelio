@@ -12,7 +12,7 @@ url:  #https://www.ericmoe.co #the base hostname & protocol for your site
 
   
 # Social networking links used in footer. Update and remove as you like.
-twitter:    https://twitter.com/geomoetric   
+twitteruser:    https://twitter.com/geomoetric   
 facebook:   https://www.facebook.com/geomoetric   
 github: https://github.com/geomoetric  
 stackexchange:  

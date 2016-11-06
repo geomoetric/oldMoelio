@@ -24,7 +24,7 @@ sitemap: main
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.twitter }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.twitteruser }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
 	</span></a> 
