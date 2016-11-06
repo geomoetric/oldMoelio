@@ -4,9 +4,9 @@
     <title>Twitter</title>
     <description>The design portfolio of Eric Moe.</description>
     <link>http://localhost:4000</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 06 Nov 2016 09:43:48 -0600</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2016 09:43:48 -0600</lastBuildDate>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 06 Nov 2016 17:16:36 -0600</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2016 17:16:36 -0600</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
 
@@ -26,8 +26,8 @@
 &lt;/div&gt;
 </description>
             <pubDate>Sun, 06 Nov 2016 00:11:00 -0500</pubDate>
-            <link>/2016/11/06/test-blog-post.html</link>
-            <guid isPermaLink="true">/2016/11/06/test-blog-post.html</guid>
+            <link>http://localhost:4000/2016/11/06/test-blog-post.html</link>
+            <guid isPermaLink="true">http://localhost:4000/2016/11/06/test-blog-post.html</guid>
             
             
         </item>
@@ -51,8 +51,8 @@
 &lt;p&gt;http://www.namecheap.com/?aff=38218&lt;/p&gt;
 </description>
             <pubDate>Thu, 20 Oct 2016 21:00:00 -0500</pubDate>
-            <link>/2016/10/20/Time-Test.html</link>
-            <guid isPermaLink="true">/2016/10/20/Time-Test.html</guid>
+            <link>http://localhost:4000/2016/10/20/Time-Test.html</link>
+            <guid isPermaLink="true">http://localhost:4000/2016/10/20/Time-Test.html</guid>
             
             
         </item>
@@ -98,8 +98,8 @@
 &lt;/ul&gt;
 </description>
             <pubDate>Tue, 18 Oct 2016 11:40:16 -0500</pubDate>
-            <link>/2016/10/18/All-Config-Tags.html</link>
-            <guid isPermaLink="true">/2016/10/18/All-Config-Tags.html</guid>
+            <link>http://localhost:4000/2016/10/18/All-Config-Tags.html</link>
+            <guid isPermaLink="true">http://localhost:4000/2016/10/18/All-Config-Tags.html</guid>
             
             
         </item>
@@ -144,8 +144,8 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 
 </description>
             <pubDate>Sun, 15 Mar 2015 11:40:16 -0500</pubDate>
-            <link>/2015/03/15/readability.html</link>
-            <guid isPermaLink="true">/2015/03/15/readability.html</guid>
+            <link>http://localhost:4000/2015/03/15/readability.html</link>
+            <guid isPermaLink="true">http://localhost:4000/2015/03/15/readability.html</guid>
             
             
         </item>
