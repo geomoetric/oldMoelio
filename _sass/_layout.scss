@@ -419,5 +419,6 @@ font-size: $caption_font_size;
 
 
 .img_full img {
-   width: 100%;
+    margin: inherit;
+    width: 100%;
 }
