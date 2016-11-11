@@ -2,7 +2,7 @@
 layout: post
 title: UT Post Cards
 description: UT development postcards.
-image: /img/Thanks-icon.png
+image: /img/Thanks-5.png
 date: 2016-11-01T08:29:31S 
 ---
 
@@ -27,8 +27,7 @@ You could say I am an expert in burnt orange. Here are some thank-you-note-postc
  
  </div>
 
- <img class="col one left" src="/img/Thanks-icon.png
-">{: style="visibility: hidden"};
+ <!--<img class="tiny" src="/img/Thanks-icon.png">-->
 
 
  
