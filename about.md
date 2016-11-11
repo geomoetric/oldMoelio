@@ -4,7 +4,7 @@ title: ABOUT
 permalink: /about/
 description: All about Eric Moe.
 sitemap: main
-image: /img/prof_pic.jpg
+image: /img/Profile-pic-large.jpg
 ---
 My name is Eric Moe and I am a designer. I was born and raised in <a href="http://www.keepaustinweird.com/" target="_blank" >Austin</a>, Texas. Against all predictions, I am studying <a href="http://utvac.org/" target="_blank">design</a> and <a href="https://login.cs.utexas.edu/" target="_blank">computer science</a> at <a href="http://tower.utexas.edu/" target="_blank">The University of Texas at Austin</a>.
 
@@ -14,7 +14,7 @@ In my free time, I like to swim at <a href="http://www.edwardsaquifer.net/barton
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/about_2.jpg" alt="Eric moe" title="Screen Printing"/>
-	<img class="col one left" src="/img/prof_pic.jpg" alt="Eric Moe" title="Eric Moe"/>
+	<img class="col one left" src="{{ site.baseurl }}/img/Profile-pic-large.jpg" alt="Eric Moe" title="Eric Moe"/>
 </div>
 
 <span class="contacticon2 center">
