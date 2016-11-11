@@ -4,6 +4,7 @@ title: ABOUT
 permalink: /about/
 description: All about Eric Moe.
 sitemap: main
+image: /img/prof_pic.jpg
 ---
 My name is Eric Moe and I am a designer. I was born and raised in <a href="http://www.keepaustinweird.com/" target="_blank" >Austin</a>, Texas. Against all predictions, I am studying <a href="http://utvac.org/" target="_blank">design</a> and <a href="https://login.cs.utexas.edu/" target="_blank">computer science</a> at <a href="http://tower.utexas.edu/" target="_blank">The University of Texas at Austin</a>.
 
@@ -12,8 +13,8 @@ In my work I strive to create design that is <a href="https://dl.dropboxusercont
 In my free time, I like to swim at <a href="http://www.edwardsaquifer.net/barton.html" target="_blank">Barton Springs</a>, watch movies at the <a href="http://birthmoviesdeath.com/about" target="_blank">theater</a>, listen to <a href="http://99percentinvisible.org/" target="_blank">podcasts</a> at the gym, tell bad jokes, and be unbelievably tall.
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/about_2.jpg" alt="" title="example image"/>
-	<img class="col one left" src="/img/prof_pic.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/about_2.jpg" alt="Eric moe" title="Screen Printing"/>
+	<img class="col one left" src="/img/prof_pic.jpg" alt="Eric Moe" title="Eric Moe"/>
 </div>
 
 <span class="contacticon2 center">
@@ -63,7 +64,7 @@ In my free time, I like to swim at <a href="http://www.edwardsaquifer.net/barton
 	</span></a>
 </span>
 <div class="col three caption">
-	The best way to reach me is by email, though any of these will work.
+	The best way to reach me is by email, although any of these will work.
 </div>
 
 
