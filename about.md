@@ -11,18 +11,8 @@ In my work I strive to create design that is <a href="https://dl.dropboxusercont
 
 In my free time, I like to swim at <a href="http://www.edwardsaquifer.net/barton.html" target="_blank">Barton Springs</a>, watch movies at the <a href="http://birthmoviesdeath.com/about" target="_blank">theater</a>, listen to <a href="http://99percentinvisible.org/" target="_blank">podcasts</a> at the gym, tell bad jokes, and be unbelievably tall.
 
-<!--<img class="col one left" src="/img/prof_pic.jpg">
-
-<div class="col three caption">
-	The best way to reach me is by email, though any of these will work.
-</div>
-<br/>
-<hr/>
-<br/>
--->
-
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/about_2.jpg" alt="" title="example image"/>
 	<img class="col one left" src="/img/prof_pic.jpg" alt="" title="example image"/>
 </div>
 
@@ -75,6 +65,17 @@ In my free time, I like to swim at <a href="http://www.edwardsaquifer.net/barton
 <div class="col three caption">
 	The best way to reach me is by email, though any of these will work.
 </div>
+
+
+<!--<img class="col one left" src="/img/prof_pic.jpg">
+
+<div class="col three caption">
+	The best way to reach me is by email, though any of these will work.
+</div>
+<br/>
+<hr/>
+<br/>
+-->
 
 
 
