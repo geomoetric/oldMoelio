@@ -4,6 +4,7 @@ title: Geomoetric
 description: Eric Moe's username and social media.
 permalink: /geomoetric/
 sitemap: main
+image: /img/twitter-image.jpg
 ---
 
 <!-- Throw a couple of <wbr> between the places you would like your username to break -->

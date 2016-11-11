@@ -4,6 +4,7 @@ title: RESUME
 permalink: /resume/
 description: The resume of Eric Moe.
 sitemap: main
+image: /img/twitter-image.jpg
 ---
 <!-- include the resume link here -->
 <h4><a href="/doc/Eric-Moe-Resume.pdf" target="_blank">[download pdf]</a></h4>
