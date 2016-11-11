@@ -14,7 +14,7 @@ In my free time, I like to swim at <a href="http://www.edwardsaquifer.net/barton
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/about_2.jpg" alt="Eric moe" title="Screen Printing"/>
-	<img class="col one left" src="{{ site.baseurl }}/img/Profile-pic-large.jpg" alt="Eric Moe" title="Eric Moe"/>
+	<img class="col one left" src="{{ site.baseurl }}/img/Profile-pic-large.jpg" alt="Eric Moe" title="check"/>
 </div>
 
 <span class="contacticon2 center">
