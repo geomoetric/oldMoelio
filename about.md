@@ -15,8 +15,8 @@ In my free time, I like to swim at <a href="http://www.edwardsaquifer.net/barton
 <!--<img class="col one left" src="/img/prof_pic.jpg"> -->
 <br/>
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="/img/prof_pic.jpg" alt="" title="example image"/>
+	<!--<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>-->
+	<img class="col one right" src="/img/prof_pic.jpg" alt="" title="example image"/>
 </div>
 <br/>
 <hr/>
