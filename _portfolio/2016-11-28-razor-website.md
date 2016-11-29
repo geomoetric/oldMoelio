@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: Razor Website
 description: A website for my razor
 image: 
