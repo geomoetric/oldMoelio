@@ -22,7 +22,7 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("/w3images/mac.jpg");
+    background-image: url("/img/razor4.png/");
     min-height: 100%;
 }
 .w3-navbar li a {
@@ -68,10 +68,10 @@ body, html {
 <!-- Header with full-height image -->
 <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
   <div class="w3-display-left w3-padding-xxlarge w3-text-white">
-    <span class="w3-jumbo w3-hide-small">Start something that matters</span><br>
-    <span class="w3-xxlarge w3-hide-large w3-hide-medium">Start something that matters</span><br>
+   <!-- <span class="w3-jumbo w3-hide-small">A razor for life</span>
+    <span class="w3-xxlarge w3-hide-large w3-hide-medium">A razor for life</span><br>
     <span class="w3-large">Stop wasting valuable time with projects that just isn't you.</span>
-    <p><a href="#about" class="w3-btn w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn more and start today</a></p>
+    <p><a href="#about" class="w3-btn w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn more and start today</a></p>-->
   </div> 
   <div class="w3-display-bottomleft w3-padding-xxlarge w3-text-grey w3-large">
     <a href="#" class="w3-hover-text-white"><i class="fa fa-facebook-official"></i></a>
@@ -82,6 +82,10 @@ body, html {
   </div>
 </header>
 
+<div class="w3-container w3-light-grey w3-padding-64">
+ <h1 class="w3-center">A new kind of razor</h1>
+  <p class="w3-center w3-large">Key features of our company</p>
+  </div>
 <!-- About Section -->
 <div class="w3-container w3-padding-128" id="about">
   <h3 class="w3-center">ABOUT THE COMPANY</h3>
