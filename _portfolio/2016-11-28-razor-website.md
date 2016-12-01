@@ -22,7 +22,7 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("/img/razor4.png/");
+    background-image: url("/img/sabre5.jpg/");
     min-height: 100%;
 }
 .w3-navbar li a {
@@ -36,7 +36,7 @@ body, html {
 <div class="w3-top">
   <ul class="w3-navbar w3-white w3-card-2" id="myNavbar">
     <li>
-    <h3 href="{{ site.url }}">&nbsp;S&nbsp;A&nbsp;B&nbsp;R&nbsp;E</h3>
+    <h3 href="{{ site.url }}">&emsp;S&nbsp;A&nbsp;B&nbsp;R&nbsp;E</h3>
     </li>
     <!-- Right-sided navbar links -->
     <li class="w3-right w3-hide-small">
@@ -123,7 +123,7 @@ body, html {
       <p><a href="#work" class="w3-btn"><i class="fa fa-th"></i> View Our Works</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="/img/sabre3.jpg" alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
@@ -132,7 +132,7 @@ body, html {
 <div class="w3-container w3-padding-64">
   <div class="w3-row-padding">
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="/img/sabre2.jpg" alt="Buildings" width="700" height="394">
     </div>
     <div class="w3-col m6">
       <h3>We know design.</h3>
@@ -151,7 +151,7 @@ body, html {
       <p><a href="#work" class="w3-btn"><i class="fa fa-th"></i> View Our Works</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="/img/sabre4.jpg" alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
