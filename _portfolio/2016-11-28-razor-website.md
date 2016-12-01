@@ -7,13 +7,13 @@ date: 2016-11-28T08:29:31S
 ---
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>Sabre</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="/css/razor.css">
+<link href="https://fonts.googleapis.com/css?family=Eczar" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-body,h1,h2,h3,h4,h5,h6 {font-family: helvetica, sans-serif}
+body,h1,h2,h3,h4,h5,h6 {font-family: Eczar, helvetica, sans-serif}
 body, html {
     height: 100%;
     line-height: 1.8;
@@ -36,7 +36,7 @@ body, html {
 <div class="w3-top">
   <ul class="w3-navbar w3-white w3-card-2" id="myNavbar">
     <li>
-      <a href="#home" class="w3-wide">LOGO</a>
+    <h3 href="{{ site.url }}">&nbsp;S&nbsp;A&nbsp;B&nbsp;R&nbsp;E</h3>
     </li>
     <!-- Right-sided navbar links -->
     <li class="w3-right w3-hide-small">
@@ -68,10 +68,10 @@ body, html {
 <!-- Header with full-height image -->
 <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
   <div class="w3-display-left w3-padding-xxlarge w3-text-white">
-   <!-- <span class="w3-jumbo w3-hide-small">A razor for life</span>
+  <span class="w3-jumbo w3-hide-small">A razor for life</span>
     <span class="w3-xxlarge w3-hide-large w3-hide-medium">A razor for life</span><br>
     <span class="w3-large">Stop wasting valuable time with projects that just isn't you.</span>
-    <p><a href="#about" class="w3-btn w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn more and start today</a></p>-->
+    <p><a href="#about" class="w3-btn w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn more and start today</a></p>
   </div> 
   <div class="w3-display-bottomleft w3-padding-xxlarge w3-text-grey w3-large">
     <a href="#" class="w3-hover-text-white"><i class="fa fa-facebook-official"></i></a>
@@ -128,7 +128,35 @@ body, html {
   </div>
 </div>
 
-<!-- Team Section -->
+<!-- Pt.2 - "We know design" -->
+<div class="w3-container w3-padding-64">
+  <div class="w3-row-padding">
+    <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+    </div>
+    <div class="w3-col m6">
+      <h3>We know design.</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore.</p>
+      <p><a href="#work" class="w3-btn"><i class="fa fa-th"></i> View Our Works</a></p>
+    </div>
+  </div>
+</div>
+
+<!-- P.3 - "We know design" -->
+<div class="w3-container w3-light-grey w3-padding-64">
+  <div class="w3-row-padding">
+    <div class="w3-col m6">
+      <h3>We know design.</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore.</p>
+      <p><a href="#work" class="w3-btn"><i class="fa fa-th"></i> View Our Works</a></p>
+    </div>
+    <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+    </div>
+  </div>
+</div>
+
+<!-- Team Section 
 <div class="w3-container w3-padding-128" id="team">
   <h3 class="w3-center">THE TEAM</h3>
   <p class="w3-center w3-large">The ones who runs this company</p>
@@ -178,9 +206,9 @@ body, html {
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
-<!-- Promo Section "Statistics" -->
+<!-- Promo Section "Statistics" 
 <div class="w3-container w3-row w3-center w3-dark-grey w3-padding-64">
   <div class="w3-quarter">
     <span class="w3-xxlarge">14+</span>
@@ -198,9 +226,9 @@ body, html {
     <span class="w3-xxlarge">150+</span>
     <br>Meetings
   </div>
-</div>
+</div> -->
 
-<!-- Work Section -->
+<!-- Work Section 
 <div class="w3-container w3-padding-128" id="work">
   <h3 class="w3-center">OUR WORK</h3>
   <p class="w3-center w3-large">What we've done for people</p>
@@ -234,7 +262,7 @@ body, html {
       <img src="/w3images/tech_tableturner.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tableturner">
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Modal for full size images on click-->
 <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
@@ -245,7 +273,7 @@ body, html {
   </div>
 </div>
 
-<!-- Skills Section -->
+<!-- Skills Section 
 <div class="w3-container w3-light-grey w3-padding-64">
   <div class="w3-row-padding">
     <div class="w3-col m6">
@@ -270,7 +298,7 @@ body, html {
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Pricing Section -->
 <div class="w3-container w3-padding-128 w3-center w3-dark-grey" id="pricing">
@@ -328,7 +356,7 @@ body, html {
   </div>
 </div>
 
-<!-- Contact Section -->
+<!-- Contact Section 
 <div class="w3-container w3-padding-128 w3-light-grey" id="contact">
   <h3 class="w3-center">CONTACT</h3>
   <p class="w3-center w3-large">Lets get in touch. Send us a message:</p>
@@ -351,11 +379,11 @@ body, html {
       </form>
     </div>
     <div class="w3-half">
-      <!-- Add Google Maps -->
+      <!-- Add Google Maps 
       <div id="googleMap" class="w3-greyscale-max" style="width:100%;height:510px;"></div>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-64">
