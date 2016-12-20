@@ -14,7 +14,7 @@ image: /img/donezoweb.jpg
 
 # Default Markdown/Kramdown
 
-If your markdown/kramdown isn't working, do not despare! You probably have to add some line spacing [enter] between elements.
+If your markdown/kramdown isn't working, do not despair! You probably have to add some line spacing [enter] between elements.
 <hr/>
 <br/>
 
