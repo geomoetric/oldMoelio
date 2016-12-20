@@ -2,7 +2,7 @@
 layout: post
 title: Donezo! 2016 Fall Semester in Review
 description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
-img: /img/donezoweb.jpg
+image: /img/donezoweb.jpg
 date: 2016-12-19T07:00:00S 
 share: facebook portfolio twitter twitter--hashtags
 tags: donezo
