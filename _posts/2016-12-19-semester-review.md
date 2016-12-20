@@ -23,24 +23,24 @@ A big milestone this semester was the sophomore review. In what seemed like the 
 
 ___
 
-Good Morning! My name is Eric Moe, and I am thrilled to be a sophomore Design major, even at 8AM! So I believe I was asked to pick two favorite pieces, or two pieces to contextualize my design practice.
+Good Morning! My name is Eric Moe, and I am thrilled to be a sophomore Design major, even at 8 AM! So I believe I was asked to pick two favorite pieces, or two pieces to contextualize my design practice.
 
 **Source Book**
 
 - I cannot choose a favorite child so I am choosing my source book as one of my pieces.
 - It contains work from all of my classes and from my design jobs at Brenda Thompson Communications and UT liberal Arts
 - This book is based on old field guides. I gravitate toward classic techniques and mid-century aesthetics. 
-- I am interested in how I could apply classic craft, like sign painting, rockwell-esque illustration, and modernist forms in twenty first century contexts.
+- I am interested in how I could apply classic craft, like sign painting, Rockwell-esque illustration, and modernist forms in twenty-first-century contexts.
 
 **Website**
 
 - This brings me to my second piece, my design website.
 - I hand coded this in my free time.
 - It's very simple— a static site generator with some automated social media processes, but I am beaming with pride.
-- It's also established a president for how my design practice should continue outside of the classroom, and how I apply what I am learning to my personal work.
-	- For example, I use Alyson's lessons on type to create a readable site,
-	- I use Jim's training on visual clarity to streamline navigation.
-	- I use Kate's worldview exercises to establish what will make my online presence stand out in the void.
+- It has also established a precedent for how my design practice should continue outside of the classroom, and how I apply what I am learning to my personal work.
+    - For example, I use Alyson's lessons on type to create a readable site,
+    - I use Jim's training on visual clarity to streamline navigation.
+    - I use Kate's worldview exercises to establish what will make my online presence stand out in the void.
 
 With that, I would like to thank you for your time and take any questions about my work.
 
@@ -50,11 +50,11 @@ ____
 **The positive effects it has on people's lives.**
 
 • What kind of designer do you think you’d like to be?
-**I would like to be a designer who embraces the 21st century technology with 20th century skill.**
+**I would like to be a designer who embraces the 21st-century technology with 20th-century skill.**
 
 • If you could change the works on display, what changes would you make?
 **I honestly would rather start a new work entirely than change an old one. I have to complete pieces. There need to be periods and exclamation marks in my life, not just commas.**
 
-• What have you learned thus far in the design program and what would you like to learn in the future? **This program has taught me how to design on a professional level. Yes I knew color composition and adobe illustrator going into this program— UT elevated the way I think and the way I work to be even more efficient and creative. I hope to learn more tech and web related design mediums**
+• What have you learned thus far in the design program and what would you like to learn in the future? **This program has taught me how to design on a professional level. Yes, I knew color composition and adobe illustrator going into this program— UT elevated the way I think and the way I work to be even more efficient and creative. I hope to learn more tech and web related design mediums**
 
 • Do you have any questions for the faculty? **What are your favorite Design Books?**
