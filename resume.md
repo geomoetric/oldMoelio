@@ -12,9 +12,20 @@ image: /img/twitter-image.jpg
 <hr/>
 <br/>
 
+<h3>Graphic Designer at <a href="https://liberalarts.utexas.edu/" target="_blank">UT Liberal Arts</a> and <a href="http://lifeandletters.la.utexas.edu/" target="_blank">Life &amp; Letters Magazine</a></h3>
+<h4>May '16—Present</h4>
+<br/>
+<ul>
+<li>Designed invitations for Liberal Arts Development.</li>
+<li>Created illustrations for <a href="https://issuu.com/lifeandletters/docs/ll_fall2016_issu" target="_blank">Life and Letters magazine</a></li>
+<li>Launched the 2016 <a href="https://liberalarts.utexas.edu/alumni-and-giving/annual-impact-report.php" target="_blank">Annual Impact Report</a>.</li>
+</ul>
+<br/>
+<hr/>
+<br/>
 
 <h3>Administrative assistant at <a href="http://www.brendathompson.com/" target="blank">Brenda Thompson Communications</a></h3>
-<h4>May’16—Present</h4>
+<h4>May '16—Dec '16</h4>
 <br/>
 <ul>
 <li>Created social media content, client proposals, and original graphics.</li>
@@ -25,20 +36,8 @@ image: /img/twitter-image.jpg
 <hr/>
 <br/>
 
-<h3>Graphic Designer at <a href="https://liberalarts.utexas.edu/" target="_blank">UT Liberal Arts</a> and <a href="http://lifeandletters.la.utexas.edu/" target="_blank">Life &amp; Letters Magazine</a></h3>
-<h4>May '16—Present</h4>
-<br/>
-<ul>
-<li>Designed invitations for Liberal Arts Development.</li>
-<li>Created illustrations for Life and Letters magazine.</li>
-<li>Launched the 2016 <a href="https://liberalarts.utexas.edu/alumni-and-giving/annual-impact-report.php" target="_blank">Annual Impact Report</a>.</li>
-</ul>
-<br/>
-<hr/>
-<br/>
-
 <h3>Intern at <a href="http://www.generousart.org/" target="blank">Generous Art</a></h3>
-<h4>June ’14—Aug ’14</h4>
+<h4>June '14—Aug '14</h4>
 <br/>
 <ul>
 <li>Designed print, web, and branding material for a local non-profit art gallery and arts advocacy group.</li>
@@ -51,7 +50,7 @@ image: /img/twitter-image.jpg
 <br/>
 
 <h3>Fellow at <a href="http://mindpop.org/fellowship-program-overview/" target="blank">MINDPOP Fellowship for Creative Leadership</a></h3>
-<h4>May ’14—May ’15</h4>
+<h4>May '14—May '15</h4>
 <br/>
 <ul>
 <li>Developed career skills as one of ten fellows selected for the education non-profit’s program.</li>
@@ -62,7 +61,7 @@ image: /img/twitter-image.jpg
 <br/>
 
 <h3>Lifeguard at <a href="https://circlecranch.info/amenities/circle-c-aquatics/" target="blank">Circle C Swim Center</a></h3>
-<h4>June’14—Jan’16</h4>
+<h4>June '14—Jan '16</h4>
 <br/>
 <ul>
 <li>Completed and sustained Red Cross Lifeguard Certification.</li>
@@ -75,7 +74,7 @@ image: /img/twitter-image.jpg
 <br/>
 
 <h3>Camp Counselor at <a href="http://www.bsacac.org/activities/for_boy_scouts/summercamp" target="blank">Lost Pines Boy Scout Camp</a></h3>
-<h4>May ’11—Aug ’13</h4>
+<h4>May '11—Aug '13</h4>
 <br/>
 <ul>
 <li>Instructed merit badge classes on art, wilderness survival, swimming, and outdoor skills</li>
