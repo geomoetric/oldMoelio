@@ -2,7 +2,7 @@
 layout: post
 title: A-Z an Austin Type Study 
 description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
-image: /img/donezoweb.jpg
+image: /img/ACL.png
 date: 2016-12-23T05:00:00S
 share: portfolio 
 ---
@@ -22,7 +22,12 @@ Last year I found myself assigned to a project right on the heels of the fest, a
 </div> 
 
 
-Take a photo of a band and no one bats an eye. Take a photo of typography at a music festival and everyone looses their minds. I love this selection of typography, but the feeling was not mutual even within the class. When I dropped the idea of using my photos in my poster, my type teacher’s eyes widened to a panic as the objections sputtered out. Look, I get it— the photos kinda suck, but a little photoshop magic would settle this straight away.
+Take a photo of a band and no one bats an eye. Take a photo of typography at a music festival and everyone looses their minds. I love this selection of typography, but the feeling was not mutual even within the class. When I dropped the idea of using my photos in my poster, my type teacher’s eyes widened to a panic as the objections sputtered out. Look, I get it— the photos are rough, but a little photoshop magic would settle this straight away.
+
+<img class="col three" src="/img/ACLalt.png">
+<div class="col three caption">
+&nbsp;
+</div> 
 
 I should take a second to step back and explain the project. We were supposed to find letters around Austin, Texas for use in an alphabetical poster. Thats how it began at least— it seemed as the project went on the instructions got looser and the expectations rose. Here is just one of many rejected drafts— I suppose that this piece was sort of designed by committee, but hey, I’m here to please.
 
