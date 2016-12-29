@@ -7,7 +7,7 @@ date: 2016-12-23T05:00:00S
 share: portfolio 
 ---
 
-# The Society of the Spectacle 
+
 
 <img class="col three" src="/img/soc1.JPG">
 <div class="col three caption">
@@ -22,26 +22,31 @@ In some ways I am relieved that this project beat me to the punch. For one thing
 &nbsp;
 </div> 
 
-<img class="col three" src="/img/spectacle_Page_1.png">
+<img class="col three" src="/img/spectacle.png">
 <div class="col three caption">
 &nbsp;
 </div>
 
-<img class="col three" src="/img/spectacle_Page_2.png">
-<div class="col three caption">
-&nbsp;
-</div>
-
-<img class="col three" src="/img/spectacle_Page_3.png">
-<div class="col three caption">
-&nbsp;
-</div>
 
 You can see this reflected in my front cover. I went for a maximal design with a dusty third edition paperback connotation. If the material was about the excesses of capitalism, my plan was to create a cover that utilized excess to its full ability. In this respect I believe I am successful.
 
-A classic type exercise in which young design students label the various parts of the font. Poster Bodoni and Din are an interesting combo, maybe I will use them again.
+<div class="img_row">
+<img class="col three" src="/img/spectacle2.png">
+</div>
+<div class="col three caption">
+&nbsp;
+</div>
+
+
+Above you will see a classic type exercise in which young design students label the various parts of the font. Poster Bodoni and Din are an interesting combo, maybe I will use them again.
+
+<img class="col three" src="/img/spectacle3.png">
+<div class="col three caption">
+&nbsp;
+</div>
 
 In keeping with the theme of my cover, I chose to make my spreads an excess of scale. In placing a text about efficiency, I imagine a book that wastes plentiful printing area. Perhaps this highlights the concerns of the text, perhaps it renders it impotent. The important thing is that the reader finds themselves considering the form of the typography in addition to the book claims. 
+
 I do not know if I still stand by the decision to set body copy in a monospace font. But as you can see within this book and within my website project featured later— I still like block serif fonts. No apologies! 
 
 <img class="col three" src="/img/soc3.JPG">
