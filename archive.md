@@ -15,6 +15,7 @@ sitemap: main
 {% for project in site.portfolio %}
     <li>
         <h2><a class="poem-title" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a></h2>
+        <h5>{{ project.description }}</h5>
         <p class="post-meta">{{ project.date | date: '%B %-d, %Y — %H:%M' }}</p>
       </li>
 {% endfor %}
@@ -27,6 +28,7 @@ sitemap: main
 {% for post in site.posts %}
     <li>
         <h2><a class="poem-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <h5>{{ post.description }}</h5>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
       </li>
 {% endfor %}

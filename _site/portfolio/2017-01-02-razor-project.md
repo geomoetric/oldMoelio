@@ -4,14 +4,15 @@ layout: post
 title: Razor Project
 description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
 image: /img/donezoweb.jpg
-date: 2016-12-23T05:00:00S
+date: 2017-01-02T05:00:00S
 share: facebook portfolio twitter twitter--hashtags
 tags: donezo
 ---
 
-# Razor Project
+# Razor Project 
 
-Razor Angle Detail— (left) In case you did not know, I am a genetic Scandinavian anomaly in this great state of Texas. My body thinks we’re about to hook up the reindeer to go ice-fishing, yet outside it has not been sub 70 in the whole month of November. 
+Razor Angle Detail
+In case you did not know, I am a genetic Scandinavian anomaly in this great state of Texas. My body thinks we’re about to hook up the reindeer to go ice-fishing, yet outside it has not been sub 70 in the whole month of November. 
 So when we were tasked with redesigning a common tool, I scratched my freshly shaved stubble and realized it had to be the razor. Not just any razor either, my razor of choice in my 8 years of shaving— the safety razor.
 #beard
 

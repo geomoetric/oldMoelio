@@ -222,8 +222,8 @@ overflow: hidden;
 width: 400px;
 height: auto;
 position: relative;
-left: -25%;
-top: -5%;
+left: -50%;
+top: -25%;
 }
 .thumbnail a{
 float: left;
@@ -276,8 +276,8 @@ overflow: hidden;
 width: 400px;
 height: auto;
 position: relative;
-left: -25%;
-top: -5%;
+left: -10%;
+top: -10%;
 }
 .thumbnail a{
 float: left;
@@ -303,7 +303,7 @@ display: block;
 }
 
 /* One Column */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 400px) {
     
 .clearfix:before,
 .clearfix:after {
@@ -331,7 +331,7 @@ width: 400px;
 height: auto;
 position: relative;
 left: -10%;
-top: -5%;
+top: -10%;
 }
 .thumbnail a{
 float: left;
