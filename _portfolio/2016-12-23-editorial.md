@@ -2,7 +2,7 @@
 layout: post
 title: Editorial Spreads
 description: Playing with the classic NYT editorial page.
-image: /img/Editorialweb.jpg
+image: /img/editorialweb2.jpg
 date: 2016-12-23T05:00:00S
 share: portfolio 
 ---

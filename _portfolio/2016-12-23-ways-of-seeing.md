@@ -2,7 +2,7 @@
 layout: post
 title: Ways of Seeing 
 description: An introductory photo project.
-image: /img/tackArtboard%201.jpg
+image: /img/tackweb.jpg
 date: 2016-12-23T01:00:00S 
 share: portfolio 
 ---
