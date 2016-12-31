@@ -2,7 +2,7 @@
 layout: post
 title: Ways of Seeing 
 description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
-image: /img/donezoweb.jpg
+image: /img/tackArtboard%201.jpg
 date: 2016-12-23T01:00:00S 
 share: portfolio 
 ---

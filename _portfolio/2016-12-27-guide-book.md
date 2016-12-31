@@ -6,10 +6,8 @@ image: /img/donezoweb.jpg
 date: 2016-12-27T05:00:00S 
 share: facebook portfolio twitter --twitter-hashtags
 tags: donezo
+published: false
 ---
 
 # Guide to Eric Moe
 
-date: 2016-12-27T05:00:00S
-
-date: 2016-12-27T05:00:00S

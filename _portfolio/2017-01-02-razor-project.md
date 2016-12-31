@@ -3,7 +3,7 @@ layout: post
 title: Razor Project
 description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
 image: /img/donezoweb.jpg
-date: 2016-12-23T05:00:00S
+date: 2017-01-02T05:00:00S
 share: facebook portfolio twitter twitter--hashtags
 tags: donezo
 ---
@@ -69,7 +69,7 @@ I envision this razor cast in stainless steel. If I were to take this concept fa
 
 Here are a few shots from my website proposal you can find [here.](/portfolio/2016-11-28-razor-website/) Truthfully, I put this together very quickly, but as an exercise in branding, lean development, and late night achievement, I believe it is successful.
 
-2017-01-02T05:00:00S
+
 
 
 
