@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Ways of Seeing 
-description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
+description: An introductory photo project.
 image: /img/tackArtboard%201.jpg
 date: 2016-12-23T01:00:00S 
 share: portfolio 
 ---
-
-# Ways of Seeing 
 
 <div class="img_row">
 	<img class="col one" src="/img/tackArtboard%205.jpg" alt="" title="example image"/>

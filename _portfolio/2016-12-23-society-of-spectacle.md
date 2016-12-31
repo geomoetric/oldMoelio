@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Society of the Spectacle
-description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
+title: Spectacle Society
+description: A type project on Guy Debord's manifesto.
 image: /img/soc1.JPG
 date: 2016-12-23T05:00:00S
 share: portfolio 

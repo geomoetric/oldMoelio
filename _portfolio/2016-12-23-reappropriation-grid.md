@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Political Grid Posters
-description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
+description: A voter advocacy poster.
 image: /img/ERIC MOE.png
 date: 2016-12-23T05:00:00S
 share: portfolio 
