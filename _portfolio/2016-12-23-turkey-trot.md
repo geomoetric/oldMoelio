@@ -33,7 +33,7 @@ Additionally, here are a few Instagram photos I created for ThunderCloud Subs pi
 
 <div class="img_row">
 	<img class="col one" src="/img/Tcloud-Export.png" alt="" title="example image"/>
-	<img class="col one" src="/img/Tcloud-Export%20copy%202.png" alt="" title="example image"/>
+	<img class="col one" src="/img/Tcloud-Export%20copy.png" alt="" title="example image"/>
 	<img class="col one" src="/img/Tcloud-Export%20copy%203.png" alt="" title="example image"/>
 </div>
 
