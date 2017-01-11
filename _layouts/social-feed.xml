@@ -14,6 +14,52 @@ layout: social-feed
     {% assign site.twitter_format = "@title: @url@tags" %}
     {% assign site.site.twitter_url_length = 22 %}
     {% assign twitter_max_length = 140 %}
+    
+    {% assign platform = project.title | downcase %}
+      
+     {% for project in site.portfolio %}
+        {% assign share_on = project.share | downcase %}
+
+        {% if share_on contains '--twitter-hashtags' %}
+            {% assign format_parsed = site.twitter_format | replace: '@title', project.title | replace: '@url', '' | replace: '@tags', '' | size %}
+            {% assign post_tags = '' %}
+            {% assign space_left = site.twitter_max_length | minus: format_parsed.size %}
+
+            {% if site.twitter_format contains '@url' %}
+                {% assign space_left = space_left | minus: site.twitter_url_length %}
+            {% endif %}
+
+            {% for tag in project.tags %}
+                {% capture new_tag %} #{{ tag }}{% endcapture %}
+                {% assign new_space_left = space_left | minus: new_tag.size %}
+
+                {% if new_space_left > 0 %}
+                    {% assign post_tags = post_tags | append: new_tag %}
+                    {% assign space_left = space_left | minus: new_tag.size %}
+                {% endif %}
+            {% endfor %}
+
+            {% assign post_title = site.twitter_format | replace: '@title', project.title | replace: '@tags', post_tags | replace: '@url', project.url %}
+        {% else %}
+            {% assign post_title = project.title %}
+        {% endif %}
+
+        {% if share_on contains platform %}
+        <item>
+            <title>{{ post_title | xml_escape }}</title>
+            <description>{{ project.content | xml_escape }}</description>
+            <pubDate>{{ project.date | date_to_rfc822 }}</pubDate>
+            <link>{{ project.url | prepend: site.url }}</link>
+            <guid isPermaLink="true">{{ project.url | prepend: site.url }}</guid>
+            {% for tag in project.tags %}
+            <category>{{ tag | xml_escape }}</category>
+            {% endfor %}
+            {% for cat in project.categories %}
+            <category>{{ cat | xml_escape }}</category>
+            {% endfor %}
+        </item>
+        {% endif %}
+    {% endfor %}
 
     {% assign platform = page.title | downcase %}
 
