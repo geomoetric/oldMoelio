@@ -15,7 +15,7 @@ layout: social-feed
     {% assign site.site.twitter_url_length = 22 %}
     {% assign twitter_max_length = 140 %}
     
-    {% assign platform = project.title | downcase %}
+    {% assign platform = page.title | downcase %}
       
      {% for project in site.portfolio %}
         {% assign share_on = project.share | downcase %}
@@ -63,7 +63,7 @@ layout: social-feed
 
     {% assign platform = page.title | downcase %}
 
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts %}
         {% assign share_on = post.share | downcase %}
 
         {% if share_on contains '--twitter-hashtags' %}

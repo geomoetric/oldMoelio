@@ -12,6 +12,19 @@ image: /img/test.png
 &nbsp;
 </div>
 
+# Default Front Matter
+    ---
+    layout: post (found under layouts)
+    title: Style Guide
+    date: '2016-10-21 00:00:00 -0500' (or S for texas)
+    description: Markdown/Kramdown style guide.
+    published: true
+    image: /img/test.png
+    share: twitter --twitter-hashtags
+    tags: te$t
+    ---
+
+
 # Default Markdown/Kramdown
 
 If your markdown/kramdown isn't working, do not despair! You probably have to add some line spacing [enter] between elements.
