@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Razor Project
-description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
+description: Overview of my SABRE razor.
 image: /img/test.png
-date: 2017-01-12T09:00:00S
+date: 2017-01-11T09:00:00S
 share: portfolio
 ---
 

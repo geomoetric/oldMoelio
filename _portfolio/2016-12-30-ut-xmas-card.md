@@ -1,9 +1,9 @@
 ---
 layout: post
-title: UT X-mas Card
-description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
+title: UT Xmas Card
+description: Hook 'em for the holidays.
 image: /img/test.png
-date: 2017-01-12T13:00:00S
+date: 2016-12-30T13:00:00S
 share: portfolio 
 ---
 

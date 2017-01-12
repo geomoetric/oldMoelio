@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Guide to Eric Moe
-description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
+description: My final project in Type I.
 image: /img/test.png
-date: 2017-01-12T05:00:00S
+date: 2017-01-11T05:00:00S
 share: portfolio
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Life and Letters Illustrations
-description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
+title: Life and Letters Fall 2016
+description: Illustrations commissioned for UT's Liberal Arts Magazine.
 image: /img/test.png
-date: 2017-01-12T07:00:00S
+date: 2017-01-11T07:00:00S
 share: portfolio 
 ---
 
