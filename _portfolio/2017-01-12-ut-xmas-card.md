@@ -2,10 +2,9 @@
 layout: post
 title: UT X-mas Card
 description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
-image: /img/donezoweb.jpg
-date: 2016-12-23T05:00:00S
+image: /img/test.png
+date: 2017-01-12T13:00:00S
 share: portfolio 
-published: false
 ---
 
 # UT Christmas Card

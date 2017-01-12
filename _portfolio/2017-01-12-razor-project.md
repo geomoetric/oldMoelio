@@ -2,11 +2,9 @@
 layout: post
 title: Razor Project
 description: Check out what I've been up to this semester. Two jobs, new projects, and somehow straight A's.
-image: /img/donezoweb.jpg
-date: 2017-01-02T05:00:00S
-share: facebook portfolio twitter twitter--hashtags
-tags: donezo
-published: false
+image: /img/test.png
+date: 2017-01-12T09:00:00S
+share: portfolio
 ---
 
 <img class="col three" src="/img/sabre5.jpg" alt="" title="example image"/>
