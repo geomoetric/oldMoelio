@@ -5,8 +5,8 @@
     <description>The design portfolio of Eric Moe.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Jan 2017 22:43:30 -0600</pubDate>
-    <lastBuildDate>Thu, 12 Jan 2017 22:43:30 -0600</lastBuildDate>
+    <pubDate>Fri, 13 Jan 2017 00:39:48 -0600</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2017 00:39:48 -0600</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
     
@@ -620,7 +620,7 @@ So when we were tasked with redesigning a common tool, I scratched my freshly sh
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
 &lt;/div&gt;
-&lt;p&gt;I handled the beginings of this project and the wonderful &lt;a href=&quot;http://www.allenquigley.com/&quot;&gt;Allen Quigley&lt;/a&gt; finished it. Although pretty corporate and design-by-committee, I felt as though I learned a lot.&lt;/p&gt;
+&lt;p&gt;I handled the beginings of this project and the wonderful &lt;a href=&quot;http://www.allenquigley.com/&quot; target=&quot;_blank&quot;&gt;Allen Quigley&lt;/a&gt; finished it. Although pretty corporate and design-by-committee, I felt as though I learned a lot.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/utfall7.jpg&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
@@ -643,7 +643,9 @@ So when we were tasked with redesigning a common tool, I scratched my freshly sh
         
         <item>
             <title>Westie</title>
-            <description>&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/1024x768.png&quot; /&gt;&lt;/p&gt;
+            <description>&lt;h1 id=&quot;you-can-check-out-the-stickers-in-the-imessage-storetargetblank&quot;&gt;You can check out the stickers in the &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;iMessage store&lt;/a&gt;.&lt;/h1&gt;
+
+&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/1024x768.png&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
 &lt;/div&gt;
