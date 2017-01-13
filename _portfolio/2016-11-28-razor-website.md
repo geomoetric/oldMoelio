@@ -2,7 +2,7 @@
 layout: null
 title: Razor Website
 description: A website for my razor.
-image: /img/sabre4.jpg
+image: /img/sabreweb.jpg
 date: 2016-11-28T08:29:31S 
 ---
 <!DOCTYPE html>
