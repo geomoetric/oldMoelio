@@ -2,7 +2,7 @@
 layout: post
 title: Razor Project
 description: Overview of my SABRE razor.
-image: /img/test.png
+image: /img/razorweb2.jpg
 date: 2017-01-11T09:00:00S
 share: portfolio
 ---
