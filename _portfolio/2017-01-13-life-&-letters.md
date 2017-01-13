@@ -3,7 +3,7 @@ layout: post
 title: Life & Letters Fall 2016
 description: Illustrations commissioned for UT's Liberal Arts Magazine.
 image: /img/llweb.jpg
-date: 2017-01-11T07:00:00S
+date: 2017-01-13T11:00:00S
 share: portfolio 
 ---
 <img class="col three" src="/img/utfall9.jpg">
