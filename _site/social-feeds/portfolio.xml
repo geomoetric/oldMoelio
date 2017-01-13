@@ -5,8 +5,8 @@
     <description>The design portfolio of Eric Moe.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Jan 2017 13:30:17 -0600</pubDate>
-    <lastBuildDate>Thu, 12 Jan 2017 13:30:17 -0600</lastBuildDate>
+    <pubDate>Thu, 12 Jan 2017 18:30:12 -0600</pubDate>
+    <lastBuildDate>Thu, 12 Jan 2017 18:30:12 -0600</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
     
@@ -361,19 +361,18 @@ In some ways I am relieved that this project beat me to the punch. For one thing
         
         <item>
             <title>UT Xmas Card</title>
-            <description>&lt;h1 id=&quot;ut-christmas-card&quot;&gt;UT Christmas Card&lt;/h1&gt;
+            <description>&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/utxmas2.jpg&quot; alt=&quot;&quot; title=&quot;UT Xmas&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;col three caption&quot;&gt;
+&amp;nbsp;
+&lt;/div&gt;
+&lt;p&gt;Truthfully I did not do much on this card, yet it remains one of my favorites. Each of these photos is from one of the old cactus yearbooks that we keep on the shelves in my office in the College of Liberal Arts. A lot of work goes into finding the seven or so notable snow days in the history of UT photojournalism— while questionable minstrel shows and bygone student organizations populated most pages, I found two photos that seemed to match what we wanted to convey in a Christmas Card for donors.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/utxmas_Page_1.jpg&quot; alt=&quot;&quot; title=&quot;example image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This photos is interesting for a few reasons. I think that the snowman’s face is a little too dirty, yet my immediate boss disagrees, and my other boss agrees with me! As of writing this the conflict is not resolved, but maybe my position is changing? I see this snowman as no longer creepy. I see this snowman as students attempting to create their anonymous professor’s crabby visage in snow. If this mockery is the case, I am one hundred percent onboard to keep the photo just the way it is.
+&lt;img class=&quot;col three&quot; src=&quot;/img/utxmas3.jpg&quot; alt=&quot;&quot; title=&quot;UT Xmas&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
 &lt;/div&gt;
-&lt;p&gt;Truthfully I did not do much on this card, yet it remains one of my favorites. Each of these photos is from one of the old cactus yearbooks that we keep on the shelves in my office in the College of Liberal Arts. A lot of work goes into finding the seven or so notable snow days in the history of UT photojournalism— while questionable minstrel shows and bygone student organizations populated most pages, I found two photos that seemed to match what we wanted to convey in a Christmas Card for donors. 
-This photos is interesting for a few reasons. I think that the snowman’s face is a little too dirty, yet my immediate boss disagrees, and my other boss agrees with me! As of writing this the conflict is not resolved, but maybe my position is changing? I see this snowman as no longer creepy. I see this snowman as students attempting to create their anonymous professor’s crabby visage in snow. If this mockery is the case, I am one hundred percent onboard to keep the photo just the way it is.
-&lt;img class=&quot;col three&quot; src=&quot;/img/utxmas_Page_2.jpg&quot; alt=&quot;&quot; title=&quot;example image&quot; /&gt;&lt;/p&gt;
-&lt;div class=&quot;col three caption&quot;&gt;
-&amp;nbsp;
-&lt;/div&gt;
-&lt;p&gt;This second photo is a great way to draw my semester to a close.   Just looking at it gives me that same sense of peace and tranquility a quiet day on campus will. Its true, I edited these pictures—adjusted the colors, fixed tears and creases, that sort of thing—but from the moment I opened the cactus I hoped that my boss would use this one for the card.&lt;/p&gt;
+&lt;p&gt;This second photo is a great way to frame the end of the semester. Just looking at it gives me that same sense of peace and tranquility a quiet day on campus will. Its true, I edited these pictures—adjusted the colors, fixed tears and creases, that sort of thing—but from the moment I opened the cactus I hoped that my boss would use this one for the card.&lt;/p&gt;
 </description>
             <pubDate>Fri, 30 Dec 2016 13:00:00 -0600</pubDate>
             <link>http://localhost:4000/portfolio/2016-12-30-ut-xmas-card/</link>
@@ -441,17 +440,27 @@ This photos is interesting for a few reasons. I think that the snowman’s face 
 &amp;nbsp;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/utfall3.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/ll1.jpg&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/utfall4.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/ll4.jpg&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/utfall5.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/ll5.jpg&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;col three caption&quot;&gt;
+&amp;nbsp;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/ll2.jpg&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;col three caption&quot;&gt;
+&amp;nbsp;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/ll3.jpg&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
 &lt;/div&gt;
