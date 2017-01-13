@@ -5,8 +5,8 @@
     <description>The design portfolio of Eric Moe.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 13 Jan 2017 12:39:08 -0600</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2017 12:39:08 -0600</lastBuildDate>
+    <pubDate>Fri, 13 Jan 2017 12:44:55 -0600</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2017 12:44:55 -0600</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
     
@@ -577,6 +577,7 @@ So when we were tasked with redesigning a common tool, I scratched my freshly sh
             <description>&lt;p&gt;&lt;img class=&quot;col three&quot; src=&quot;/img/utfall9.jpg&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
+
 &lt;/div&gt;
 
 &lt;p&gt;Here’s an unexpected project. As I was recovering from the intense Impact Report, I was given what seemed like a tiny assignment for UT’s own Liberal Arts Magazine. No, I was not given the cover of &lt;a href=&quot;http://cenjun.com/&quot; target=&quot;_blank&quot;&gt;Life &amp;amp; Letters&lt;/a&gt;—thanks for nothing Jun Cen—but the editorial illustration has been a worthwhile experience I hope to pursue in the future.&lt;/p&gt;
@@ -629,8 +630,8 @@ So when we were tasked with redesigning a common tool, I scratched my freshly sh
 --&gt;
 </description>
             <pubDate>Fri, 13 Jan 2017 11:00:00 -0600</pubDate>
-            <link>http://localhost:4000/portfolio/2017-01-13-life-&-letters/</link>
-            <guid isPermaLink="true">http://localhost:4000/portfolio/2017-01-13-life-&-letters/</guid>
+            <link>http://localhost:4000/portfolio/2017-01-13-life-letters/</link>
+            <guid isPermaLink="true">http://localhost:4000/portfolio/2017-01-13-life-letters/</guid>
             
             
         </item>
