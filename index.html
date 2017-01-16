@@ -16,7 +16,8 @@ layout: default
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
         {% if project.image %}
-        <img class="thumbnail" src="{{ project.image }}"/>
+        <img class="lazyload thumbnail"
+	src="/img/lqweb.png" data-src="{{ project.image }}" alt="100%x200"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
@@ -34,7 +35,7 @@ layout: default
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.image %}
-        <img class="thumbnail" src="{{ project.image }}"/>
+        <img class="lazyload thumbnail" src="/img/lqweb.png" data-src="{{ project.image }}" alt="100%x200"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
