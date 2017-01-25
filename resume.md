@@ -29,7 +29,7 @@ image: /img/twitter-image.jpg
 <br/>
 <ul>
 <li>Designed graphics, social media campaigns, and client proposals.</li>
-<li>Collaborated with prominent Austin businesses like <a href="http://thundercloud.com/" target="_blank">ThunderCloud Subs</a>, <a href="http://kerbeylanecafe.com/" target="_blank">Kerbey Lane Cafe</a>, and <a href="http://freedomsolarpower.com/" target="_blank">Freedom Solar Power</a>.</li>
+<li>Collaborated with prominent Austin businesses such as <a href="http://thundercloud.com/" target="_blank">ThunderCloud Subs</a>, <a href="http://kerbeylanecafe.com/" target="_blank">Kerbey Lane Cafe</a>, and <a href="http://freedomsolarpower.com/" target="_blank">Freedom Solar Power</a>.</li>
 <li>Organized corporate events and worked with event rental contractors in a variety of fields.</li>
 </ul>
 <br/>
