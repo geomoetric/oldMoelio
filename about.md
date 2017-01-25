@@ -68,15 +68,7 @@ In my free time, I like to swim at <a href="http://www.edwardsaquifer.net/barton
 </div>
 
 
-<!--<img class="col one left" src="/img/prof_pic.jpg">
 
-<div class="col three caption">
-	The best way to reach me is by email, though any of these will work.
-</div>
-<br/>
-<hr/>
-<br/>
--->
 
 
 
