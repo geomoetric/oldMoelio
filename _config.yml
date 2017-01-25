@@ -3,12 +3,14 @@ title: Eric Moe
 email:  geomoetric@gmail.com
 name: "Eric Moe"
 description: The design portfolio of Eric Moe.
-baseurl:  https://ericmoe.co
+baseurl:  # https://ericmoe.co
 prof_pic:   /img/prof_pic.jpg
 
 # Your site's domain goes here (eg: https://yourusername.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:  #https://www.ericmoe.co #the base hostname & protocol for your site
+
+imgurl: https://www.ericmoe.co
 
   
 # Social networking links used in footer. Update and remove as you like.

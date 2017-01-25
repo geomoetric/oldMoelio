@@ -7,7 +7,7 @@ sitemap: main
 image: /img/twitter-image.jpg
 ---
 <!-- include the resume link here -->
-<h4><a href="/doc/Eric-Moe-Resume.pdf" target="_blank">[download pdf]</a></h4>
+<h4><a href="/doc/Eric-Moe-Resume.pdf" target="_blank">[download print resume as pdf]</a></h4>
 <br/>
 <hr/>
 <br/>
@@ -17,7 +17,7 @@ image: /img/twitter-image.jpg
 <br/>
 <ul>
 <li>Designed invitations for Liberal Arts Development.</li>
-<li>Created illustrations for <a href="https://issuu.com/lifeandletters/docs/ll_fall2016_issu" target="_blank">Life and Letters magazine</a></li>
+<li>Created editorial illustrations for <a href="https://issuu.com/lifeandletters/docs/ll_fall2016_issu" target="_blank">Life and Letters magazine</a>.</li>
 <li>Launched the 2016 <a href="https://liberalarts.utexas.edu/alumni-and-giving/annual-impact-report.php" target="_blank">Annual Impact Report</a>.</li>
 </ul>
 <br/>
@@ -28,9 +28,9 @@ image: /img/twitter-image.jpg
 <h4>May '16—Dec '16</h4>
 <br/>
 <ul>
-<li>Created social media content, client proposals, and original graphics.</li>
-<li>Worked with prominent austin businesses like <a href="http://thundercloud.com/" target="_blank">ThunderCloud Subs</a>, <a href="http://kerbeylanecafe.com/" target="_blank">Kerbey Lane Cafe</a>, and <a href="http://freedomsolarpower.com/" target="_blank">Freedom Solar Power</a>.</li>
-<li>Coordinated corporate events and worked with event rental contractors in a variety of fields.</li>
+<li>Designed graphics, social media campaigns, and client proposals.</li>
+<li>Collaborated with prominent austin businesses like <a href="http://thundercloud.com/" target="_blank">ThunderCloud Subs</a>, <a href="http://kerbeylanecafe.com/" target="_blank">Kerbey Lane Cafe</a>, and <a href="http://freedomsolarpower.com/" target="_blank">Freedom Solar Power</a>.</li>
+<li>Organized corporate events and worked with event rental contractors in a variety of fields.</li>
 </ul>
 <br/>
 <hr/>
@@ -77,10 +77,10 @@ image: /img/twitter-image.jpg
 <h4>May '11—Aug '13</h4>
 <br/>
 <ul>
-<li>Instructed merit badge classes on art, wilderness survival, swimming, and outdoor skills</li>
-<li>Maintained indoor and outdoor program areas</li>
-<li>Served six meals a day</li>
-<li>Provided customer service for parents, teens, and visitors</li>
+<li>Instructed merit badge classes on art, wilderness survival, swimming, and outdoor skills.</li>
+<li>Maintained indoor and outdoor program areas.</li>
+<li>Served six meals a day.</li>
+<li>Provided customer service for parents, teens, and visitors.</li>
 </ul>
 <br/>
 <hr/>
