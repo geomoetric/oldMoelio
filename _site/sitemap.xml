@@ -26,12 +26,6 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/poetry/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/portfolio/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/resume/</loc>
 </url>
 <url>
@@ -102,7 +96,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/doc/Eric-Moe-Resume.pdf</loc>
-<lastmod>2017-01-24T16:31:14-06:00</lastmod>
+<lastmod>2017-02-21T11:20:17-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/googlea335489ab1799092.html</loc>

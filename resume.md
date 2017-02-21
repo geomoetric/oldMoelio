@@ -16,9 +16,9 @@ image: /img/twitter-image.jpg
 <h4>May '16—Present</h4>
 <br/>
 <ul>
-<li>Designed <a href="/portfolio/2016-11-02-ut-postcard/">cards</a> and <a href="/portfolio/2016-12-30-ut-xmas-card/">print media</a> for Liberal Arts Development.</li>
-<li>Created editorial illustrations for <a href="/portfolio/2017-01-13-life-letters/">Life and Letters magazine</a>.</li>
-<li>Launched the 2016 <a href="/portfolio/2017-01-10-ut-annual-impact/">Annual Impact Report</a>.</li>
+<li>Designed editorial illustrations for <a href="/portfolio/2017-01-13-life-letters/">Life and Letters magazine</a>.</li>
+<li>Created <a href="/portfolio/2016-11-02-ut-postcard/">cards</a> and <a href="/portfolio/2016-12-30-ut-xmas-card/">print media</a> for Liberal Arts Development.</li>
+<li>Launched the Liberal Arts 2016 <a href="/portfolio/2017-01-10-ut-annual-impact/">Annual Impact Report</a>.</li>
 </ul>
 <br/>
 <hr/>
@@ -54,6 +54,7 @@ image: /img/twitter-image.jpg
 <br/>
 <ul>
 <li>Developed career skills as one of ten fellows selected for the education non-profit’s program.</li>
+<li>Explored opportunities in non-profit arts education.</li>
 <li>Performed community service around Austin.</li>
 </ul>
 <br/>
