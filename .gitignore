@@ -1,0 +1,15 @@
+# git credential file
+.gitconfig.local
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# Personal
+ignore/
+
