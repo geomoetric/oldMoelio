@@ -10,7 +10,7 @@ share: portfolio
 <div class="col three caption">
 &nbsp;
 </div> 
-One of the largest projects I had at Brenda Thompson Communications was creating material for [Thundercloud Subs](http://thundercloud.com/){:target="_blank"}
+One of the largest projects I had at Brenda Thompson Communications was creating material for [Thundercloud Subs](https://thundercloud.com/){:target="_blank"}
 
 This piece is an infographic on various figures from the charity run that might give anyone unfamiliar with the trot the context for all my other designs. Ultimately, I believe that this square layout limited me, but perhaps If I had the ability to devote more time to it things would have been different. 
 <img class="col three" src="/img/infog2.jpg">
@@ -24,7 +24,7 @@ I love the tradition of the ThunderCloud Subs Turkey Trot Art Contest, but that 
 &nbsp;
 </div> 
 
-Additionally, here are a few Instagram photos I created for ThunderCloud Subs picnic campaign. It is no secret that Austin is known for its amazing parks, and it was fun to run around the city, sandwich in tow, on behalf of TCloud. Most of these pics hail from [East Austin pocket parks](http://www.austinchronicle.com/news/2009-04-17/767852/){:target="_blank"}, and of course, [Zilker](http://austintexas.gov/department/zilker-metropolitan-park){:target="_blank"} is featured prominently. The only snafu I encountered on this adventure was the sheer number of dogs interested in my sandwiches!
+Additionally, here are a few Instagram photos I created for ThunderCloud Subs picnic campaign. It is no secret that Austin is known for its amazing parks, and it was fun to run around the city, sandwich in tow, on behalf of TCloud. Most of these pics hail from [East Austin pocket parks](https://www.austinchronicle.com/news/2009-04-17/767852/){:target="_blank"}, and of course, [Zilker](https://austintexas.gov/department/zilker-metropolitan-park){:target="_blank"} is featured prominently. The only snafu I encountered on this adventure was the sheer number of dogs interested in my sandwiches!
 <div class="img_row">
 	<img class="col one" src="/img/Tcloud-Export%20copy%204.png" alt="" title="example image"/>
 	<img class="col one" src="/img/Tcloud-Export%20copy%205.png" alt="" title="example image"/>

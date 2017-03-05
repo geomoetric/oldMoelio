@@ -68,14 +68,14 @@ __this__ too!
 <hr/>
 <br/>
 
-A [link](http://kramdown.gettalong.org "hp")
+A [link](https://kramdown.gettalong.org "hp")
 to the homepage.
 
 A link to the [kramdown hp].
 
-[kramdown hp]: http://kramdown.gettalong.org "hp"
+[kramdown hp]: https://kramdown.gettalong.org "hp"
 
-A [link](http://kramdown.gettalong.org){:target="_blank"} to a new tab.
+A [link](https://kramdown.gettalong.org){:target="_blank"} to a new tab.
 
 
 <br/>

@@ -18,7 +18,7 @@ Here is the behemoth of the fall 2016 semester— at my UT job, this was top pri
 <div class="col three caption">
 &nbsp;
 </div>
-I handled the beginings of this project and the wonderful [Allen Quigley](http://www.allenquigley.com/){:target="_blank"} finished it. Although pretty corporate and design-by-committee, I felt as though I learned a lot.
+I handled the beginings of this project and the wonderful [Allen Quigley](https://www.allenquigley.com/){:target="_blank"} finished it. Although pretty corporate and design-by-committee, I felt as though I learned a lot.
 
 <img class="col three lazyload" data-src="{{ site.imgurl }}/img/utfall7.jpg">
 <div class="col three caption">

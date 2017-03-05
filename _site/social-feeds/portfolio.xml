@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio</title>
     <description>The design portfolio of Eric Moe.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 26 Feb 2017 19:45:38 -0600</pubDate>
-    <lastBuildDate>Sun, 26 Feb 2017 19:45:38 -0600</lastBuildDate>
+    <pubDate>Sun, 05 Mar 2017 16:08:29 -0600</pubDate>
+    <lastBuildDate>Sun, 05 Mar 2017 16:08:29 -0600</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
     
@@ -159,7 +159,7 @@ Last year I found myself assigned to a project right on the heels of the fest, a
         
         <item>
             <title>Editorial Spreads</title>
-            <description>&lt;p&gt;This was a project made for someone who has read a newspaper since the first grade. Our prompt was to take Op-Ed articles without formatting, set them in InDesign, and provide editorial illustrations. Below are my final designs, set in the style of the &lt;a href=&quot;http://www.nytimes.com/interactive/2010/09/25/opinion/opedat40-illustration.html?_r=1&amp;amp;&quot; target=&quot;_blank&quot;&gt;New York Times Op-Ed page&lt;/a&gt;. Nothing quite like that &lt;a href=&quot;https://books.google.com/books?id=tE4EAAAAMBAJ&amp;amp;pg=PA152&amp;amp;dq=%22the+gray+lady%22+%22new+york+times%22&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ei=tokrT_DMKK7aiQKwttTgCg&amp;amp;ved=0CDwQ6AEwAA#v=onepage&amp;amp;q=%22the%20gray%20lady%22%20%22new%20york%20times%22&amp;amp;f=false&quot; target=&quot;_blank&quot;&gt;Grey Lady&lt;/a&gt; combo of &lt;a href=&quot;http://www.myfonts.com/fonts/bitstream/imperial/?refby=MarkFonts&quot; target=&quot;_blank&quot;&gt;Imperial&lt;/a&gt; and &lt;a href=&quot;http://www.myfonts.com/fonts/bitstream/bookman/?refby=MarkFonts&quot; target=&quot;_blank&quot;&gt;Bookman&lt;/a&gt;.&lt;/p&gt;
+            <description>&lt;p&gt;This was a project made for someone who has read a newspaper since the first grade. Our prompt was to take Op-Ed articles without formatting, set them in InDesign, and provide editorial illustrations. Below are my final designs, set in the style of the &lt;a href=&quot;https://www.nytimes.com/interactive/2010/09/25/opinion/opedat40-illustration.html?_r=1&amp;amp;&quot; target=&quot;_blank&quot;&gt;New York Times Op-Ed page&lt;/a&gt;. Nothing quite like that &lt;a href=&quot;https://books.google.com/books?id=tE4EAAAAMBAJ&amp;amp;pg=PA152&amp;amp;dq=%22the+gray+lady%22+%22new+york+times%22&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ei=tokrT_DMKK7aiQKwttTgCg&amp;amp;ved=0CDwQ6AEwAA#v=onepage&amp;amp;q=%22the%20gray%20lady%22%20%22new%20york%20times%22&amp;amp;f=false&quot; target=&quot;_blank&quot;&gt;Grey Lady&lt;/a&gt; combo of &lt;a href=&quot;https://www.myfonts.com/fonts/bitstream/imperial/?refby=MarkFonts&quot; target=&quot;_blank&quot;&gt;Imperial&lt;/a&gt; and &lt;a href=&quot;https://www.myfonts.com/fonts/bitstream/bookman/?refby=MarkFonts&quot; target=&quot;_blank&quot;&gt;Bookman&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;this-algorithms-taste-in-wine-is-better-than-yours&quot;&gt;This Algorithm’s Taste in Wine is Better than Yours&lt;/h3&gt;
 
@@ -318,7 +318,7 @@ In some ways I am relieved that this project beat me to the punch. For one thing
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
 &lt;/div&gt;
-&lt;p&gt;One of the largest projects I had at Brenda Thompson Communications was creating material for &lt;a href=&quot;http://thundercloud.com/&quot; target=&quot;_blank&quot;&gt;Thundercloud Subs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One of the largest projects I had at Brenda Thompson Communications was creating material for &lt;a href=&quot;https://thundercloud.com/&quot; target=&quot;_blank&quot;&gt;Thundercloud Subs&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This piece is an infographic on various figures from the charity run that might give anyone unfamiliar with the trot the context for all my other designs. Ultimately, I believe that this square layout limited me, but perhaps If I had the ability to devote more time to it things would have been different. 
 &lt;img class=&quot;col three&quot; src=&quot;/img/infog2.jpg&quot; /&gt;&lt;/p&gt;
@@ -332,7 +332,7 @@ In some ways I am relieved that this project beat me to the punch. For one thing
 &amp;nbsp;
 &lt;/div&gt;
 
-&lt;p&gt;Additionally, here are a few Instagram photos I created for ThunderCloud Subs picnic campaign. It is no secret that Austin is known for its amazing parks, and it was fun to run around the city, sandwich in tow, on behalf of TCloud. Most of these pics hail from &lt;a href=&quot;http://www.austinchronicle.com/news/2009-04-17/767852/&quot; target=&quot;_blank&quot;&gt;East Austin pocket parks&lt;/a&gt;, and of course, &lt;a href=&quot;http://austintexas.gov/department/zilker-metropolitan-park&quot; target=&quot;_blank&quot;&gt;Zilker&lt;/a&gt; is featured prominently. The only snafu I encountered on this adventure was the sheer number of dogs interested in my sandwiches!&lt;/p&gt;
+&lt;p&gt;Additionally, here are a few Instagram photos I created for ThunderCloud Subs picnic campaign. It is no secret that Austin is known for its amazing parks, and it was fun to run around the city, sandwich in tow, on behalf of TCloud. Most of these pics hail from &lt;a href=&quot;https://www.austinchronicle.com/news/2009-04-17/767852/&quot; target=&quot;_blank&quot;&gt;East Austin pocket parks&lt;/a&gt;, and of course, &lt;a href=&quot;https://austintexas.gov/department/zilker-metropolitan-park&quot; target=&quot;_blank&quot;&gt;Zilker&lt;/a&gt; is featured prominently. The only snafu I encountered on this adventure was the sheer number of dogs interested in my sandwiches!&lt;/p&gt;
 &lt;div class=&quot;img_row&quot;&gt;
 	&lt;img class=&quot;col one&quot; src=&quot;/img/Tcloud-Export%20copy%204.png&quot; alt=&quot;&quot; title=&quot;example image&quot; /&gt;
 	&lt;img class=&quot;col one&quot; src=&quot;/img/Tcloud-Export%20copy%205.png&quot; alt=&quot;&quot; title=&quot;example image&quot; /&gt;
@@ -443,7 +443,7 @@ In some ways I am relieved that this project beat me to the punch. For one thing
 &amp;nbsp;
 &lt;/div&gt;
 
-&lt;p&gt;The theme I pursued with this project was “classic guide book”. Inspired by the likes of &lt;a href=&quot;https://fieldnotesbrand.com/products/drive&quot; target=&quot;_blank&quot;&gt;Field Notes&lt;/a&gt;, &lt;a href=&quot;http://99percentinvisible.org/episode/the-green-book/&quot; target=&quot;_blank&quot;&gt;Green Books&lt;/a&gt;, and &lt;a href=&quot;http://www.michaelschwab.com/posters.html&quot; target=&quot;_blank&quot;&gt;Michael Schwab Illustrations&lt;/a&gt;. The icons above are from the &lt;a href=&quot;https://thenounproject.com/edward/collection/national-park-service/&quot; target=&quot;_blank&quot;&gt;US Parks Service&lt;/a&gt; and denote assignments and themes on each project page.&lt;/p&gt;
+&lt;p&gt;The theme I pursued with this project was “classic guide book”. Inspired by the likes of &lt;a href=&quot;https://fieldnotesbrand.com/products/drive&quot; target=&quot;_blank&quot;&gt;Field Notes&lt;/a&gt;, &lt;a href=&quot;https://99percentinvisible.org/episode/the-green-book/&quot; target=&quot;_blank&quot;&gt;Green Books&lt;/a&gt;, and &lt;a href=&quot;https://www.michaelschwab.com/posters.html&quot; target=&quot;_blank&quot;&gt;Michael Schwab Illustrations&lt;/a&gt;. The icons above are from the &lt;a href=&quot;https://thenounproject.com/edward/collection/national-park-service/&quot; target=&quot;_blank&quot;&gt;US Parks Service&lt;/a&gt; and denote assignments and themes on each project page.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;col three lazyload&quot; data-src=&quot;https://www.ericmoe.co/img/guide3.JPG&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
@@ -482,7 +482,7 @@ In some ways I am relieved that this project beat me to the punch. For one thing
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
 &lt;/div&gt;
-&lt;p&gt;I handled the beginings of this project and the wonderful &lt;a href=&quot;http://www.allenquigley.com/&quot; target=&quot;_blank&quot;&gt;Allen Quigley&lt;/a&gt; finished it. Although pretty corporate and design-by-committee, I felt as though I learned a lot.&lt;/p&gt;
+&lt;p&gt;I handled the beginings of this project and the wonderful &lt;a href=&quot;https://www.allenquigley.com/&quot; target=&quot;_blank&quot;&gt;Allen Quigley&lt;/a&gt; finished it. Although pretty corporate and design-by-committee, I felt as though I learned a lot.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;col three lazyload&quot; data-src=&quot;https://www.ericmoe.co/img/utfall7.jpg&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
@@ -580,14 +580,14 @@ So when we were tasked with redesigning a common tool, I scratched my freshly sh
 
 &lt;/div&gt;
 
-&lt;p&gt;Here’s an unexpected project. As I was recovering from the intense Impact Report, I was given what seemed like a tiny assignment for UT’s own Liberal Arts Magazine. No, I was not given the cover of &lt;a href=&quot;http://cenjun.com/&quot; target=&quot;_blank&quot;&gt;Life &amp;amp; Letters&lt;/a&gt;—thanks for nothing Jun Cen—but the editorial illustration has been a worthwhile experience I hope to pursue in the future.&lt;/p&gt;
+&lt;p&gt;Here’s an unexpected project. As I was recovering from the intense Impact Report, I was given what seemed like a tiny assignment for UT’s own Liberal Arts Magazine. No, I was not given the cover of &lt;a href=&quot;https://cenjun.com/&quot; target=&quot;_blank&quot;&gt;Life &amp;amp; Letters&lt;/a&gt;—thanks for nothing Jun Cen—but the editorial illustration has been a worthwhile experience I hope to pursue in the future.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;col three lazyload&quot; data-src=&quot;https://www.ericmoe.co/img/ll1.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
 &amp;nbsp;
 &lt;/div&gt;
 
-&lt;p&gt;Here’s a little collab between &lt;a href=&quot;http://www.allenquigley.com/&quot; target=&quot;_blank&quot;&gt;Allen Quigley&lt;/a&gt; and I. He covered the colors while I created the icons.&lt;/p&gt;
+&lt;p&gt;Here’s a little collab between &lt;a href=&quot;https://www.allenquigley.com/&quot; target=&quot;_blank&quot;&gt;Allen Quigley&lt;/a&gt; and I. He covered the colors while I created the icons.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;col three lazyload&quot; data-src=&quot;https://www.ericmoe.co/img/ll4.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;col three caption&quot;&gt;
@@ -728,11 +728,11 @@ So when we were tasked with redesigning a common tool, I scratched my freshly sh
 
 &lt;p&gt;The dust has settled on the Fall Semester— and what a semester it’s been. Fall 2016 was officially the beginning of my design coursework at UT. Having completed all my preliminary work, I was free to take courses on graphic design, typography, and product design. On top of that, I worked two jobs, finished this website, and completed some top notch design work that I will post soon.&lt;/p&gt;
 
-&lt;p&gt;I have been eagerly awaiting college design classes since the seventh grade, and I am happy to report that all three were fantastic. &lt;a href=&quot;http://www.husbandmen.com/&quot; target=&quot;_blank&quot;&gt;JimJames Walker’s&lt;/a&gt; Images in Communication was my straight graphic design course, covering Adobe Illustrator, Photoshop, RAW photography, and Indesign, to name a few programs. Alyson Beaton’s &lt;a href=&quot;https://abeatontype.wordpress.com/&quot; target=&quot;_blank&quot;&gt;Typography I&lt;/a&gt; class had me putting layouts and books together with my favorite fonts. I even designed a &lt;a href=&quot;http://localhost:4000/portfolio/2016-11-28-razor-website/&quot;&gt;new kind of razor&lt;/a&gt; for Kate Catterall’s Introduction to Design Thinking.&lt;/p&gt;
+&lt;p&gt;I have been eagerly awaiting college design classes since the seventh grade, and I am happy to report that all three were fantastic. &lt;a href=&quot;https://www.husbandmen.com/&quot; target=&quot;_blank&quot;&gt;JimJames Walker’s&lt;/a&gt; Images in Communication was my straight graphic design course, covering Adobe Illustrator, Photoshop, RAW photography, and Indesign, to name a few programs. Alyson Beaton’s &lt;a href=&quot;https://abeatontype.wordpress.com/&quot; target=&quot;_blank&quot;&gt;Typography I&lt;/a&gt; class had me putting layouts and books together with my favorite fonts. I even designed a &lt;a href=&quot;http://localhost:4000/portfolio/2016-11-28-razor-website/&quot;&gt;new kind of razor&lt;/a&gt; for Kate Catterall’s Introduction to Design Thinking.&lt;/p&gt;
 
-&lt;p&gt;In other news, I wrapped up my job at &lt;a href=&quot;http://www.brendathompson.com/&quot; target=&quot;_blank&quot;&gt;Brenda Thompson Communications&lt;/a&gt;. Stay tuned for a post about the &lt;a href=&quot;https://issuu.com/lifeandletters/docs/ll_fall2016_issu&quot; target=&quot;_blank&quot;&gt;Life and Letters Magazine&lt;/a&gt; illustrations I did for UT Liberal Arts.&lt;/p&gt;
+&lt;p&gt;In other news, I wrapped up my job at &lt;a href=&quot;https://www.brendathompson.com/&quot; target=&quot;_blank&quot;&gt;Brenda Thompson Communications&lt;/a&gt;. Stay tuned for a post about the &lt;a href=&quot;https://issuu.com/lifeandletters/docs/ll_fall2016_issu&quot; target=&quot;_blank&quot;&gt;Life and Letters Magazine&lt;/a&gt; illustrations I did for UT Liberal Arts.&lt;/p&gt;
 
-&lt;p&gt;A big milestone this semester was the sophomore review. In what seemed like the busiest day of my life, I presented my design pieces to the &lt;a href=&quot;http://art.utexas.edu/academics/design-faculty&quot; target=&quot;_blank&quot;&gt;UT design faculty&lt;/a&gt; for evaluation. We had a great conversation, the feedback was helpful, and I am happy to report that I am on track to graduate. I also added this “script” I prepared that might give you an idea of how it went down:&lt;/p&gt;
+&lt;p&gt;A big milestone this semester was the sophomore review. In what seemed like the busiest day of my life, I presented my design pieces to the &lt;a href=&quot;https://art.utexas.edu/academics/design-faculty&quot; target=&quot;_blank&quot;&gt;UT design faculty&lt;/a&gt; for evaluation. We had a great conversation, the feedback was helpful, and I am happy to report that I am on track to graduate. I also added this “script” I prepared that might give you an idea of how it went down:&lt;/p&gt;
 
 &lt;hr /&gt;
 

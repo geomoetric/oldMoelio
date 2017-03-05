@@ -33,7 +33,7 @@ A little introductory commentary by my brother and I. My philosophy on these int
 &nbsp;
 </div>
 
-The theme I pursued with this project was "classic guide book". Inspired by the likes of [Field Notes](https://fieldnotesbrand.com/products/drive){:target="_blank"}, [Green Books](http://99percentinvisible.org/episode/the-green-book/){:target="_blank"}, and [Michael Schwab Illustrations](http://www.michaelschwab.com/posters.html){:target="_blank"}. The icons above are from the [US Parks Service](https://thenounproject.com/edward/collection/national-park-service/){:target="_blank"} and denote assignments and themes on each project page.
+The theme I pursued with this project was "classic guide book". Inspired by the likes of [Field Notes](https://fieldnotesbrand.com/products/drive){:target="_blank"}, [Green Books](https://99percentinvisible.org/episode/the-green-book/){:target="_blank"}, and [Michael Schwab Illustrations](https://www.michaelschwab.com/posters.html){:target="_blank"}. The icons above are from the [US Parks Service](https://thenounproject.com/edward/collection/national-park-service/){:target="_blank"} and denote assignments and themes on each project page.
 
 <img class="col three lazyload" data-src="{{ site.imgurl }}/img/guide3.JPG">
 <div class="col three caption">

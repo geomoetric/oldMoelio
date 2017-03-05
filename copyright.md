@@ -8,10 +8,10 @@ sitemap: main
 <h3>Copyright&nbsp;©{{ site.time | date: '%Y' }} {{ site.name | replace:' ','&nbsp;' }} Some&nbsp;Rights&nbsp;Reserved</h3> 
 <br>
 <span class="contacticon center">
-  <img src="http://mirrors.creativecommons.org/presskit/icons/cc.svg"/>
-  <img src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
-  <img src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
-  <img src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
+  <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"/>
+  <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg"/>
+  <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
+  <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
 </span>
 <br>
 **TLDR:** This site’s code is licensed under the MIT license, and the images/blog content are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.

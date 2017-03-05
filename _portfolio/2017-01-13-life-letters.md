@@ -12,14 +12,14 @@ share: portfolio
 
 </div>
 
-Here's an unexpected project. As I was recovering from the intense Impact Report, I was given what seemed like a tiny assignment for UT's own Liberal Arts Magazine. No, I was not given the cover of [Life & Letters](http://cenjun.com/){:target="_blank"}—thanks for nothing Jun Cen—but the editorial illustration has been a worthwhile experience I hope to pursue in the future.
+Here's an unexpected project. As I was recovering from the intense Impact Report, I was given what seemed like a tiny assignment for UT's own Liberal Arts Magazine. No, I was not given the cover of [Life & Letters](https://cenjun.com/){:target="_blank"}—thanks for nothing Jun Cen—but the editorial illustration has been a worthwhile experience I hope to pursue in the future.
 
 <img class="col three lazyload" data-src="{{ site.imgurl }}/img/ll1.jpg" alt="" title="{{ project.title }}"/>
 <div class="col three caption">
 &nbsp;
 </div>
 
-Here's a little collab between [Allen Quigley](http://www.allenquigley.com/){:target="_blank"} and I. He covered the colors while I created the icons.
+Here's a little collab between [Allen Quigley](https://www.allenquigley.com/){:target="_blank"} and I. He covered the colors while I created the icons.
 
 <img class="col three lazyload" data-src="{{ site.imgurl }}/img/ll4.jpg" alt="" title="{{ project.title }}">
 <div class="col three caption">

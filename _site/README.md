@@ -1,5 +1,5 @@
 # *Moe-lio
-An update to Lia Bogoev's "<a href="http://liabogoev.com/-folio">-folio</a>" theme. 
+An update to Lia Bogoev's "<a href="https://liabogoev.com/-folio">-folio</a>" theme. 
 
 
 <a href="https://ericmoe.github.io/">Live Demo</a>
