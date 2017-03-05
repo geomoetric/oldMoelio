@@ -1,0 +1,41 @@
+<type>(<scope>): <subject>
+
+<body>
+
+<footer>
+
+# Using the Angular Commit Message Conventions:
+#
+# Types:
+# - feat (feature)
+# - fix (bug fix)
+# - docs (documentation)
+# - style (formatting, missing semi colons, …)
+# - refactor
+# - test (when adding missing tests)
+# - chore (maintain)
+# - post (personal, used for the posts)
+# 
+# Scope:
+# - Anything specifying place of the commit change. 
+# - For example $location, $browser, $compile, $rootScope, ngHref, ngClick, ngView, etc...
+# 
+# Subject:
+# - use imperative, present tense: “change” not “changed” nor “changes”
+# - don't capitalize first letter
+# - no dot (.) at the end
+# 
+# Body:
+# - just as in use imperative, present tense: “change” not “changed” nor “changes”
+# - includes motivation for the change and contrasts with previous behavior
+# 
+# Footer:
+# - All breaking changes have to be mentioned in footer with the description of the change, justification and migration notes
+# - Closed bugs should be listed on a separate line in the footer prefixed with "Closes" keyword.
+# 
+# Notes:
+# - Try to use as many <sections> as possible, but for small changes like formatting, then dont worry about it.
+# 
+# Path example: $ git config --global commit.template ~/.gitmessage.txt
+#
+# Link: https://gist.github.com/stephenparish/9941e89d80e2bc58a153
