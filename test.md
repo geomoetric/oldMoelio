@@ -20,7 +20,7 @@ image: /img/test.png
     description: Markdown/Kramdown style guide.
     published: true
     image: /img/test.png
-    share: twitter --twitter-hashtags
+    share: facebook portfolio twitter --twitter-hashtags
     tags: te$t
     ---
 

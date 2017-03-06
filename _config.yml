@@ -6,8 +6,8 @@ description: The design portfolio of Eric Moe.
 baseurl:  # https://ericmoe.co
 prof_pic:   /img/prof_pic.jpg
 
-# Your site's domain goes here (eg: https://yourusername.github.io, http://yourdomain.com, etc)
-# When testing locally leave blank or use http://localhost:4000
+# Your site's domain goes here (eg: https://yourusername.github.io, https://yourdomain.com, etc)
+# When testing locally leave blank or use https://localhost:4000
 url:  #https://www.ericmoe.co #the base hostname & protocol for your site
 
 imgurl: https://www.ericmoe.co
@@ -21,7 +21,7 @@ stackexchange:
 linkedin:   https://www.linkedin.com/in/geomoetric
 instagram:  https://www.instagram.com/geomoetric/
 flickr:         
-tumblr: http://geomoetric.tumblr.com/
+tumblr: https://geomoetric.tumblr.com/
 dribbble:   https://dribbble.com/geomoetric/
 pinterest:  https://www.pinterest.com/geomoetric/
 reddit: https://www.reddit.com/user/geomoetric/
@@ -53,7 +53,7 @@ social:
     - https://www.linkedin.com/in/geomoetric
     - https://github.com/geomoetric
     - https://www.instagram.com/geomoetric/
-    - http://geomoetric.tumblr.com/
+    - https://geomoetric.tumblr.com/
     - https://dribbble.com/geomoetric/
     - https://www.pinterest.com/geomoetric/
     - https://www.reddit.com/user/geomoetric/
@@ -66,7 +66,7 @@ twitter_format: "@title: @url@tags"
 twitter_url_length: 22
 twitter_max_length: 140
 
-#   http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#   https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:   America/Chicago
 future: false  # publish future dated posts --  true, false (default) 
 
