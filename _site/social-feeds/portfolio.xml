@@ -5,8 +5,8 @@
     <description>The design portfolio of Eric Moe.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Mar 2017 15:32:38 -0600</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 15:32:38 -0600</lastBuildDate>
+    <pubDate>Tue, 07 Mar 2017 14:41:13 -0600</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 14:41:13 -0600</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
     
@@ -705,6 +705,43 @@ So when we were tasked with redesigning a common tool, I scratched my freshly sh
             <pubDate>Sat, 14 Jan 2017 20:00:00 -0600</pubDate>
             <link>http://localhost:4000/portfolio/2017-01-14-westie/</link>
             <guid isPermaLink="true">http://localhost:4000/portfolio/2017-01-14-westie/</guid>
+            
+            
+        </item>
+        
+    
+        
+
+        
+
+        
+        <item>
+            <title>UT &quot;Arc&quot; Poster: /portfolio/2017-03-06-arc/ #architecture #utaustin</title>
+            <description>&lt;p&gt;&lt;img class=&quot;col three lazyload&quot; data-src=&quot;https://www.ericmoe.co/img/arcweb2.png&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;col three caption&quot;&gt;
+&amp;nbsp;
+&lt;/div&gt;
+
+&lt;p&gt;I am nothing if not a fan of classic art school projects, yet I seem to always miss the professors who assign them. I have never been charged to draw 1000 circles, or 500 hands, or set the &lt;a href=&quot;https://studyingdesign.wordpress.com/2009/03/30/five-classic-typefaces/&quot;&gt;five classic type faces&lt;/a&gt;{target=”_blank”}.&lt;/p&gt;
+
+&lt;p&gt;So imagine my delight when we were assigned to set the type for &lt;a href=&quot;https://soa.utexas.edu/life-work/events&quot;&gt;UT’s Architecture Lecture Series&lt;/a&gt;{target=”_blank”}, a time-tested assignment for all designers! My design was heavily inspired by Michael Beirut’s run of &lt;a href=&quot;https://architecture.yale.edu/school/publications/poster-archive&quot;&gt;Yale Architecture Lecture posters&lt;/a&gt;{target=”_blank”}. I love working in black and white, and I enjoyed playing with a minimal typographic sensibility.&lt;/p&gt;
+
+&lt;div class=&quot;img_row&quot;&gt;
+	&lt;img class=&quot;col one lazyload&quot; data-src=&quot;https://www.ericmoe.co/img/arcweb3.png&quot; alt=&quot;&quot; title=&quot;westie sticker&quot; /&gt;
+    &lt;img class=&quot;col two lazyload&quot; data-src=&quot;https://www.ericmoe.co/img/arcweb4.png&quot; alt=&quot;&quot; title=&quot;westie sticker&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col three caption&quot;&gt;
+&amp;nbsp;
+&lt;/div&gt;
+
+&lt;p&gt;Here are a few details of the letters as buildings. I wanted to convey the line quality that unifies these UT lecturers in their architectural work. This &lt;em&gt;abstract letter as building as architectural plan as three-dimensional space&lt;/em&gt; seemed to do the trick. Plus, this poster looks fantastic from far away— with college kids you have to do everything you can to snatch their eyes from their phones or your poster will not work.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 06 Mar 2017 15:35:00 -0600</pubDate>
+            <link>http://localhost:4000/portfolio/2017-03-06-arc/</link>
+            <guid isPermaLink="true">http://localhost:4000/portfolio/2017-03-06-arc/</guid>
+            
+            <category>architecture</category>
+            
+            <category>utaustin</category>
             
             
         </item>
