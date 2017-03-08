@@ -19,7 +19,7 @@ Here's an unexpected project. As I was recovering from the intense Impact Report
 &nbsp;
 </div>
 
-Here's a little collab between [Allen Quigley](https://www.allenquigley.com/){:target="_blank"} and I. He covered the colors while I created the icons.
+Here's a little collab between [Allen Quigley](https://www.allenquigley.com/){:target="_blank"} and me. He covered the colors while I created the icons.
 
 <img class="col three lazyload" data-src="{{ site.imgurl }}/img/ll4.jpg" alt="" title="{{ project.title }}">
 <div class="col three caption">
@@ -41,7 +41,7 @@ Benny Franks has seen better days, but I believe this quick illustration turned 
 &nbsp;
 </div>
 
-On the bottom left corner you will find another quick illustration. Notice the coat hanger question mark— perhapst its too subtle!
+On the bottom left corner you will find another quick illustration. Notice the coat hanger question mark— perhaps it's too subtle!
 
 <img class="col three lazyload" data-src="{{ site.imgurl }}/img/ll3.jpg" alt="" title="{{ project.title }}">
 <div class="col three caption">
