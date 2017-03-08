@@ -11,7 +11,7 @@ share: portfolio
 <div class="col three caption">
 &nbsp;
 </div>
-Here is the behemoth of the fall 2016 semester— at my UT job, this was top priority for two months. The Annual Impact Report summarizes donor support and scholarly initiatives of the school year for UT's very own Department of Liberal Arts. 
+Here is the behemoth of the fall 2016 semester— at my UT job, this was top priority for two months. The Annual Impact Report summarizes donor support and scholarly initiatives of the school year for UT's very own College of Liberal Arts. 
 
 
 <img class="col three lazyload" data-src="{{ site.imgurl }}/img/utfall8.jpg">
