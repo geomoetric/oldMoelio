@@ -26,7 +26,7 @@ Well at least I can show off these intro pages. You can find the various chapter
 &nbsp;
 </div>
 
-A little introductory commentary by my brother and I. My philosophy on these intro pages was that I did not want to waste precious design material before diving into the semester. I figured that I would include a few goofy pictures of myself at twenty, for something to look back upon, and as a joke for my classmates in the final critique.
+A little introductory commentary by my brother and me. My philosophy on these intro pages was that I did not want to waste precious design material before diving into the semester. I figured that I would include a few goofy pictures of myself at twenty, for something to look back upon, and as a joke for my classmates in the final critique.
 
 <img class="col three lazyload" data-src="{{ site.imgurl }}/img/guidesp3.png">
 <div class="col three caption">
