@@ -24,7 +24,7 @@ image: /img/twitter-image.jpg
 <hr/>
 <br/>
 
-<h3>Administrative assistant at <a href="https://www.brendathompson.com/" target="blank">Brenda Thompson Communications</a></h3>
+<h3>Administrative Assistant at <a href="https://www.brendathompson.com/" target="blank">Brenda Thompson Communications</a></h3>
 <h4>May '16—Dec '16</h4>
 <br/>
 <ul>
