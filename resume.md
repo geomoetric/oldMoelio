@@ -16,9 +16,9 @@ image: /img/twitter-image.jpg
 <h4>May '16—Present</h4>
 <br/>
 <ul>
-<li>Designed editorial illustrations for <a href="/portfolio/2017-01-13-life-letters/">Life and Letters magazine</a>.</li>
-<li>Created <a href="/portfolio/2016-11-02-ut-postcard/">cards</a> and <a href="/portfolio/2016-12-30-ut-xmas-card/">print media</a> for Liberal Arts Development.</li>
-<li>Launched the Liberal Arts 2016 <a href="/portfolio/2017-01-10-ut-annual-impact/">Annual Impact Report</a>.</li>
+<li>Designed editorial illustrations for articles in <a href="/portfolio/2017-01-13-life-letters/">Life and Letters magazine</a>.</li>
+<li>Created UT branded <a href="/portfolio/2016-11-02-ut-postcard/">cards</a> and <a href="/portfolio/2016-12-30-ut-xmas-card/">print media</a> for Liberal Arts Development.</li>
+<li>Launched an <a href="/portfolio/2017-01-10-ut-annual-impact/">Impact Report</a> in concert with all Liberal Arts departments.</li>
 </ul>
 <br/>
 <hr/>
@@ -41,8 +41,8 @@ image: /img/twitter-image.jpg
 <br/>
 <ul>
 <li>Designed print, web, and branding material for a local non-profit art gallery and arts advocacy group.</li>
-<li>Managed data entry and photo organization for the website.</li>
-<li>Researched and proposed resources for a high school outreach program.</li>
+<li>Managed data and image entry for their website and online store.</li>
+<li>Proposed resources for a high school arts education program in East Austin.</li>
 <li>Recorded notes at board member meetings.</li>
 </ul>
 <br/>
