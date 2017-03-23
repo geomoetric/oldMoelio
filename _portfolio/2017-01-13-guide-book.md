@@ -45,4 +45,4 @@ The theme I pursued with this project was "classic guide book". Inspired by the 
 &nbsp;
 </div>
 
-Plus, I got to create the book in real life! It miraculously exists in this french folded form  thanks to Elmer's glue and the book press I believe I used incorrectly. I love the way it turned out and I hope more print media is in my future.
+Plus, I got to create the book in real life! It miraculously exists in this French-folded form thanks to Elmer's glue and the book press I believe I used incorrectly. I love the way it turned out and I hope more print media is in my future.
