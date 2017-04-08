@@ -5,6 +5,7 @@ date: '2016-10-21 00:00:00 -0500'
 description: Markdown/Kramdown style guide.
 published: true
 image: /img/test.png
+share: facebook portfolio twitter
 ---
 
 <img class="col three" src="/img/donezoweb.jpg">
