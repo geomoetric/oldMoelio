@@ -62,7 +62,7 @@ social:
 google_verify:
 
 # Jekyll auto social
-twitter_format: "@title: @url@tags"
+twitter_format: "@title @url@tags"
 twitter_url_length: 22
 twitter_max_length: 140
 
