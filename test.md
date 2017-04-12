@@ -23,9 +23,9 @@ image: /img/test.png
     description: Markdown/Kramdown style guide.
     published: true
     image: /img/test.png
-    share: facebook portfolio twitter --twitter-hashtags
-    tags: te$t #go ahead and always tag something
-    ---
+    share: facebook portfolio twitterhashtags
+    #include '--twitter- title' if you want the title entry on the xml to be the title. The default behavior is to append the description, url, and hashtsgs into one tweet.
+    tags: te$t
 
 
 # Default Markdown/Kramdown
