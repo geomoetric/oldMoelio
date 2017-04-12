@@ -45,7 +45,7 @@ My original color choice... I'm still a fan.</div>
 
 Our solution was to produce a muted red color that printed well and satisfied all concerns. I think that both director and designer got a lot out of this collaboration. Those directors will understand the choices made by future poster designers, and I have a new appreciation for humanity both near and far.
 
-<img class="col three lazyload" src="/img/play3.jpg">
+<img class="col three lazyload" src="/img/play-6.jpg">
 <div class="col three caption">
 &nbsp;
 </div>
