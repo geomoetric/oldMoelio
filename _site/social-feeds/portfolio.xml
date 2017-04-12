@@ -5,12 +5,9 @@
     <description>The design portfolio of Eric Moe.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Apr 2017 12:14:43 -0500</pubDate>
-    <lastBuildDate>Wed, 12 Apr 2017 12:14:43 -0500</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2017 13:20:53 -0500</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2017 13:20:53 -0500</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
-    
-    
-    
     
     
       
@@ -18,17 +15,7 @@
         
 
         
-
-        
     
-        
-
-        
-
-        
-    
-        
-
         
 
         
@@ -36,11 +23,11 @@
         
 
         
-
-        
     
         
 
+        
+    
         
 
         
@@ -58,8 +45,6 @@
         
 
         
-
-        
         <item>
             <title>A-Z Austin Type</title>
             <description>The ABC's of Austin.</description>
@@ -71,8 +56,6 @@
         </item>
         
     
-        
-
         
 
         
@@ -90,8 +73,6 @@
         
 
         
-
-        
         <item>
             <title>Political Grid Posters</title>
             <description>A voter advocacy poster.</description>
@@ -103,8 +84,6 @@
         </item>
         
     
-        
-
         
 
         
@@ -122,8 +101,6 @@
         
 
         
-
-        
         <item>
             <title>Thunder&lt;wbr&gt;Cloud</title>
             <description>Infographics and picnics for TCloud Subs.</description>
@@ -135,8 +112,6 @@
         </item>
         
     
-        
-
         
 
         
@@ -154,8 +129,6 @@
         
 
         
-
-        
         <item>
             <title>Merry Xmas from Moe!</title>
             <description>Tribute to the polar bear plunge.</description>
@@ -167,8 +140,6 @@
         </item>
         
     
-        
-
         
 
         
@@ -186,8 +157,6 @@
         
 
         
-
-        
         <item>
             <title>UT Annual Impact Report</title>
             <description>Layouts and spreads from my first major InDesign project.</description>
@@ -199,8 +168,6 @@
         </item>
         
     
-        
-
         
 
         
@@ -218,8 +185,6 @@
         
 
         
-
-        
         <item>
             <title>Life &amp; Letters Fall 2016</title>
             <description>Illustrations commissioned for UT's Liberal Arts Magazine.</description>
@@ -231,8 +196,6 @@
         </item>
         
     
-        
-
         
 
         
@@ -250,10 +213,8 @@
         
 
         
-
-        
         <item>
-            <title>UT &quot;Arc&quot; Poster: /portfolio/2017-03-06-arc/ #architecture #utaustin</title>
+            <title>UT &quot;Arc&quot; Poster</title>
             <description>My take on UT's Architecture Lecture Series poster.</description>
             <pubDate>Mon, 06 Mar 2017 15:42:00 -0600</pubDate>
             <link>http://localhost:4000/portfolio/2017-03-06-arc/</link>
@@ -269,6 +230,20 @@
     
         
 
+        
+        <item>
+            <title>RSS TEST</title>
+            <description>RSS Test Description.</description>
+            <pubDate>Wed, 12 Apr 2017 10:27:00 -0500</pubDate>
+            <link>http://localhost:4000/portfolio/2017-03-08-RSS%20test/</link>
+            <guid isPermaLink="true">http://localhost:4000/portfolio/2017-03-08-RSS%20test/</guid>
+            
+            <category>te$t</category>
+            
+            
+        </item>
+        
+    
         
 
         
@@ -287,8 +262,6 @@
     
 
     
-        
-
         
 
         

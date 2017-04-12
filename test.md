@@ -5,7 +5,6 @@ date: '2016-10-21 00:00:00 -0500'
 description: Markdown/Kramdown style guide.
 published: true
 image: /img/test.png
-share: facebook portfolio twitter
 ---
 
 <img class="col three" src="/img/donezoweb.jpg">
@@ -17,12 +16,15 @@ share: facebook portfolio twitter
     ---
     layout: post (found under layouts)
     title: Style Guide
-    date: '2016-10-21 00:00:00 -0500' (or S for texas)
+    # 'yyyy-mm-dd hh:mm:ss -0500'
+    date: '2016-10-21 09:30:00 -0500' 
+    # or R for texas
+    date: '2016-10-21T09:30:00R'
     description: Markdown/Kramdown style guide.
     published: true
     image: /img/test.png
     share: facebook portfolio twitter --twitter-hashtags
-    tags: te$t
+    tags: te$t #go ahead and always tag something
     ---
 
 
