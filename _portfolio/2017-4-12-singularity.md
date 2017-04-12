@@ -33,7 +33,7 @@ This is a meaningful play created by passionate people, and a recent [article](h
 Design-wise, this was a rush job. The theater department is fast, loose, and behind on their deadlines, so imagine four day turn arounds followed by weeks of silence. They would not give us the dates of the play until the day the poster was due!
 
 
-The hijab was at points a source of contention. Directors are often interested in literal representation in their posters, aka this prop needs to be the same color on the poster. However, the suggested color provided to me (Pantone 1245c aka "Old Yellow" displayed on the left) was a nonstarter.
+The hijab was at points a source of contention. Directors are often interested in literal representation in their posters, aka this hijab on the poster needs to be the same color as the literal prop used in the play. However, the suggested color provided to me (Pantone 1245c known as "Old Yellow", displayed on the left) was a nonstarter.
 
 Let me be clear, I have no intention to misrepresent traditional  Syrian clothing, but there were issues with the mustard yellow:
 1. This yellow was impossible to reproduce on a [risograph print](https://hatopress.net/printing/)— the eco-friendly printing method I created these posters with.
