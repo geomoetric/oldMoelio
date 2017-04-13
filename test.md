@@ -26,7 +26,11 @@ image: /img/test.png
     share: facebook portfolio twitterhashtags
     #include '--twitter- title' if you want the title entry on the xml to be the title. The default behavior is to append the description, url, and hashtsgs into one tweet.
     tags: te$t
+    ___
 
+<br/>
+<hr/>
+<br/>
 
 # Default Markdown/Kramdown
 

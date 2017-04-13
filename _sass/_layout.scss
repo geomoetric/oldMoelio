@@ -28,7 +28,7 @@ color: $theme-color;
 float: right;
 line-height: $nav-height;
 .page-link{
-line-height: $base-line-height;
+line-height: $baseLineHeight;
         // Gaps between nav items, but not on the first one
 &:not(:first-child) {
 margin-left: 10px;

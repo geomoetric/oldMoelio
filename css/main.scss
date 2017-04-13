@@ -3,13 +3,17 @@
 ---
 @charset "utf-8";
 
+// Typesetting variables. Edit these!
+$baseFontFamily: Work Sans, Helvetica, sans-serif;
+$baseFontSize: 22; // in pixels. This would result in 22px on desktop
+$baseLineHeight: 1.5; // how large the line height is as a multiple of font size
+$leading: $baseLineHeight * 1rem;
 
+// Rate of growth for headings
+// I actually like this to be slightly smaller then the leading. Makes for tight headings.
+$scale: 1.414;
 
-// Our variables
-$base-font-family: Work Sans, Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$small-font-size:  $baseFontSize * 0.875;
 
 $spacing-unit:     30px;
 
