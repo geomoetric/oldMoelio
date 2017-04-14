@@ -218,7 +218,7 @@ h6 {
     margin-top: $leading;
     margin-bottom: 0;
     line-height: $leading;
-    font-weight:normal
+    font-weight: 500;
 }
 h1 {
     font-size: 3 * $scale * 1rem;
@@ -271,6 +271,10 @@ code {
     margin-top: 0;
 }
 
+/**
+ * end typebass.css   **********************************************************
+ */
+
   /**
  * Code formatting
  */
@@ -296,6 +300,48 @@ pre {
         padding-left: 0;
     }
 }
+
+/**
+ * Links
+ */
+a {
+    color: $text-color;
+    text-decoration: none;
+    /*
+    &:visited {
+        color: darken($brand-color, 15%); 
+    }
+    */
+    &:hover {
+        color: $theme-color;
+        text-decoration: none;
+    }
+}
+
+article a {
+    color: $theme-color;
+    font-weight: 100;
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+footer a {
+    color: #aaa;
+    text-decoration: none;
+    /*
+    &:visited {
+        color: darken($brand-color, 15%); 
+    }
+    */
+    &:hover {
+        color: $theme-color;
+        text-decoration: none;
+    }
+}
+
+
 
 /**
  * _layout.scss   **********************************************************
@@ -420,11 +466,11 @@ color: $theme-color;
 /**
  * Page content   **********************************************************
  */
-.page-content {
+.page-content {  
 padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 .page-heading {
-font-size: 20px;
+/* font-size: 20px; */
 }
 .post-list {
 margin: 0px 0;
@@ -457,7 +503,7 @@ font-size: 42px;
 letter-spacing: -1px;
 line-height: 1;
 }
-.post-content {
+.post-content { /*
 h2 {
 font-size: 42px;
 }
@@ -469,7 +515,7 @@ font-size: 20px;
     }
 h5 {
 font-size: 16px;
-    }
+    } */
 }
 .post-meta {
 font-size: $small-font-size;
@@ -478,7 +524,7 @@ margin-bottom: 0px;
 }
 .post-link {
 display: block;
-font-size: 42px;
+/* font-size: 42px; */
 }
 
 /** Poem formatting ********************************************/
