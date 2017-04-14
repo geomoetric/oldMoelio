@@ -305,15 +305,14 @@ pre {
  * Links
  */
 a {
-    color: $text-color;
+    color: $theme-color;
     text-decoration: none;
-    /*
+
     &:visited {
         color: darken($brand-color, 15%); 
     }
-    */
     &:hover {
-        color: $theme-color;
+        color: lighten($theme-color, 15%);
         text-decoration: none;
     }
 }
