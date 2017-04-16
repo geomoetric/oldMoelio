@@ -414,21 +414,14 @@ font-size: $caption_font_size;
 	height: 100%;
 }
 
+/** 
+ * Img full width
+**********************************************************
+*/
 
 .img_full img {
     max-width: 100%;
 }
 
-/** 
- * Framer
-**********************************************************
-*/
 
-.framer iframe {
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  border: none;
-}
+
