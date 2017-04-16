@@ -14,4 +14,4 @@ framer: Jason_UI.framer
     
 heres what this looks like?
 
-{% include framer.html %}
+<iframe class="lazyload" src="/Jason_UI/index.html" width="100%" height="800px" frameBorder="0"></iframe>
