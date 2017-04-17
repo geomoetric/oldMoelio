@@ -6,6 +6,7 @@ description: Adventures in Play Poster Design
 published: true
 image: /img/playweb.jpg
 share: portfolio
+redirect_from: /portfolio/2017-4-12-singularity
 ---
 
 <img class="col three lazyload" src="/img/play6.jpg">
