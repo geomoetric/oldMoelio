@@ -12,7 +12,7 @@ image: /img/test.png
 &nbsp;
 </div>
 
-# Default Front Matter
+## Default Front Matter
     ---
     layout: post
     title: Style Guide
@@ -32,31 +32,23 @@ image: /img/test.png
 
     # Auto Sharing:
     # include '--twitter- title' if you want the title entry on the xml to be the title. The default behavior is to append the description, url, and hashtsgs into one tweet.
-# Default Markdown/Kramdown
+
+## Default Markdown/Kramdown
 
 If your markdown/kramdown isn't working, do not despair! You probably have to add some line spacing [enter] between elements.
-<hr/>
+
 <br/>
+<hr/>
 
 # H1 header
 
-<br/>
-
 ## H2 header
-
-<br/>
 
 ### H3 header
 
-<br/>
-
 #### H4 header
 
-<br/>
-
 ##### H5 header
-
-<br/>
 
 ###### H6 header
 
@@ -157,8 +149,18 @@ ___
 | Foot1   | Foot2   | Foot3
 
 <br/>
-
-# Framer embed:
+<hr/>
+## Brand Colors:
+<img class="col one lazyload" src="/img/lq.png">
+### RGB: 73 103 170
+### HEX/HTML: 4967AA 
+### CMYK: 86 52 0 0
+### PANTONE: 661 U
+### [LINK TO COLOR INFO](https://www.pantone.com/color-finder/661-U)
+<br/>
+<hr/>
+<br/>
+## Framer embed:
 
     <iframe class="lazyload" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
 

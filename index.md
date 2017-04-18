@@ -17,15 +17,24 @@ layout: default
 2. [ ] CMYK/RGB Peony Blue (that signature color I'm using for links and the like)
 3. [x] Post this on Jim's website
 
+### Tuesday April 18:
+1. [x] Better Typography-
+	1. [ ] Just fixing stuff lol. The type is set but the margins need love!
+2. [x] CMYK/RGB Peony Blue (that signature color I'm using for links and the like)
+    1. [x] Ended up using a pantone so I don't have to think about this. Here's the link to [my brand color](https://www.pantone.com/color-finder/661-U)
+3. [x] Post this on Jim's website
+    1. [ ] EVERYTHING IS BROKEN. OH GOD ITS AN ISSUE WITH PERMALINKS. INTERNET GOD FORGIVE ME.
+
+
 ## Master Plan
 1. [ ] Better Typography-
 	1. [ ] standardize, content based, rem
-2. [ ] CMYK/RGB Peony Blue
+2. [x] CMYK/RGB Peony Blue
 2. [ ] Better Image Portfolio:
 	1. [ ] Content based
-	2. [ ] better margins, scaling
+    3. [ ] serving cropped images
+2. [ ] better margins, scaling
 		1. [x] Normalize.css lol
-	3. [ ] serving cropped images
 3. [ ] Search Feature
 4. [ ] Better typography on resume
 5. [ ] Automatic image tag

@@ -48,9 +48,6 @@ $on-laptop:        800px;
  * _base.scss   **********************************************************
  */
 
-/**
- * Reset some basic elements
- */
 
 /** Variables **********************************************/
 
@@ -72,19 +69,17 @@ $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
 $navy: #3E69AA;
-$navy_peony: #223A5E;
 $off_white: #f5f6f6;
-$text_color1: #666;
-$text_color2: #424242;
+$text_color: #666;
 
-
+$moe: #4967AA;
 
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     $text_color1;
+$text-color:     $text_color;
 
 /* Set theme color *************************/
-$theme-color:   $navy;
+$theme-color:   $moe;
 
 /**
  * Wrapper
@@ -306,29 +301,26 @@ pre {
  */
 a {
     color: $theme-color;
-    text-decoration: none;
-
+    text-decoration-line: none;
+    /*
     &:visited {
         color: darken($brand-color, 15%); 
     }
+    */
     &:hover {
         color: lighten($theme-color, 15%);
-        text-decoration: none;
     }
 }
 
 article a {
     color: $theme-color;
-    font-weight: 100;
 
     &:hover {
-        text-decoration: none;
     }
 }
 
 footer a {
     color: #aaa;
-    text-decoration: none;
     /*
     &:visited {
         color: darken($brand-color, 15%); 
