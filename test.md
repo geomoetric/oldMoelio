@@ -14,24 +14,24 @@ image: /img/test.png
 
 # Default Front Matter
     ---
-    layout: post (found under layouts)
+    layout: post
     title: Style Guide
-    # 'yyyy-mm-dd hh:mm:ss -0500'
-    date: '2016-10-21 09:30:00 -0500' 
-    # or R for texas
     date: '2016-10-21T09:30:00R'
     description: Markdown/Kramdown style guide.
     published: true
     image: /img/test.png
-    share: facebook portfolio twitterhashtags
-    #include '--twitter- title' if you want the title entry on the xml to be the title. The default behavior is to append the description, url, and hashtsgs into one tweet.
+    share: facebook portfolio twitter
     tags: te$t
     ___
 
-<br/>
-<hr/>
-<br/>
+    # Date Formats:
+    date: '2016-10-21T09:30:00R'
+    # 'yyyy-mm-dd hh:mm:ss -0500'
+    date: '2016-10-21 09:30:00 -0500' 
+    # or R for texas
 
+    # Auto Sharing:
+    # include '--twitter- title' if you want the title entry on the xml to be the title. The default behavior is to append the description, url, and hashtsgs into one tweet.
 # Default Markdown/Kramdown
 
 If your markdown/kramdown isn't working, do not despair! You probably have to add some line spacing [enter] between elements.
@@ -157,3 +157,9 @@ ___
 | Foot1   | Foot2   | Foot3
 
 <br/>
+
+# Framer embed:
+
+    <iframe class="lazyload" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
+
+<iframe class="lazyload" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
