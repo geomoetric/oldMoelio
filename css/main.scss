@@ -9,20 +9,13 @@ $baseFontFamily:    Work Sans, Helvetica, sans-serif;
 $baseFontSize:      16; // in pixels. This would result in 22px on desktop
 $baseLineHeight:    1.5; // how large the line height is as a multiple of font size
 $leading:$baseLineHeight * 1rem;
-
+// Rate of growth for headings
+// I actually like this to be slightly smaller then the leading. Makes for tight headings.
 $scale:1.414;
 
 $small-font-size:  $baseFontSize * 0.875;
 
 $spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -58,8 +51,7 @@ $nav-height:                    56px;
 /* portfolio tinkering */
 $img_spacing: 5px; 
 $img_height: 275px;
-$caption_font_size: $scale / 4 * 1rem;
-$caption_color: #aaa;
+$caption_font_size: $scale / 2 * 1rem;
 
 /* COLORS  */
 $red:  #FF3636;
@@ -74,12 +66,16 @@ $text_color: #666;
 
 $moe: #4967AA;
 
+$grey-color:       #828282;
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     $text_color;
+$text-color:     #666;
+$background-color: #fdfdfd;
+$caption_color: #aaa;
 
 /* Set theme color *************************/
 $theme-color:   $moe;
+$brand-color:   $moe;
 
 /**
  * Wrapper
@@ -270,6 +266,11 @@ code {
  * end typebass.css   **********************************************************
  */
 
+hr {
+  border: 0;
+  border-top: 1px solid #8c8c8c;
+  border-bottom: 1px solid #fff;
+}
   /**
  * Code formatting
  */
@@ -458,13 +459,14 @@ color: $theme-color;
  * Page content   **********************************************************
  */
 .page-content {  
-padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+padding: 48px 0 96px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 .page-heading {
 /* font-size: 20px; */
 }
 .post-list {
-margin: 0px 0;
+padding: 0;
+margin: 0;
 list-style: none;
     > li {
 margin-bottom: $vertical-spacing-unit;
@@ -488,6 +490,7 @@ text-align: center;
  */
 .post-header {
 margin-bottom: $vertical-spacing-unit;
+clear: both;
 }
 .post-title {
 font-size: 42px;
@@ -757,3 +760,5 @@ font-size: $caption_font_size;
 .img_full img {
     max-width: 100%;
 }
+
+
