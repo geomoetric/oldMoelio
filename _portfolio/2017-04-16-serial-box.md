@@ -24,18 +24,18 @@ In my project, I started with [victorian typography](https://www.pinterest.com/g
 
 
 <div class="img_row">
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Menu_start_screen-nurbmzg1.jpg" alt="" title="westie sticker"/>
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Onboarding_2-ndi0reiy.jpg" alt="" title="westie sticker"/>
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Serial_View_Tiles-mem4ody5.jpg" alt="" title="westie sticker"/>
+	<img class="col one lazyload" data-action="zoom" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Menu_start_screen-nurbmzg1.jpg" alt="" title="westie sticker"/>
+	<img class="col one lazyload" data-action="zoom" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Onboarding_2-ndi0reiy.jpg" alt="" title="westie sticker"/>
+	<img class="col one lazyload" data-action="zoom" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Serial_View_Tiles-mem4ody5.jpg" alt="" title="westie sticker"/>
 </div>
 <div class="col one caption">Opening Page</div>
 <div class="col one caption">Sign Up Page</div>
 <div class="col one caption">Tile View</div>
 
 <div class="img_row">
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_Share-que3mjjb.jpg" alt="" title="westie sticker"/>
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-HeaderMenu-mddfnze5.png" alt="" title="westie sticker"/>
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_List_Menu2-oee5odjg.jpg" alt="" title="westie sticker"/>
+	<img class="col one lazyload" data-action="zoom" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_Share-que3mjjb.jpg" alt="" title="westie sticker"/>
+	<img class="col one lazyload" data-action="zoom" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-HeaderMenu-mddfnze5.png" alt="" title="westie sticker"/>
+	<img class="col one lazyload" data-action="zoom" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_List_Menu2-oee5odjg.jpg" alt="" title="westie sticker"/>
 </div>
 <div class="col one caption">Share</div>
 <div class="col one caption">Menu</div>

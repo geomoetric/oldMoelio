@@ -8,7 +8,7 @@ share: facebook portfolio twitter
 tags: donezo
 ---
 
-<img class="col three" src="/img/donezoweb.jpg">
+<img class="col three" data-action="zoom" src="/img/donezoweb.jpg">
 <div class="col three caption">
 &nbsp;
 </div>

@@ -7,7 +7,7 @@ published: true
 image: /img/test.png
 ---
 
-<img class="col three" src="/img/donezoweb.jpg">
+<img class="col three" data-action="zoom" src="/img/donezoweb.jpg">
 <div class="col three caption">
 &nbsp;
 </div>
@@ -160,6 +160,6 @@ ___
 
 # Framer embed:
 
-    <iframe class="lazyload" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
+    <iframe class="lazyload" data-action="zoom" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
 
-<iframe class="lazyload" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
+<iframe class="lazyload" data-action="zoom" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
