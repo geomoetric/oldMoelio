@@ -4,6 +4,7 @@ title: Razor Website
 description: A website for my razor.
 image: /img/sabreweb.jpg
 date: 2016-11-28T08:29:31S 
+published: false
 ---
 <html lang="en">
 <head>
