@@ -262,6 +262,9 @@ code {
     margin-top: 0;
 }
 
+.push {
+    margin-bottom: $leading;
+}
 /**
  * end typebass.css   **********************************************************
  */
@@ -270,6 +273,7 @@ hr {
   border: 0;
   border-top: 1px solid #8c8c8c;
   border-bottom: 1px solid #fff;
+  margin-top: $leading;
 }
   /**
  * Code formatting
@@ -393,20 +397,13 @@ display: line;
     left: 0px;
     top: 0px;
     position: relative;
-    font-size: 20px;
     display: block;
     opacity: 1;
     width: 100%;
     text-align: center;
-    padding-top: 25px;
-    line-height: 3em;
-    z-index: 25;
+    margin-bottom: 3rem;
     h1{
         color: $theme-color;
-        font-size:75px;
-    }
-    h2{
-        font-size:25px;
     }
 }
 

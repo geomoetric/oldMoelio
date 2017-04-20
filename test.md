@@ -22,7 +22,7 @@ image: /img/test.png
     image: /img/test.png
     share: facebook portfolio twitter
     tags: te$t
-    ___
+    ---
 
     # Date Formats:
     date: '2016-10-21T09:30:00R'
@@ -37,7 +37,6 @@ image: /img/test.png
 
 If your markdown/kramdown isn't working, do not despair! You probably have to add some line spacing [enter] between elements.
 
-<br/>
 <hr/>
 
 # H1 header
@@ -52,9 +51,7 @@ If your markdown/kramdown isn't working, do not despair! You probably have to ad
 
 ###### H6 header
 
-<br/>
 <hr/>
-<br/>
 
 This is *emphasized*,
 _this_ too!
@@ -63,9 +60,7 @@ _this_ too!
 This is **strong**,
 __this__ too!
 
-<br/>
 <hr/>
-<br/>
 
 A [link](https://kramdown.gettalong.org "hp")
 to the homepage.
@@ -77,26 +72,20 @@ A link to the [kramdown hp].
 A [link](https://kramdown.gettalong.org){:target="_blank"} to a new tab.
 
 
-<br/>
 <hr/>
-<br/>
 
 This is a text with a
 footnote[^1].
 
 [^1]: And here is the definition.
 
-<br/>
 <hr/>
-<br/>
 
 term
 : definition
 : another definition
 
-<br/>
 <hr/>
-<br/>
 
 * A list item with additional text
 * another one
@@ -108,15 +97,11 @@ term
    3. sub item three
 2. Item two
 
-<br/>
 <hr/>
-<br/>
 
 This is *red*{: style="color: red"}.
 
-<br/>
 <hr/>
-<br/>
 
 > A sample blockquote.
 >
@@ -126,9 +111,7 @@ This is *red*{: style="color: red"}.
 > ## Headers work too
 > This is the outer quote again.
 
-<br/>
 <hr/>
-<br/>
 
 ~~~~~~
 This is also a code block.
@@ -148,8 +131,8 @@ ___
 |=====
 | Foot1   | Foot2   | Foot3
 
-<br/>
 <hr/>
+
 ## Brand Colors:
 <img class="col one lazyload" src="/img/lq.png">
 ### RGB: 73 103 170
@@ -157,9 +140,7 @@ ___
 ### CMYK: 86 52 0 0
 ### PANTONE: 661 U
 ### [LINK TO COLOR INFO](https://www.pantone.com/color-finder/661-U)
-<br/>
 <hr/>
-<br/>
 ## Framer embed:
 
     <iframe class="lazyload" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>

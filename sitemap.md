@@ -10,8 +10,8 @@ description:
      {% if page.sitemap == 'main' %}
         <!-- initial for loop content goes here-->
     <li>
-        <h2><a class="poem-title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | capitalize }}</a></h2>
-      <p class="post-meta">{{ page.description }}</p>
+        <h3><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | upcase }}</a></h3>
+      <p class="post-meta hug">{{ page.description }}</p>
       </li>
        {% endif %}
 {% endfor %}
