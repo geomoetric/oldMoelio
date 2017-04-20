@@ -7,7 +7,7 @@ date: 2016-12-23T05:00:00S
 share: portfolio 
 ---
 
-<img class="col three" src="/img/ACL.png">
+<img class="col three" data-action="zoom" src="/img/ACL.png">
 <div class="col three caption">
 &nbsp;
 </div> 
@@ -16,7 +16,7 @@ It seems I am haunted by a specter of music festivals, specifically Austin City 
 That being said, I am a sucker for working within a brand identity or typographical framework. Just today I was excitedly showing my recreation of the New York Time’s Op-Ed page to my classmates (most of whom have never read an Op-Ed I suspect). I am the same sucker for Austin City Limits— I love the type, the colors, the branding, and of course the music that I enjoy every year. 
 Last year I found myself assigned to a project right on the heels of the fest, and I thought to myself, “Hey, I have the photos and the inspiration, I will just make an ACL-centric poster.” Learning nothing from the year prior, I decided to collect typography during my weekend at Zilker.
 
-<img class="col three" src="/img/ACL Map2.png">
+<img class="col three" data-action="zoom" src="/img/ACL Map2.png">
 <div class="col three caption">
 &nbsp;
 </div> 
@@ -24,7 +24,7 @@ Last year I found myself assigned to a project right on the heels of the fest, a
 
 Take a photo of a band and no one bats an eye. Take a photo of typography at a music festival and everyone looses their minds. I love this selection of typography, but the feeling was not mutual even within the class. When I dropped the idea of using my photos in my poster, my type teacher’s eyes widened to a panic as the objections sputtered out. Look, I get it— the photos are rough, but a little photoshop magic would settle this straight away.
 
-<img class="col three" src="/img/ACLalt.png">
+<img class="col three" data-action="zoom" src="/img/ACLalt.png">
 <div class="col three caption">
 &nbsp;
 </div> 

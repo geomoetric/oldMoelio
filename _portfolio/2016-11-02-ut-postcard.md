@@ -27,7 +27,7 @@ You could say I am an expert in burnt orange. Here are some thank-you-note-postc
  
  </div>
 
- <!--<img class="tiny" src="/img/Thanks-icon.png">-->
+ <!--<img class="tiny" data-action="zoom" src="/img/Thanks-icon.png">-->
 
 
  

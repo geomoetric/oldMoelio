@@ -56,9 +56,9 @@ These backpacks existed in several different forms atop several different backgr
 </div>
 
 
-<iframe style="width:100%; height:500px;" src="//e.issuu.com/embed.html#9815718/43034476" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%; height:500px;" data-action="zoom" src="//e.issuu.com/embed.html#9815718/43034476" frameborder="0" allowfullscreen></iframe>
 
 <!--
 <div data-configid="9815718/43034476" style="width:100%; height:500px;" class="issuuembed"></div>
-<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+<script type="text/javascript" data-action="zoom" src="//e.issuu.com/embed.js" async="true"></script>
 -->
