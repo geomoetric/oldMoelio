@@ -9,7 +9,7 @@ share: portfolio
 redirect_from: /portfolio/2017-4-12-singularity
 ---
 
-<img class="col three lazyload" src="/img/play6.jpg">
+<img class="lazyload col three" data-action="zoom" src="/img/play6.jpg">
 <div class="col three caption">
 The final design</div>
 
