@@ -9,7 +9,7 @@ share: portfolio
 redirect_from: /portfolio/2017-4-12-singularity
 ---
 
-<img class="lazyload col three" data-action="zoom" src="/img/play6.jpg">
+<img class="lazyload col three" src="/img/play6.jpg" data-action="zoom">
 <div class="col three caption">
 The final design</div>
 
@@ -28,7 +28,7 @@ This is a meaningful play created by passionate people, and a recent [article](h
 >
 >“A lot of people enforce these really negative stereotypes on (refugees),” Newland said. “They are just families wanting to pursue their dreams and trying to resume the lives they had in different places.”
 
-<img class="col one lazyload" src="/img/play4.jpg">
+<img class="col one lazyload" src="/img/play4.jpg"  data-action="zoom">
 
 
 Design-wise, this was a rush job. The theater department is fast, loose, and behind on their deadlines, so imagine four day turn arounds followed by weeks of silence. They would not give us the dates of the play until the day the poster was due!
@@ -40,13 +40,13 @@ Let me be clear, I have no intention to misrepresent traditional  Syrian clothin
 1. This yellow was impossible to reproduce on a [risograph print](https://hatopress.net/printing/)— the eco-friendly printing method I created these posters with.
 2. There was a legitimate concern that these head and shoulders would look like male genitals if rendered in that mustard color.
 
-<img class="col three lazyload" src="/img/play2.jpg">
+<img class="col three lazyload" src="/img/play2.jpg"  data-action="zoom">
 <div class="col three caption">
 My original color choice... I'm still a fan.</div>
 
 Our solution was to produce a muted red color that printed well and satisfied all concerns. I think that both director and designer got a lot out of this collaboration. Those directors will understand the choices made by future poster designers, and I have a new appreciation for humanity both near and far.
 
-<img class="col three lazyload" src="/img/play-6.jpg">
+<img class="col three lazyload" src="/img/play-6.jpg" data-action="zoom">
 <div class="col three caption">
 &nbsp;
 </div>

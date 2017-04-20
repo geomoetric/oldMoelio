@@ -7,7 +7,7 @@ published: true
 image: /img/test.png
 ---
 
-<img class="col three" data-action="zoom" src="/img/donezoweb.jpg">
+<img class="col three lazyload" src="/img/donezoweb.jpg" data-action="zoom">
 <div class="col three caption">
 &nbsp;
 </div>
@@ -32,6 +32,9 @@ image: /img/test.png
 
     # Auto Sharing:
     # include '--twitter- title' if you want the title entry on the xml to be the title. The default behavior is to append the description, url, and hashtsgs into one tweet.
+    
+# Default Image settings
+    <img class="col three lazyload" src="/img/____" title="" alt="" data-action="zoom">
 # Default Markdown/Kramdown
 
 If your markdown/kramdown isn't working, do not despair! You probably have to add some line spacing [enter] between elements.

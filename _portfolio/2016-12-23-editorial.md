@@ -13,22 +13,22 @@ This was a project made for someone who has read a newspaper since the first gra
 
 This design started as a goofy doodle that eventually materialized as a boozy robot and his trusty human companion. I think the funky print effect is the better treatment between the two.
 
-<img class="col three" src="/img/Editorial4.jpg">
+<img class="col three lazyload" src="/img/Editorial4.jpg" data-action="zoom">
 <div class="col three caption">
 &nbsp;
 </div>
 
-<img class="col three" src="/img/Editorial1.png">
+<img class="col three lazyload" src="/img/Editorial1.png" data-action="zoom">
 <div class="col three caption">
 &nbsp;
 </div>
 
-<img class="col three" src="/img/editorialspread2.jpg">
+<img class="col three lazyload" src="/img/editorialspread2.jpg" data-action="zoom">
 <div class="col three caption">
 &nbsp;
 </div>
 
-<img class="col three" src="/img/editorialspread3.jpg">
+<img class="col three lazyload" src="/img/editorialspread3.jpg" data-action="zoom">
 <div class="col three caption">
 &nbsp;
 </div>
@@ -38,27 +38,13 @@ This design started as a goofy doodle that eventually materialized as a boozy ro
 
 In this op-ed, the imagery of the doll seemed too on the nose for my purposes, so I used doll packaging as the foundation of the piece. It is meant to be a narrative that describes the popular demand each candidate experienced through that American pastime of vicious shopping.
 
-<img class="col three" src="/img/Editorial3.png">
+<img class="col three lazyload" src="/img/Editorial3.png" data-action="zoom">
 <div class="col three caption">
 &nbsp;
 </div>
 
-<img class="col three" src="/img/editorialspread.jpg">
+<img class="col three lazyload" src="/img/editorialspread.jpg" data-action="zoom">
 <div class="col three caption">
 &nbsp;
 </div>
 
-
-
-
-
-<!--
-<div class="img_row">
-	<img class="col one" src="/img/editorialspread.jpg" alt="" title="example image"/>
-	<img class="col one" src="/img/editorialspread2.jpg" alt="" title="example image"/>
-	<img class="col one" src="/img/editorialspread3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
--->
