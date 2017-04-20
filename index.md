@@ -33,10 +33,11 @@ layout: default
 4. [x] Better typography on resume
 8. [ ] Remove padding and fix footer to the bottom
 	9. [x] Super fix the footer now that it's invisible(turned out to be a margin issue)
-    10. [ ] Still need to affix footer and tinker with header
+    10. [ ] Still need to affix footer to bottom
 
 
 ## Master Plan
+### Done
 1. [x] Better Typography-
 	1. [x] Just fixing stuff lol. The type is set but the margins need love!
     2. [x] Worked with the Typebase type heiarchy, gonna run it by Jim to see what he thinks. 
@@ -47,6 +48,10 @@ layout: default
 2. [x] CMYK/RGB Peony Blue (that signature color I'm using for links and the like)
     1. [x] Ended up using a pantone so I don't have to think about this. Here's the link to [my brand color](https://www.pantone.com/color-finder/661-U)
 4. [x] Better typography on resume
+6. [x] Links default to {target="_blank"} (actually I decided this was shady behavior and obnoxious)
+7. [x] Fixed Autosharing
+
+### To Do
 3. [ ] Zoom feature for images
 2. [ ] better margins, scaling
 		1. [x] Normalize.css integrated
@@ -58,12 +63,12 @@ layout: default
 5. [ ] Automatic image tag
 	1. [ ] default markdown enables full div lists [smiley](../images/smiley.png)
 	2. [ ] Responsive images (Jekyll Tag)
-6. [x] Links default to {target="_blank"} (actually I decided this was shady behavior and obnoxious)
-7. [x] Fixed Autosharing
 7. [ ] Image animations for lazy load!
 	1. [ ] Animate.css
 8. [ ] Remove padding and fix footer to the bottom
 	9. [x] super fix the footer now that it's invisible
+    10. [ ] Still need to affix footer to bottom
+8. [ ] Show active state in Header
 9. [ ] Full linting/cleaning code
 	9. [ ] Remove unused CSS Classes
     10. [ ] Scssify to inline critical styles(should do this automatically)
