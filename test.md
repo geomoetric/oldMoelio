@@ -33,7 +33,7 @@ image: /img/test.png
     # Auto Sharing:
     # include '--twitter- title' if you want the title entry on the xml to be the title. The default behavior is to append the description, url, and hashtsgs into one tweet.
     
-# Default Image settings
+## Default Image settings
     <img class="col three lazyload" src="/img/____" title="" alt="" data-action="zoom">
 # Default Markdown/Kramdown
 

@@ -34,6 +34,10 @@ layout: default
 8. [ ] Remove padding and fix footer to the bottom
 	9. [x] Super fix the footer now that it's invisible(turned out to be a margin issue)
     10. [ ] Still need to affix footer to bottom
+    
+### Thursday April 20:
+3. [x] Zoom feature for images
+    1. [x] Fully integrated baby! published live to site rn!
 
 
 ## Master Plan
@@ -50,9 +54,11 @@ layout: default
 4. [x] Better typography on resume
 6. [x] Links default to {target="_blank"} (actually I decided this was shady behavior and obnoxious)
 7. [x] Fixed Autosharing
+3. [x] Zoom feature for images
+    1. [x] Fully integrated baby! published live to site rn!
 
 ### To Do
-3. [ ] Zoom feature for images
+1. [ ] Fix Saber rul quick
 2. [ ] better margins, scaling
 		1. [x] Normalize.css integrated
         11. [ ]Remove inconsistent padding
