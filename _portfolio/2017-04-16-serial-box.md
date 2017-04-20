@@ -7,7 +7,7 @@ image: /img/sbweb.jpg
 share: portfolio
 ---
 
-<img class="col three lazyload" data-action="zoom" src="/img/sbweb.jpg">
+<img class="col three lazyload" src="/img/sbweb.jpg">
 <div class="col three caption">&nbsp;</div>
 
 Let's be honest guys. E-reader apps are awful. They hurt our eyes, their designs are dated, and they lack the personality and captivation of a real book. Which is a shame because people [seem to enjoy reading on their phones](https://www.theatlantic.com/technology/archive/2016/05/oh-internet-you-wonderful-newsy-readable-lovely-internet/481500/). 
@@ -49,6 +49,6 @@ I love the idea of using classic techniques in modern settings, so this project 
 
 ### Click through the prototype below:
 
-<iframe class="lazyload" data-action="zoom" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
+<iframe class="lazyload" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
 
 <div class="col three caption">This will take longer to load on slow collections.</div>

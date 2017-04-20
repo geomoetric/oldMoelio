@@ -13,8 +13,8 @@ In my work I strive to create design that is <a href="https://dl.dropboxusercont
 In my free time, I like to swim at <a href="https://www.edwardsaquifer.net/barton.html" target="_blank">Barton Springs</a>, watch movies at the <a href="https://birthmoviesdeath.com/about" target="_blank">theater</a>, listen to <a href="https://99percentinvisible.org/" target="_blank">podcasts</a> at the gym, tell bad jokes, and be unbelievably tall.
 
 <div class="img_row">
-	<img class="col two" data-action="zoom" src="{{ site.baseurl }}/img/about_2.jpg" alt="Eric moe" title="Screen Printing"/>
-	<img class="col one left" data-action="zoom" src="{{ site.baseurl }}/img/Profile-pic-large.jpg" alt="Eric Moe" title="check"/>
+	<img class="col two" src="{{ site.baseurl }}/img/about_2.jpg" alt="Eric moe" title="Screen Printing"/>
+	<img class="col one left" src="{{ site.baseurl }}/img/Profile-pic-large.jpg" alt="Eric Moe" title="check"/>
 </div>
 
 <span class="contacticon2 center">

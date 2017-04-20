@@ -7,7 +7,7 @@ date: 2016-12-23T05:00:00S
 share: portfolio 
 ---
 
-<img class="col three" data-action="zoom" src="/img/ERIC MOE.png">
+<img class="col three" src="/img/ERIC MOE.png">
 <div class="col three caption">
 One fun fact about this piece— the blue is the same hex value as the blue on the US flag (#002868).
 </div>

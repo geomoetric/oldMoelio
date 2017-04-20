@@ -8,19 +8,19 @@ share: portfolio
 ---
 
 <div class="img_row">
-	<img class="col one" data-action="zoom" src="/img/tackArtboard%205.jpg" alt="" title="example image"/>
-	<img class="col one" data-action="zoom" src="/img/tackArtboard%203.jpg" alt="" title="example image"/>
-	<img class="col one" data-action="zoom" src="/img/tackArtboard%204.jpg" alt="" title="example image"/>
+	<img class="col one" src="/img/tackArtboard%205.jpg" alt="" title="example image"/>
+	<img class="col one" src="/img/tackArtboard%203.jpg" alt="" title="example image"/>
+	<img class="col one" src="/img/tackArtboard%204.jpg" alt="" title="example image"/>
 </div>
 <div class="img_row">
-	<img class="col one" data-action="zoom" src="/img/tackArtboard%201.jpg" alt="" title="example image"/>
-	<img class="col one" data-action="zoom" src="/img/tackArtboard%202.jpg" alt="" title="example image"/>
+	<img class="col one" src="/img/tackArtboard%201.jpg" alt="" title="example image"/>
+	<img class="col one" src="/img/tackArtboard%202.jpg" alt="" title="example image"/>
 </div>
 I was assigned a tack and my project was to make the tack represent a list of words assigned to us. I was interested in framing the tack with human anatomy, so I am the subject of these photos. Quick shout out to my father, Thomas Moe, who lent me his astounding camera to take these shots. Oh man, I have to get that camera back to him before he gets mad now that I think of it. 
 
 # Nervous
 
-<img class="col three" data-action="zoom" src="/img/tackArtboard%205.jpg">
+<img class="col three" src="/img/tackArtboard%205.jpg">
 <div class="col three caption">
 &nbsp;
 </div>
@@ -29,7 +29,7 @@ I proposed this photo at a different angle, and my classmates said it looked fak
 
 # Curious
 
-<img class="col three" data-action="zoom" src="/img/tackArtboard%203.jpg">
+<img class="col three" src="/img/tackArtboard%203.jpg">
 <div class="col three caption">
 &nbsp;
 </div>
@@ -38,7 +38,7 @@ This was a rough shoot because of the direct light in my eyes. I ended up editin
 
 # Tender
 
-<img class="col three" data-action="zoom" src="/img/tackArtboard%204.jpg">
+<img class="col three" src="/img/tackArtboard%204.jpg">
 <div class="col three caption">
 &nbsp;
 </div>
@@ -47,7 +47,7 @@ Has science gone too far? Did my father’s camera capture too much detail in th
 
 # Clumsy
 
-<img class="col three" data-action="zoom" src="/img/tackArtboard%201.jpg">
+<img class="col three" src="/img/tackArtboard%201.jpg">
 <div class="col three caption">
 &nbsp;
 </div>
@@ -56,7 +56,7 @@ I took 200 photos of this shot. The words “motion photography” bring flashba
 
 # Loud
 
-<img class="col three" data-action="zoom" src="/img/tackArtboard%202.jpg">
+<img class="col three" src="/img/tackArtboard%202.jpg">
 <div class="col three caption">
 &nbsp;
 </div>

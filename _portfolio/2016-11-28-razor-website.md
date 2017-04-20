@@ -126,7 +126,7 @@ We live on the exciting precipice of the digital necessity— a world where our 
       <p><a href="#work" class="w3-btn"><i class="fa fa-th"></i> Learn More</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" data-action="zoom" src="/img/sabre3.jpg" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="/img/sabre3.jpg" alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
@@ -135,7 +135,7 @@ We live on the exciting precipice of the digital necessity— a world where our 
 <div class="w3-container w3-padding-64">
   <div class="w3-row-padding">
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" data-action="zoom" src="/img/sabre2.jpg" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="/img/sabre2.jpg" alt="Buildings" width="700" height="394">
     </div>
     <div class="w3-col m6">
       <h1>Blade box exchange.</h1>
@@ -154,7 +154,7 @@ We live on the exciting precipice of the digital necessity— a world where our 
       <p><a href="#work" class="w3-btn"><i class="fa fa-th"></i> Learn More</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" data-action="zoom" src="/img/sabre4.jpg" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="/img/sabre4.jpg" alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
