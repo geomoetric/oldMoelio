@@ -166,7 +166,7 @@ We live on the exciting precipice of the digital necessity— a world where our 
   <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team2.jpg" alt="John" style="width:100%">
+        <img data-action="zoom" src="/w3images/team2.jpg" alt="John" style="width:100%">
         <div class="w3-container">
           <h3>John Doe</h3>
           <p class="w3-opacity">CEO & Founder</p>
@@ -177,7 +177,7 @@ We live on the exciting precipice of the digital necessity— a world where our 
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+        <img data-action="zoom" src="/w3images/team1.jpg" alt="Jane" style="width:100%">
         <div class="w3-container">
           <h3>Anja Doe</h3>
           <p class="w3-opacity">Art Director</p>
@@ -188,7 +188,7 @@ We live on the exciting precipice of the digital necessity— a world where our 
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team3.jpg" alt="Mike" style="width:100%">
+        <img data-action="zoom" src="/w3images/team3.jpg" alt="Mike" style="width:100%">
         <div class="w3-container">
           <h3>Mike Ross</h3>
           <p class="w3-opacity">Web Designer</p>
@@ -199,7 +199,7 @@ We live on the exciting precipice of the digital necessity— a world where our 
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card-2">
-        <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
+        <img data-action="zoom" src="/w3images/team4.jpg" alt="Dan" style="width:100%">
         <div class="w3-container">
           <h3>Dan Star</h3>
           <p class="w3-opacity">Designer</p>
@@ -238,31 +238,31 @@ We live on the exciting precipice of the digital necessity— a world where our 
 
   <div class="w3-row-padding" style="margin-top:64px">
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_mic.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A microphone">
+      <img data-action="zoom" src="/w3images/tech_mic.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A microphone">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_phone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A phone">
+      <img data-action="zoom" src="/w3images/tech_phone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A phone">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_drone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A drone">
+      <img data-action="zoom" src="/w3images/tech_drone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A drone">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_sound.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Soundbox">
+      <img data-action="zoom" src="/w3images/tech_sound.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Soundbox">
     </div>
   </div>
 
   <div class="w3-row-padding w3-section">
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_tablet.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tablet">
+      <img data-action="zoom" src="/w3images/tech_tablet.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tablet">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_camera.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A camera">
+      <img data-action="zoom" src="/w3images/tech_camera.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A camera">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_typewriter.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A typewriter">
+      <img data-action="zoom" src="/w3images/tech_typewriter.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A typewriter">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_tableturner.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tableturner">
+      <img data-action="zoom" src="/w3images/tech_tableturner.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tableturner">
     </div>
   </div>
 </div> -->
@@ -402,7 +402,7 @@ We live on the exciting precipice of the digital necessity— a world where our 
 </footer>
  
 <!-- Add Google Maps -->
-<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script data-action="zoom" src="https://maps.googleapis.com/maps/api/js"></script>
 
 <script>
 <!-- Google Map Location -->

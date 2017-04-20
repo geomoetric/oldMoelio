@@ -11,19 +11,19 @@ You could say I am an expert in burnt orange. Here are some thank-you-note-postc
 &nbsp;
 </div>
 <div class="img_full"> 
-	<img src="{{ site.baseurl }}/img/Thanks-1.png" alt="UT Post Cards" title="UT Post Cards"/>
+	<img data-action="zoom" src="{{ site.baseurl }}/img/Thanks-1.png" alt="UT Post Cards" title="UT Post Cards"/>
     <br>
     <br>
-    <img src="{{ site.baseurl }}/img/Thanks-2.png" alt="UT Post Cards" title="UT Post Cards"/>
+    <img data-action="zoom" src="{{ site.baseurl }}/img/Thanks-2.png" alt="UT Post Cards" title="UT Post Cards"/>
     <br>
     <br>
-    <img src="{{ site.baseurl }}/img/Thanks-3.png" alt="UT Post Cards" title="UT Post Cards"/>
+    <img data-action="zoom" src="{{ site.baseurl }}/img/Thanks-3.png" alt="UT Post Cards" title="UT Post Cards"/>
     <br>
     <br>
-    <img src="{{ site.baseurl }}/img/Thanks-5.png" alt="UT Post Cards" title="UT Post Cards">
+    <img data-action="zoom" src="{{ site.baseurl }}/img/Thanks-5.png" alt="UT Post Cards" title="UT Post Cards">
     <br>
     <br>
-    <img src="{{ site.baseurl }}/img/Thanks-6.png" alt="UT Post Cards" title="UT Post Cards"/>
+    <img data-action="zoom" src="{{ site.baseurl }}/img/Thanks-6.png" alt="UT Post Cards" title="UT Post Cards"/>
  
  </div>
 

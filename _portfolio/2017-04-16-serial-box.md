@@ -7,7 +7,7 @@ image: /img/sbweb.jpg
 share: portfolio
 ---
 
-<img class="col three lazyload" src="/img/sbweb.jpg">
+<img class="col three lazyload" src="/img/sbweb.jpg"  data-action="zoom">
 <div class="col three caption">&nbsp;</div>
 
 Let's be honest guys. E-reader apps are awful. They hurt our eyes, their designs are dated, and they lack the personality and captivation of a real book. Which is a shame because people [seem to enjoy reading on their phones](https://www.theatlantic.com/technology/archive/2016/05/oh-internet-you-wonderful-newsy-readable-lovely-internet/481500/). 
@@ -24,18 +24,18 @@ In my project, I started with [victorian typography](https://www.pinterest.com/g
 
 
 <div class="img_row">
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Menu_start_screen-nurbmzg1.jpg" alt="" title="westie sticker"/>
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Onboarding_2-ndi0reiy.jpg" alt="" title="westie sticker"/>
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Serial_View_Tiles-mem4ody5.jpg" alt="" title="westie sticker"/>
+	<img class="col one lazyload" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Menu_start_screen-nurbmzg1.jpg" alt="" title="Serial Box" data-action="zoom"/>
+	<img class="col one lazyload" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Onboarding_2-ndi0reiy.jpg" alt="" title="Serial Box" data-action="zoom"/>
+	<img class="col one lazyload" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Serial_View_Tiles-mem4ody5.jpg" alt="" title="Serial Box" data-action="zoom"/>
 </div>
 <div class="col one caption">Opening Page</div>
 <div class="col one caption">Sign Up Page</div>
 <div class="col one caption">Tile View</div>
 
 <div class="img_row">
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_Share-que3mjjb.jpg" alt="" title="westie sticker"/>
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-HeaderMenu-mddfnze5.png" alt="" title="westie sticker"/>
-	<img class="col one lazyload" data-src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_List_Menu2-oee5odjg.jpg" alt="" title="westie sticker"/>
+	<img class="col one lazyload" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_Share-que3mjjb.jpg" alt="" title="Serial Box" data-action="zoom"/>
+	<img class="col one lazyload" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-HeaderMenu-mddfnze5.png" alt="" title="Serial Box" data-action="zoom"/>
+	<img class="col one lazyload" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_List_Menu2-oee5odjg.jpg" alt="" title="Serial Box" data-action="zoom"/>
 </div>
 <div class="col one caption">Share</div>
 <div class="col one caption">Menu</div>

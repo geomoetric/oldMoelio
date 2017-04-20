@@ -7,7 +7,7 @@ date: 2017-01-13T09:00:00S
 share: portfolio
 ---
 
-<img class="col three lazyload" data-src="{{ site.imgurl }}/img/sabre5.jpg" alt="" title="example image"/>
+<img class="col three lazyload" src="{{ site.imgurl }}/img/sabre5.jpg" data-action="zoom" alt="" title="example image"/>
 <div class="col three caption">
 &nbsp;
 </div> 
@@ -17,14 +17,14 @@ In case you did not know, I am a genetic Scandinavian anomaly in this great stat
 So when we were tasked with redesigning a common tool, I scratched my freshly shaved stubble and realized it had to be the razor. Not just any razor either, my razor of choice in my 8 years of shaving— the safety razor.
 
 
-<img class="col three lazyload" data-src="{{ site.imgurl }}/img/razor3.png" alt="" title="example image"/>
+<img class="col three lazyload" src="{{ site.imgurl }}/img/razor3.png" data-action="zoom" alt="" title="example image"/>
 <div class="col three caption">
 &nbsp;
 </div>  
 
 I compared electric, straight, disposable, multi-blade, and safety razors on a number of metrics, and the humble safety razor was the clear winner. So why is the safety razor a relict of a bygone age if it is so effective? 
 
-<img class="col three lazyload" data-src="{{ site.imgurl }}/img/razor2.png" alt="" title="example image"/>
+<img class="col three lazyload" src="{{ site.imgurl }}/img/razor2.png" data-action="zoom" alt="" title="example image"/>
 <div class="col three caption">
 &nbsp;
 </div> 
@@ -35,7 +35,7 @@ My design aims to update the safety razor for modern shaving habits. A grooved g
  
 
 
-<img class="col three lazyload" data-src="{{ site.imgurl }}/img/razor5.png" alt="" title="example image"/>
+<img class="col three lazyload" src="{{ site.imgurl }}/img/razor5.png" data-action="zoom" alt="" title="example image"/>
 <div class="col three caption">
 &nbsp;
 </div> 
@@ -44,24 +44,24 @@ My design aims to update the safety razor for modern shaving habits. A grooved g
 See, I was not lying about the beard! This is what the 3D print of my razor looks like. In the end I created sixteen or so prints of my razor. Sometimes, the prints themselves failed, rendering strange, contorted death blades. Other times, my model would be incorrect. I realized too late that my razor did not hold standard double-sided blades— an issue promptly fixed.
 
 
-<img class="col three lazyload" data-src="{{ site.imgurl }}/img/razor4.png" alt="" title="example image"/>
+<img class="col three lazyload" src="{{ site.imgurl }}/img/razor4.png" data-action="zoom" alt="" title="example image"/>
 <div class="col three caption">
 &nbsp;
 </div> 
 
 I envision this razor cast in stainless steel. If I were to take this concept farther, it would be my hope that this realized razor would be a treasured item for men and women to keep their entire lives. 
 
-<img class="col three lazyload" data-src="{{ site.imgurl }}/img/sabre2.jpg" alt="" title="example image"/>
+<img class="col three lazyload" src="{{ site.imgurl }}/img/sabre2.jpg" data-action="zoom" alt="" title="example image"/>
 <div class="col three caption">
 &nbsp;
 </div> 
 
-<img class="col three lazyload" data-src="{{ site.imgurl }}/img/sabre3.jpg" alt="" title="example image"/>
+<img class="col three lazyload" src="{{ site.imgurl }}/img/sabre3.jpg" data-action="zoom" alt="" title="example image"/>
 <div class="col three caption">
 &nbsp;
 </div> 
 
-<img class="col three lazyload" data-src="{{ site.imgurl }}/img/sabre4.jpg" alt="" title="example image"/>
+<img class="col three lazyload" src="{{ site.imgurl }}/img/sabre4.jpg" data-action="zoom" alt="" title="example image"/>
 <div class="col three caption">
 &nbsp;
 </div>
