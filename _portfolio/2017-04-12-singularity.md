@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Singularity
+title: UT New Works Play
 date: '2017-04-12T09:27:00S'
 description: Adventures in Play Poster Design
 published: true
