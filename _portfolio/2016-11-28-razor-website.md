@@ -29,7 +29,7 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("/img/headrazor.JPG/");
+    background-image: url("/img/headrazors.jpg");
     min-height: 100%;
 </style>
 <!-- Navbar (sit on top) -->
