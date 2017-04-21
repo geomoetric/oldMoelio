@@ -9,6 +9,8 @@ share: portfolio
 redirect_from:
   - /portfolio/2017-4-12-singularity
   - portfolio/2017-4-12-singularity
+  - /portfolio/2017-4-12-singularity/
+  - portfolio/2017-4-12-singularity/
   - ericmoe.co/portfolio/2017-4-12-singularity/
 
 ---
