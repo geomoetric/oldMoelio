@@ -90,7 +90,7 @@ highlighter: rouge
 
 # Pagination
 paginate: 15
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
 
 
 collections:
