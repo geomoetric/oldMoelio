@@ -9,7 +9,7 @@ sitemap: main
 <ul class="post-list">
 {% for post in site.posts %}
     <li>
-        <h3><a  href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: '%B %-d, %Y' }} — {{ post.title }}</a></h3>
+        <h4><a  href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: '%B %-d, %Y' }} — {{ post.title }}</a></h4>
         <p class="hug">{{ post.description }}</p>
       </li>
 {% endfor %}

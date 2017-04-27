@@ -10,7 +10,7 @@ description:
      {% if page.sitemap == 'main' %}
         <!-- initial for loop content goes here-->
     <li>
-        <h3><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | upcase }}</a></h3>
+        <h4><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | upcase }}</a></h4>
       <p class="post-meta hug">{{ page.description }}</p>
       </li>
        {% endif %}
