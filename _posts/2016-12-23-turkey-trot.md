@@ -4,7 +4,8 @@ title: Thunder<wbr>Cloud
 description: Infographics and picnics for TCloud Subs.
 image: /img/tcloudweb.jpg
 date: 2016-12-23T05:00:00S 
-share: portfolio 
+share: portfolio
+category: portfolio
 ---
 <img class="col three" src="/img/infog.jpg" data-action="zoom">
 <div class="col three caption">

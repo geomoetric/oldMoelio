@@ -6,6 +6,7 @@ description: Adventures in Play Poster Design
 published: true
 image: /img/playweb.jpg
 share: portfolio
+category: portfolio
 redirect_from:
   - /portfolio/2017-4-12-singularity
   - portfolio/2017-4-12-singularity

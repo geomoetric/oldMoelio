@@ -4,7 +4,8 @@ title: UT Annual Impact Report
 description: Layouts and spreads from my first major InDesign project.
 image: /img/impactweb.jpg
 date: 2017-01-13T07:00:00S
-share: portfolio 
+share: portfolio
+category: portfolio
 ---
 
 <img class="col three lazyload" src="{{ site.imgurl }}/img/utfall6.jpg" data-action="zoom">

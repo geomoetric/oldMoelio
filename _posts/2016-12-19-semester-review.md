@@ -6,6 +6,7 @@ image: /img/donezoweb.jpg
 date: 2016-12-19T07:00:00S 
 share: facebook portfolio twitter
 tags: donezo
+category: blog
 ---
 
 <img class="col three" data-action="zoom" src="/img/donezoweb.jpg">

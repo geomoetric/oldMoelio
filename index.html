@@ -11,6 +11,8 @@ layout: default
 
 {% for post in site.posts %}
 
+{% if post.category == 'portfolio' %}
+
 {% if post.redirect %}
 <div class="project">
     <div class="thumbnail">
@@ -47,6 +49,8 @@ layout: default
         </a>
     </div>
 </div>
+
+{% endif %}
 
 {% endif %}
 

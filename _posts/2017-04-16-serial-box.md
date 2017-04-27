@@ -5,6 +5,7 @@ date: '2017-04-16T21:20:00R'
 description: Can old books inform app design?
 image: /img/sbweb.jpg
 share: portfolio
+category: portfolio
 ---
 
 <img class="col three lazyload" src="/img/sbweb.jpg"  data-action="zoom">

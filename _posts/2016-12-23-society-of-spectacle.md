@@ -5,6 +5,7 @@ description: A type project on Guy Debord's manifesto.
 image: /img/socweb.jpg
 date: 2016-12-23T05:00:00S
 share: portfolio
+category: portfolio
 ---
 
 <img class="col three lazyload" src="/img/soc1.JPG" data-action="zoom">

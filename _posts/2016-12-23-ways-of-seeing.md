@@ -4,7 +4,8 @@ title: Ways of Seeing
 description: An introductory photo project.
 image: /img/tackweb.jpg
 date: 2016-12-23T01:00:00S 
-share: portfolio 
+share: portfolio
+category: portfolio
 ---
 
 <div class="img_row">
