@@ -1,12 +1,18 @@
 ---
 layout: post
-title: A Singularity
+title: UT New Works Play
 date: '2017-04-12T09:27:00S'
 description: Adventures in Play Poster Design
 published: true
 image: /img/playweb.jpg
 share: portfolio
-redirect_from: /portfolio/2017-4-12-singularity
+redirect_from:
+  - /portfolio/2017-4-12-singularity
+  - portfolio/2017-4-12-singularity
+  - /portfolio/2017-4-12-singularity/
+  - portfolio/2017-4-12-singularity/
+  - ericmoe.co/portfolio/2017-4-12-singularity/
+
 ---
 
 <img class="lazyload col three" src="/img/play6.jpg" data-action="zoom">
