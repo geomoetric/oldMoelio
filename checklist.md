@@ -39,6 +39,15 @@ layout: default
 3. [x] Zoom feature for images
     1. [x] Fully integrated baby! published live to site rn!
 
+### Tuesday April 25:
+1. [x] Fix Saber rul quick
+    1. [x] That image is no longer broken! NO MORE JPG ONLY jpg
+2. [x] Try a new header font for variety
+    1. [x] Gonna try clarendon!
+    2. [ ] Eventually need to set up async font loader (Toward very end of process)
+
+### Thursday April 27:
+
 
 ## Master Plan
 ### Done
@@ -56,12 +65,22 @@ layout: default
 7. [x] Fixed Autosharing
 3. [x] Zoom feature for images
     1. [x] Fully integrated baby! published live to site rn!
+1. [x] Fix Saber rul quick
+    1. [x] That image is no longer broken! NO MORE JPG ONLY jpg
+2. [x] Try a new header font for variety
+    1. [x] Gonna try clarendon!
+    2. [ ] Eventually need to set up async font loader (Toward very end of process)
 
 ### To Do
-1. [ ] Fix Saber rul quick
+
+11. [ ] Google Page Speed
+    2. [ ] async everything
+10. [ ] Pagination on portfolio page
+	1. [ ] move everything into _blog folder
+    2. [ ] add new front matter specifiying pages or blog
 2. [ ] better margins, scaling
-		1. [x] Normalize.css integrated
-        11. [ ]Remove inconsistent padding
+    1. [x] Normalize.css integrated
+    11. [ ]Remove inconsistent padding
 2. [ ] Better Image Portfolio:
 	1. [ ] Content based
     3. [ ] serving cropped images
@@ -69,17 +88,18 @@ layout: default
 5. [ ] Automatic image tag
 	1. [ ] default markdown enables full div lists [smiley](../images/smiley.png)
 	2. [ ] Responsive images (Jekyll Tag)
+    3. [ ] use rakefile for custom plugins
 7. [ ] Image animations for lazy load!
 	1. [ ] Animate.css
+    2. [ ] except maybe not since that is bloaty...
 8. [ ] Remove padding and fix footer to the bottom
 	9. [x] super fix the footer now that it's invisible
     10. [ ] Still need to affix footer to bottom
+    11. [ ] more descriptive footer? or maybe log changes like a blogpost...
 8. [ ] Show active state in Header
 9. [ ] Full linting/cleaning code
 	9. [ ] Remove unused CSS Classes
     10. [ ] Scssify to inline critical styles(should do this automatically)
-10. [ ] Pagination on portfolio page
-11. [ ] Google Page Speed
 12. [ ] Open Source the page
 13. [ ] New Favicon
 14. [ ] **Final things!**
