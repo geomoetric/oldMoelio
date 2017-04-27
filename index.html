@@ -9,22 +9,22 @@ layout: default
 </div>
 
 
-{% for project in site.portfolio reversed %}
+{% for post in site.posts %}
 
-{% if project.redirect %}
+{% if post.redirect %}
 <div class="project">
     <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.image %}
+        <a href="{{ post.redirect }}" target="_blank">
+        {% if post.image %}
         <img class="lazyload thumbnail"
-	src="/img/lqweb.png" data-src="{{ project.image }}" alt="100%x200"/>
+	src="/img/lqweb.png" data-src="{{ post.image }}" alt="100%x200"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
+            <h1>{{ post.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ post.description }}</p>
         </span>
         </a>
     </div>
@@ -33,16 +33,16 @@ layout: default
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.image %}
-        <img class="lazyload thumbnail" src="/img/lqweb.png" data-src="{{ project.image }}" alt="100%x200"/>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+        {% if post.image %}
+        <img class="lazyload thumbnail" src="/img/lqweb.png" data-src="{{ post.image }}" alt="100%x200"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
+            <h1>{{ post.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ post.description }}</p>
         </span>
         </a>
     </div>
