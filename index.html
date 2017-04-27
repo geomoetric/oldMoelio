@@ -9,9 +9,7 @@ layout: default
 </div>
 
 
-{% for post in site.posts %}
-
-{% if post.category == 'portfolio' %}
+{% for post in paginator.posts %}
 
 {% if post.redirect %}
 <div class="project">
@@ -52,6 +50,19 @@ layout: default
 
 {% endif %}
 
-{% endif %}
-
 {% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Newer Projects</a>
+    <wbr>|<wbr>
+  {% else %}
+  {% endif %}
+  <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <wbr>|<wbr>
+    <a href="{{ paginator.next_page_path }}" class="next">Older Projects</a>
+  {% else %}
+  {% endif %}
+</div>
