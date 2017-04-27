@@ -4,7 +4,8 @@ title: Political Grid Posters
 description: A voter advocacy poster.
 image: /img/ericmoeweb.png
 date: 2016-12-23T05:00:00S
-share: portfolio 
+share: portfolio
+category: portfolio
 ---
 
 <img class="col three lazyload" src="/img/ERIC MOE.png" data-action="zoom">

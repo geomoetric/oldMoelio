@@ -4,7 +4,8 @@ title: A-Z Austin Type
 description: The ABC's of Austin.
 image: /img/aclweb.png
 date: 2016-12-23T05:00:00S
-share: portfolio 
+share: portfolio
+category: portfolio
 ---
 
 <img class="col three lazyload" src="/img/ACL.png" data-action="zoom">

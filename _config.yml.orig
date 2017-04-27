@@ -83,8 +83,22 @@ highlighter: rouge
 
 
 # Pagination
+<<<<<<< HEAD
+paginate: 15
+paginate_path: "/page:num/"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/
+=======
 paginate: 18
 paginate_path: "/page:num/"
+>>>>>>> pagination
 
 
 # sass

@@ -4,7 +4,8 @@ title: UT Xmas Card
 description: Hook 'em for the holidays.
 image: /img/utxmasweb.jpg
 date: 2016-12-30T13:00:00S
-share: portfolio 
+share: portfolio
+category: portfolio
 ---
 
 <img class="col three" src="/img/utxmas2.jpg" alt="" title="UT Xmas" data-action="zoom"/>

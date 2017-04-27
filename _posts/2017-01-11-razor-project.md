@@ -5,6 +5,7 @@ description: Overview of my SABRE razor.
 image: /img/razorweb2.jpg
 date: 2017-01-13T09:00:00S
 share: portfolio
+category: portfolio
 ---
 
 <img class="col three lazyload" src="{{ site.imgurl }}/img/sabre5.jpg" data-action="zoom" alt="" title="example image"/>

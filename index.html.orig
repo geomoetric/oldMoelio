@@ -43,8 +43,14 @@ image: /img/twitter-image.jpg
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
+<<<<<<< HEAD
             <h2>{{ project.title }}</h2>
             <p>{{ project.description }}</p>
+=======
+            <h1>{{ post.title }}</h1>
+            <br/>
+            <p>{{ post.description }}</p>
+>>>>>>> pagination
         </span>
         </a>
     </div>

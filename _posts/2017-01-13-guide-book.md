@@ -5,6 +5,7 @@ description: My final project in Type I.
 image: /img/guideweb.jpg
 date: 2017-01-13T05:00:00S
 share: portfolio
+category: portfolio
 ---
 
 <img class="col three lazyload" src="{{ site.imgurl }}/img/guide1.JPG" data-action="zoom" data-action="zoom">
