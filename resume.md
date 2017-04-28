@@ -7,11 +7,11 @@ sitemap: main
 image: /img/twitter-image.jpg
 ---
 <!-- include the resume link here -->
-<h4><a href="/doc/Eric-Moe-Resume.pdf" target="_blank">[download print resume as pdf]</a></h4>
+<h5><a href="/doc/Eric-Moe-Resume.pdf" target="_blank">[download print resume as pdf]</a></h5>
 <hr/>
 
-<h4>Graphic Designer at <a href="https://liberalarts.utexas.edu/" target="_blank">UT Liberal Arts</a> and <a href="https://lifeandletters.la.utexas.edu/" target="_blank">Life &amp; Letters Magazine</a></h4>
-<h5 class="hug">May '16—Present | Austin, TX</h5>
+<h5>Graphic Designer at <a href="https://liberalarts.utexas.edu/" target="_blank">UT Liberal Arts</a> and <a href="https://lifeandletters.la.utexas.edu/" target="_blank">Life &amp; Letters Magazine</a></h5>
+<h6 class="hug">May '16—Present | Austin, TX</h6>
 <ul>
 <li>Designed editorial illustrations for articles in <a href="/portfolio/2017-01-13-life-letters/">Life and Letters magazine</a>.</li>
 <li>Created UT branded <a href="/portfolio/2016-11-02-ut-postcard/">cards</a> and <a href="/portfolio/2016-12-30-ut-xmas-card/">print media</a> for Liberal Arts Development.</li>
@@ -19,8 +19,8 @@ image: /img/twitter-image.jpg
 </ul>
 <hr/>
 
-<h4>Administrative Assistant at <a href="https://www.brendathompson.com/" target="blank">Brenda Thompson Communications</a></h4>
-<h5 class="hug">May '16—Dec '16 | Austin, TX</h5>
+<h5>Administrative Assistant at <a href="https://www.brendathompson.com/" target="blank">Brenda Thompson Communications</a></h5>
+<h6 class="hug">May '16—Dec '16 | Austin, TX</h6>
 <ul>
 <li>Designed graphics, social media campaigns, and client proposals.</li>
 <li>Collaborated with prominent Austin businesses such as <a href="https://thundercloud.com/" target="_blank">ThunderCloud Subs</a>, <a href="https://kerbeylanecafe.com/" target="_blank">Kerbey Lane Cafe</a>, and <a href="https://freedomsolarpower.com/" target="_blank">Freedom Solar Power</a>.</li>
@@ -28,8 +28,8 @@ image: /img/twitter-image.jpg
 </ul>
 <hr/>
 
-<h4>Intern at <a href="https://www.generousart.org/" target="blank">Generous Art</a></h4>
-<h5 class="hug">June '14—Aug '14 | Austin, TX</h5>
+<h5>Intern at <a href="https://www.generousart.org/" target="blank">Generous Art</a></h5>
+<h6 class="hug">June '14—Aug '14 | Austin, TX</h6>
 <ul>
 <li>Designed print, web, and branding material for a local non-profit art gallery and arts advocacy group.</li>
 <li>Managed data and image entry for their website and online store.</li>
@@ -38,8 +38,8 @@ image: /img/twitter-image.jpg
 </ul>
 <hr/>
 
-<h4>Fellow at <a href="https://mindpop.org/fellowship-program-overview/" target="blank">MINDPOP Fellowship for Creative Leadership</a></h4>
-<h5 class="hug">May '14—May '15 | Austin, TX</h5>
+<h5>Fellow at <a href="https://mindpop.org/fellowship-program-overview/" target="blank">MINDPOP Fellowship for Creative Leadership</a></h5>
+<h6 class="hug">May '14—May '15 | Austin, TX</h6>
 <ul>
 <li>Developed career skills as one of ten fellows selected for the education non-profit’s program.</li>
 <li>Explored opportunities in non-profit arts education.</li>
@@ -47,8 +47,8 @@ image: /img/twitter-image.jpg
 </ul>
 <hr/>
 
-<h4>Lifeguard at <a href="https://circlecranch.info/amenities/circle-c-aquatics/" target="blank">Circle C Swim Center</a></h4>
-<h5 class="hug">June '14—Jan '16 | Austin, TX</h5>
+<h5>Lifeguard at <a href="https://circlecranch.info/amenities/circle-c-aquatics/" target="blank">Circle C Swim Center</a></h5>
+<h6 class="hug">June '14—Jan '16 | Austin, TX</h6>
 <ul>
 <li>Completed and sustained Red Cross Lifeguard Certification.</li>
 <li>Maintained pool facilities and equipment hourly.</li>
@@ -57,8 +57,8 @@ image: /img/twitter-image.jpg
 </ul>
 <hr/>
 
-<h4>Camp Counselor at <a href="https://www.bsacac.org/activities/for_boy_scouts/summercamp" target="blank">Lost Pines Boy Scout Camp</a></h4>
-<h5 class="hug">May '11—Aug '13 | Austin, TX</h5>
+<h5>Camp Counselor at <a href="https://www.bsacac.org/activities/for_boy_scouts/summercamp" target="blank">Lost Pines Boy Scout Camp</a></h5>
+<h6 class="hug">May '11—Aug '13 | Austin, TX</h6>
 <ul>
 <li>Instructed merit badge classes on art, wilderness survival, swimming, and outdoor skills.</li>
 <li>Maintained indoor and outdoor program areas.</li>
