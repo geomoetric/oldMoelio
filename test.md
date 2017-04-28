@@ -35,8 +35,18 @@ image: /img/test.png
     
 ## Default Image settings
     <img class="col three lazyload" src="/img/____" title="" alt="" data-action="zoom">
-# Default Markdown/Kramdown
 
+## Post Header
+<hr>
+
+  <header class="post-header">
+    <h2>{{ page.title }}</h2>
+    <hr style="margin-bottom: 0">
+    <h6 class="hug">{{ page.description}} | {{ page.date | date: "%B %-d, %Y &#124; %H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h6>
+    <hr style="margin-top: .12rem">
+  </header>
+
+<hr>
 ## Default Markdown/Kramdown
 
 If your markdown/kramdown isn't working, do not despair! You probably have to add some line spacing [enter] between elements.
