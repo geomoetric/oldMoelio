@@ -210,8 +210,8 @@ h6 {
     font-family: $baseFontFamily;
     margin: 0;
     margin-top: $leading;
-    /* Delete as soon as webfont integrated */
-    margin-bottom: $leading / 6;
+    /* Delete as soon as webfont integrated 
+    margin-bottom: $leading / 6;*/
     font-weight: 500;
     line-height: 1.2;
 }
@@ -498,6 +498,7 @@ text-align: center;
  * Posts  **********************************************************
  */
 .post-header {
+    margin-bottom: 1rem;
 }
 .post-title {
 font-size: 42px;
