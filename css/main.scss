@@ -14,6 +14,9 @@ $leading:$baseLineHeight * 1rem;
 // I actually like this to be slightly smaller then the leading. Makes for tight headings.
 $scale:1.414;
 
+// number of characters you want the line to be.
+$measure: 84;
+
 $small-font-size:  $baseFontSize * 0.875;
 
 $spacing-unit:     $leading;
@@ -83,13 +86,7 @@ $brand-color:   $moe;
  */ 
 
 .wrapper {
-    max-width: 42rem;
-/*    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
-    
-    max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2)); */
-    
-    
-    
+    max-width: $measure * .5rem;
     margin-right: auto;
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
@@ -97,9 +94,7 @@ $brand-color:   $moe;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        /* max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit}));
-        max-width:         calc(800px - (#{$horizontal-spacing-unit}));*/
-        max-width: 42rem;
+        max-width: $measure * .5rem;
         padding-right: $spacing-unit;
         padding-left: $spacing-unit;
     }
@@ -459,7 +454,6 @@ width:100%;
  * Pagination   **********************************************************
  */
 .pagination{
-max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
 text-align: center;
 width: 100%;
 position: inherit;
@@ -552,23 +546,16 @@ line-height: 1;
 
 /* Three Column */
 
-@media screen and (min-width: 601px) {
-    
-.clearfix:before,
-.clearfix:after {
-content: " ";
-display: table;
-}
-.clearfix:after {
-clear: both;
+
+.portfolio {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;  
 }
 .project {
-width: 33.33%;
-height: 250px;
-float: left;
-vertical-align: middle;
-box-sizing: border-box;
-padding: 10px;
+display: inline-block;
+margin-bottom: 1rem;
+width: calc(33.3% - .5rem);
 }
 .thumbnail{
 width: 100%;
@@ -601,14 +588,14 @@ text-align: center;
 }
 .thumbnail a:hover span {
 display: block;
-    }
 }
+
 
 /* Two Column */
 @media screen and (max-width: 600px) {
 
     .project {
-        width: 50%;
+        width: calc(50% - .5rem);
     }
     .thumbnail img{
         left: -45%;    
