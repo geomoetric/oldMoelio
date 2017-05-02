@@ -86,6 +86,7 @@ $brand-color:   $moe;
  */ 
 
 .wrapper {
+    flex: 1;
     max-width: $measure * .5rem;
     margin-right: auto;
     margin-left: auto;
@@ -115,8 +116,6 @@ $brand-color:   $moe;
 }
 
 .footer-nav {
-    float: left;
-line-height: 26px;
 }
 
 .footer a{
@@ -134,8 +133,8 @@ line-height: 26px;
 }
 
 .break {
-    padding-bottom:56px;
-    height: 100px;
+    flex: 2;
+    height: $leading * 2;
 }
 
 
@@ -460,14 +459,12 @@ bottom:0px;
 **********************************************************
  */
 .site-footer {
-border-top: 1px solid $grey-color-dark;
+flex: 1;
 background-color: $grey-color-dark;
-padding: 2px;
+padding: .5rem;
 color: #aaa;
-position:fixed;
 left:0px;
 bottom:0px;
-height:23px;
 width:100%;
 
 
@@ -493,12 +490,14 @@ color: $theme-color;
  * Page content   **********************************************************
  */
 .page-content {
-padding: 2rem 0 2rem 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+dislay: flex;
+flex-direction: column;
+padding: 2rem 0 0 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 
 @media screen and (max-width: 481px) {
 .page-content {  
-padding: 3.5rem 0 2rem 0;
+padding: 3.5rem 0 0 0;
     }
 }
 .page-heading {
