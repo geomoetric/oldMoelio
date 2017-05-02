@@ -91,7 +91,8 @@ $brand-color:   $moe;
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
     padding-left: $horizontal-spacing-unit;
-    @extend %clearfix;
+
+
 
     @include media-query($on-laptop) {
         max-width: $measure * .5rem;
@@ -361,16 +362,20 @@ footer a {
  * Site header   **********************************************************
  */
 .site-header {
-border-bottom: 1px solid $grey-color-light;
-background-color: #fff;
-opacity: 0.75;
+padding: .5rem 0;
+background-color: $theme-color;
+opacity: .96;
 position:fixed;
 left:0px;
 top:0px;
 height: auto;
 width: 100%;
+z-index: 1000;
 }
 
+.site-header a {
+color: $background-color;
+}
 .site-title {
 font-size: 20px;
 line-height: $nav-height;
@@ -487,8 +492,14 @@ color: $theme-color;
 /**
  * Page content   **********************************************************
  */
+.page-content {
+padding: 2rem 0 2rem 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+}
+
+@media screen and (max-width: 481px) {
 .page-content {  
-padding: 48px 0 96px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+padding: 3.5rem 0 2rem 0;
+    }
 }
 .page-heading {
 /* font-size: 20px; */
