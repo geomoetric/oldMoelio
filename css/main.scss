@@ -385,6 +385,11 @@ color: $theme-color;
 display: flex;
 justify-content: space-between;
 align-items: baseline;
+.nav-link{
+display: flex;
+justify-content: space-between;
+align-items: baseline;        
+    }
 .page-link{
 line-height: $baseLineHeight;
 margin-left: 1rem;
@@ -398,6 +403,7 @@ display: block;
 float: left;
 .page-link{
 margin-left: 0;
+margin-right: .5rem;
 &:not(:last-child) {
 margin-right: .5rem;
             }
