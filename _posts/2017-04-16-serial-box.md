@@ -9,7 +9,6 @@ category: portfolio
 ---
 
 <img class="col three lazyload" src="/img/sbweb.jpg"  data-action="zoom">
-<div class="col three caption">&nbsp;</div>
 
 Let's be honest guys. E-reader apps are awful. They hurt our eyes, their designs are dated, and they lack the personality and captivation of a real book. Which is a shame because people [seem to enjoy reading on their phones](https://www.theatlantic.com/technology/archive/2016/05/oh-internet-you-wonderful-newsy-readable-lovely-internet/481500/). 
 My challenge in this Type project was to redesign the 
@@ -41,7 +40,7 @@ In my project, I started with [victorian typography](https://www.pinterest.com/g
 <div class="col one caption">Share</div>
 <div class="col one caption">Menu</div>
 <div class="col one caption">E-Book View</div>
-<div class="col three caption">&nbsp;</div>
+
 
 You can also try out my prototype I made in Framer. It takes you through the onboarding process and highlights the features of each screen.
 

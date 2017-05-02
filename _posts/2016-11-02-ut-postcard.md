@@ -8,9 +8,7 @@ category: portfolio
 ---
 
 You could say I am an expert in burnt orange. Here are some thank-you-note-postcards I designed for the University of Texas [College of Liberal Arts](https://liberalarts.utexas.edu/). 
-<div class="col three caption">
-&nbsp;
-</div>
+
 <div class="img_full"> 
 	<img data-action="zoom" src="{{ site.baseurl }}/img/Thanks-1.png" alt="UT Post Cards" title="UT Post Cards"/>
     <br>

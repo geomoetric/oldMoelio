@@ -22,45 +22,31 @@ I was assigned a tack and my project was to make the tack represent a list of wo
 # Nervous
 
 <img class="col three" src="/img/tackArtboard%205.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
+
 
 I proposed this photo at a different angle, and my classmates said it looked fake. I rotated it 95° and they said they loved the new photo. 
 
 # Curious
 
 <img class="col three" src="/img/tackArtboard%203.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
 
 This was a rough shoot because of the direct light in my eyes. I ended up editing out the tears.
 
 # Tender
 
 <img class="col three" src="/img/tackArtboard%204.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
 
 Has science gone too far? Did my father’s camera capture too much detail in this shot?
 
 # Clumsy
 
 <img class="col three" src="/img/tackArtboard%201.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
 
 I took 200 photos of this shot. The words “motion photography” bring flashbacks of flashbulbs.
 
 # Loud
 
 <img class="col three" src="/img/tackArtboard%202.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
 
 A few of my classmates said that “snug” would be a better fit for this pic. I worry about these people.
 

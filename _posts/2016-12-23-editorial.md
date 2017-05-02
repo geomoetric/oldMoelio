@@ -15,37 +15,17 @@ This was a project made for someone who has read a newspaper since the first gra
 This design started as a goofy doodle that eventually materialized as a boozy robot and his trusty human companion. I think the funky print effect is the better treatment between the two.
 
 <img class="col three lazyload" src="/img/Editorial4.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
 
 <img class="col three lazyload" src="/img/Editorial1.png" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
 
 <img class="col three lazyload" src="/img/editorialspread2.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
 
 <img class="col three lazyload" src="/img/editorialspread3.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
-
 
 ### The Doll in the Blue Pantsuit
 
 In this op-ed, the imagery of the doll seemed too on the nose for my purposes, so I used doll packaging as the foundation of the piece. It is meant to be a narrative that describes the popular demand each candidate experienced through that American pastime of vicious shopping.
 
 <img class="col three lazyload" src="/img/Editorial3.png" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
 
 <img class="col three lazyload" src="/img/editorialspread.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
-

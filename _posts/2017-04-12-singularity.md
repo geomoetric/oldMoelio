@@ -54,8 +54,5 @@ My original color choice... I'm still a fan.</div>
 Our solution was to produce a muted red color that printed well and satisfied all concerns. I think that both director and designer got a lot out of this collaboration. Those directors will understand the choices made by future poster designers, and I have a new appreciation for humanity both near and far.
 
 <img class="col three lazyload" src="/img/play-6.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
 
 If you found this post interesting, or want to learn more about the production, I encourage you to see this [play.](https://www.eventbrite.com/e/a-singularity-tickets-33269303382)
