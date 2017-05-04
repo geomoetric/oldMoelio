@@ -3,54 +3,10 @@ layout: default
 ---
 
 # HELLO
-## I had a website before, so now I'm going to break it to make it better!
+### I had a website before, so now I'm going to break it to make it better!
 
-## [Old Website Home](https://ericmoe.co)
-## [Old Website Styles](https://ericmoe.co/test)
-## <a href="#preview">&#8680; New Website Styles &#8678;</a>
-
-## Day by day:
-### Tuesday April 11:
-1. [x] Make this big ol' list
-
-### Thursday April 13:
-1. [x] Better Typography-
-	1. [x] standardize, content based, rem
-2. [ ] CMYK/RGB Peony Blue (that signature color I'm using for links and the like)
-3. [x] Post this on Jim's website
-
-### Tuesday April 18:
-1. [x] Better Typography-
-	1. [x] Just fixing stuff lol. The type is set but the margins need love!
-    2. [x] Worked with the Typebase type heiarchy, gonna run it by Jim to see what he thinks. 
-    3. [x] H1-H6 are integrated better for accessablility.
-    4. [x] Removed all <br> that I could find, replacing with margins/padding. 
-2. [x] CMYK/RGB Peony Blue (that signature color I'm using for links and the like)
-    1. [x] Ended up using a pantone so I don't have to think about this. Here's the link to [my brand color](https://www.pantone.com/color-finder/661-U)
-3. [x] Post this on Jim's website
-    1. [ ] EVERYTHING IS BROKEN. OH GOD ITS AN ISSUE WITH PERMALINKS. INTERNET GOD FORGIVE ME.
-    2. [ ] New plan: upload the Index.html page with a style guide so that y'all can see the changes!
-4. [x] Better typography on resume
-8. [ ] Remove padding and fix footer to the bottom
-	9. [x] Super fix the footer now that it's invisible(turned out to be a margin issue)
-    10. [ ] Still need to affix footer to bottom
-    
-### Thursday April 20:
-3. [x] Zoom feature for images
-    1. [x] Fully integrated baby! published live to site rn!
-
-### Tuesday April 25:
-1. [x] Fix Saber rul quick
-    1. [x] That image is no longer broken! NO MORE JPG ONLY jpg
-2. [x] Try a new header font for variety
-    1. [x] Gonna try clarendon!
-    2. [ ] Eventually need to set up async font loader (Toward very end of process)
-
-### Thursday April 27:
-
-
-## Master Plan
-### Done
+### Master Plan
+#### Done
 1. [x] Better Typography-
 	1. [x] Just fixing stuff lol. The type is set but the margins need love!
     2. [x] Worked with the Typebase type heiarchy, gonna run it by Jim to see what he thinks. 
@@ -70,17 +26,23 @@ layout: default
 2. [x] Try a new header font for variety
     1. [x] Gonna try clarendon!
     2. [ ] Eventually need to set up async font loader (Toward very end of process)
-
-### To Do
-
-11. [ ] Google Page Speed
-    2. [ ] async everything
 10. [ ] Pagination on portfolio page
 	1. [ ] move everything into _blog folder
     2. [ ] add new front matter specifiying pages or blog
 2. [ ] better margins, scaling
     1. [x] Normalize.css integrated
     11. [ ]Remove inconsistent padding
+8. [ ] Remove padding and fix footer to the bottom
+	9. [x] super fix the footer now that it's invisible
+    10. [ ] Still need to affix footer to bottom
+    11. [ ] more descriptive footer? or maybe log changes like a blogpost...
+    
+    
+#### To Do
+
+11. [ ] Google Page Speed
+    2. [ ] async everything
+
 2. [ ] Better Image Portfolio:
 	1. [ ] Content based
     3. [ ] serving cropped images
@@ -92,20 +54,83 @@ layout: default
 7. [ ] Image animations for lazy load!
 	1. [ ] Animate.css
     2. [ ] except maybe not since that is bloaty...
-8. [ ] Remove padding and fix footer to the bottom
-	9. [x] super fix the footer now that it's invisible
-    10. [ ] Still need to affix footer to bottom
-    11. [ ] more descriptive footer? or maybe log changes like a blogpost...
 8. [ ] Show active state in Header
 9. [ ] Full linting/cleaning code
 	9. [ ] Remove unused CSS Classes
     10. [ ] Scssify to inline critical styles(should do this automatically)
 12. [ ] Open Source the page
 13. [ ] New Favicon
-14. [ ] **Final things!**
-	15. [ ] Delete this page
-	16. [ ] Restore the original index.html, and restore permalink in header
-	17. [ ] Push to git and hope nothing breaks LOL
+
+
+### [New Website Home](https://ericmoe.co)
+### <a href="#preview">&#8680; New Website Styles &#8678;</a>
+
+### Day by day:
+#### Tuesday April 11:
+1. [x] Make this big ol' list
+
+#### Thursday April 13:
+1. [x] Better Typography-
+	1. [x] standardize, content based, rem
+2. [ ] CMYK/RGB Peony Blue (that signature color I'm using for links and the like)
+3. [x] Post this on Jim's website
+
+#### Tuesday April 18:
+1. [x] Better Typography-
+	1. [x] Just fixing stuff lol. The type is set but the margins need love!
+    2. [x] Worked with the Typebase type heiarchy, gonna run it by Jim to see what he thinks. 
+    3. [x] H1-H6 are integrated better for accessablility.
+    4. [x] Removed all <br> that I could find, replacing with margins/padding. 
+2. [x] CMYK/RGB Peony Blue (that signature color I'm using for links and the like)
+    1. [x] Ended up using a pantone so I don't have to think about this. Here's the link to [my brand color](https://www.pantone.com/color-finder/661-U)
+3. [x] Post this on Jim's website
+    1. [ ] EVERYTHING IS BROKEN. OH GOD ITS AN ISSUE WITH PERMALINKS. INTERNET GOD FORGIVE ME.
+    2. [ ] New plan: upload the Index.html page with a style guide so that y'all can see the changes!
+4. [x] Better typography on resume
+8. [ ] Remove padding and fix footer to the bottom
+	9. [x] Super fix the footer now that it's invisible(turned out to be a margin issue)
+    10. [ ] Still need to affix footer to bottom
+    
+#### Thursday April 20:
+3. [x] Zoom feature for images
+    1. [x] Fully integrated baby! published live to site rn!
+
+#### Tuesday April 25:
+1. [x] Fix Saber rul quick
+    1. [x] That image is no longer broken! NO MORE JPG ONLY jpg
+2. [x] Try a new header font for variety
+    1. [x] Gonna try clarendon!
+    2. [ ] Eventually need to set up async font loader (Toward very end of process)
+
+#### Thursday April 27:
+
+### Github contributions 
+
+#### (literal proof that I've been working on this project)
+<br>
+
+<!-- Include the library. -->
+<script
+  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js">
+</script>
+
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link
+  rel="stylesheet"
+  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
+/>
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+
+<script>
+    GitHubCalendar(".calendar", "geomoetric");
+</script>
+
+
 
 <a name="preview">...</a>
 <br>
@@ -251,28 +276,3 @@ ___
 ### [LINK TO COLOR INFO](https://www.pantone.com/color-finder/661-U)
 <hr/>
 
-## Github contributions 
-
-### (literal proof that I've been working on this project)
-<br>
-
-<!-- Include the library. -->
-<script
-  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js">
-</script>
-
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-  rel="stylesheet"
-  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    GitHubCalendar(".calendar", "geomoetric");
-</script>
