@@ -1,30 +1,35 @@
 ---
 layout: default
+title: Eric Moe
+description: The portfolio of Eric Moe.
+image: /img/twitter-image.jpg
 ---
 
-<div class="header-bar">
+  <header class="post-header">
+    <h2>Portfolio</h2>
+  </header>
+<!--<div class="header-bar">
   <h1>ERIC MOE</h1>
-  <h3>Designer<wbr> | Developer | <wbr>Illustrator</h3>
-  <br/>
-</div>
+  <h5 class="hug">Designer<wbr> | Developer | <wbr>Illustrator</h5>
+</div>-->
 
+<div class="portfolio">
+{% for post in paginator.posts %}
 
-{% for project in site.portfolio reversed %}
-
-{% if project.redirect %}
+{% if post.redirect %}
 <div class="project">
     <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.image %}
+        <a href="{{ post.redirect }}" target="_blank">
+        {% if post.image %}
         <img class="lazyload thumbnail"
-	src="/img/lqweb.png" data-src="{{ project.image }}" alt="100%x200"/>
+	src="/img/lqweb.png" data-src="{{ post.image }}" alt="100%x200"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
+            <h1>{{ post.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ post.description }}</p>
         </span>
         </a>
     </div>
@@ -33,16 +38,15 @@ layout: default
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.image %}
-        <img class="lazyload thumbnail" src="/img/lqweb.png" data-src="{{ project.image }}" alt="100%x200"/>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+        {% if post.image %}
+        <img class="lazyload thumbnail" src="/img/lqweb.png" data-src="{{ post.image }}" alt="100%x200"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
+            <h4 class="display">{{ post.title }}</h4>
+            <p>{{ post.description }}</p>
         </span>
         </a>
     </div>
@@ -51,3 +55,19 @@ layout: default
 {% endif %}
 
 {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Newer Projects</a>
+    <wbr>|<wbr>
+  {% else %}
+  {% endif %}
+  <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <wbr>|<wbr>
+    <a href="{{ paginator.next_page_path }}" class="next">Older Projects</a>
+  {% else %}
+  {% endif %}
+</div>

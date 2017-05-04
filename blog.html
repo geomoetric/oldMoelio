@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /blog/
+title: BLOG
+description: Writings, WIPs, and smaller projects.
+sitemap: main
+---
+<ul class="post-list">
+
+    {% for post in site.posts %}
+
+    {% if post.category == 'blog' %}
+
+      <li>
+        <h4 class="display"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        <h6 class="hug">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</h6>
+        <p class="hug">{{ post.description }}</p>
+        <hr/>
+      </li>
+    
+    {% endif %}
+
+    {% endfor %}
+
+</ul>

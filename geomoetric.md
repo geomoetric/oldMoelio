@@ -11,8 +11,8 @@ image: /img/twitter-image.jpg
 
 <div class="header-bar">
  <h1>@<wbr>geo<wbr>moe<wbr>tric</h1>
-  <h2>aka Eric Moe</h2>
-  <br/>
+  <h2 class="hug">aka Eric Moe</h2><br/>
+  
 </div>
 
 <article class="post-content">

@@ -6,12 +6,11 @@ image: /img/donezoweb.jpg
 date: 2016-12-19T07:00:00S 
 share: facebook portfolio twitter
 tags: donezo
+category: blog
+hidden: true
 ---
 
 <img class="col three" data-action="zoom" src="/img/donezoweb.jpg">
-<div class="col three caption">
-&nbsp;
-</div>
 
 The dust has settled on the Fall Semester— and what a semester it's been. Fall 2016 was officially the beginning of my design coursework at UT. Having completed all my preliminary work, I was free to take courses on graphic design, typography, and product design. On top of that, I worked two jobs, finished this website, and completed some top notch design work that I will post soon.
 

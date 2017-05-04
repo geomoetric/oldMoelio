@@ -12,7 +12,7 @@ image: /img/test.png
 &nbsp;
 </div>
 
-# Default Front Matter
+## Default Front Matter
     ---
     layout: post
     title: Style Guide
@@ -22,7 +22,7 @@ image: /img/test.png
     image: /img/test.png
     share: facebook portfolio twitter
     tags: te$t
-    ___
+    ---
 
     # Date Formats:
     date: '2016-10-21T09:30:00R'
@@ -33,39 +33,39 @@ image: /img/test.png
     # Auto Sharing:
     # include '--twitter- title' if you want the title entry on the xml to be the title. The default behavior is to append the description, url, and hashtsgs into one tweet.
     
-# Default Image settings
+## Default Image settings
     <img class="col three lazyload" src="/img/____" title="" alt="" data-action="zoom">
-# Default Markdown/Kramdown
+
+## Post Header
+<hr>
+
+  <header class="post-header">
+    <h2>{{ page.title }}</h2>
+    <hr style="margin-bottom: 0">
+    <h6 class="hug">{{ page.description}} | {{ page.date | date: "%B %-d, %Y &#124; %H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h6>
+    <hr style="margin-top: .12rem">
+  </header>
+
+<hr>
+## Default Markdown/Kramdown
 
 If your markdown/kramdown isn't working, do not despair! You probably have to add some line spacing [enter] between elements.
+
 <hr/>
-<br/>
 
 # H1 header
 
-<br/>
-
 ## H2 header
-
-<br/>
 
 ### H3 header
 
-<br/>
-
 #### H4 header
-
-<br/>
 
 ##### H5 header
 
-<br/>
-
 ###### H6 header
 
-<br/>
 <hr/>
-<br/>
 
 This is *emphasized*,
 _this_ too!
@@ -74,9 +74,7 @@ _this_ too!
 This is **strong**,
 __this__ too!
 
-<br/>
 <hr/>
-<br/>
 
 A [link](https://kramdown.gettalong.org "hp")
 to the homepage.
@@ -88,26 +86,20 @@ A link to the [kramdown hp].
 A [link](https://kramdown.gettalong.org){:target="_blank"} to a new tab.
 
 
-<br/>
 <hr/>
-<br/>
 
 This is a text with a
 footnote[^1].
 
 [^1]: And here is the definition.
 
-<br/>
 <hr/>
-<br/>
 
 term
 : definition
 : another definition
 
-<br/>
 <hr/>
-<br/>
 
 * A list item with additional text
 * another one
@@ -119,15 +111,11 @@ term
    3. sub item three
 2. Item two
 
-<br/>
 <hr/>
-<br/>
 
 This is *red*{: style="color: red"}.
 
-<br/>
 <hr/>
-<br/>
 
 > A sample blockquote.
 >
@@ -137,9 +125,7 @@ This is *red*{: style="color: red"}.
 > ## Headers work too
 > This is the outer quote again.
 
-<br/>
 <hr/>
-<br/>
 
 ~~~~~~
 This is also a code block.
@@ -159,9 +145,17 @@ ___
 |=====
 | Foot1   | Foot2   | Foot3
 
-<br/>
+<hr/>
 
-# Framer embed:
+## Brand Colors:
+<img class="col one lazyload" src="/img/lq.png">
+### RGB: 73 103 170
+### HEX/HTML: 4967AA 
+### CMYK: 86 52 0 0
+### PANTONE: 661 U
+### [LINK TO COLOR INFO](https://www.pantone.com/color-finder/661-U)
+<hr/>
+## Framer embed:
 
     <iframe class="lazyload" data-action="zoom" src="/framer/sb/index.html" width="100%" height="800px" frameBorder="0"></iframe>
 

@@ -4,22 +4,22 @@
 @charset "utf-8";
 
 
+// Typesetting variables. Edit these!
+$baseFontFamily:    Work Sans, Helvetica, sans-serif;
+$displayFontFamily:    clarendon-urw, Georgia;
+$baseFontSize:      16; // in pixels. This would result in 22px on desktop
+$baseLineHeight:    1.45; // how large the line height is as a multiple of font size
+$leading:$baseLineHeight * 1rem;
+// Rate of growth for headings
+// I actually like this to be slightly smaller then the leading. Makes for tight headings.
+$scale:1.414;
 
-// Our variables
-$base-font-family: Work Sans, Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+// number of characters you want the line to be.
+$measure: 84;
 
-$spacing-unit:     30px;
+$small-font-size:  $baseFontSize * 0.875;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$spacing-unit:     $leading;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -41,9 +41,683 @@ $on-laptop:        800px;
 
 
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+/**
+ * _base.scss   **********************************************************
+ */
+
+
+/** Variables **********************************************/
+
+$horizontal-spacing-unit:       $leading;
+$vertical-spacing-unit:         $leading;
+$nav-height:                    56px;
+
+/* portfolio tinkering */
+$img_spacing: 5px; 
+$img_height: 275px;
+$caption_font_size: $scale / 2 * 1rem;
+
+/* COLORS  */
+$red:  #FF3636;
+$orange: #F29105;
+$blue: #2698BA;
+$green: #11D68B;
+$lime_green: #B7D12A;
+$purple: #B509AC;
+$navy: #3E69AA;
+$off_white: #f5f6f6;
+$text_color: #666;
+
+$moe: #4967AA;
+
+$grey-color:       #828282;
+$grey-color-dark: #333;   /* footer */
+$grey-color-light: #ddd;  /* navigation bar border */
+$text-color:     #666;
+$background-color: #fdfdfd;
+$caption_color: #aaa;
+
+/* Set theme color *************************/
+$theme-color:   $moe;
+$brand-color:   $moe;
+
+/**
+ * Wrapper
+ */ 
+
+.wrapper {
+    width: 100%;
+    flex: 1;
+    max-width: $measure * .5rem;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $horizontal-spacing-unit;
+    padding-left: $horizontal-spacing-unit;
+
+
+    @media screen and (max-width: $measure * .5rem + 1rem) {
+        width: 100%;
+        padding-right: 0;
+        padding-left: 0;
+        margin-right: $spacing-unit;
+        margin-left: $spacing-unit;
+    }
+}
+
+
+/**
+ * Clearfix
+ */
+%clearfix {
+    &:before,
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+.footer-nav {
+}
+
+.footer a{
+   color: #aaa;
+    text-decoration: none;
+    /*
+    &:visited {
+        color: darken($brand-color, 15%); 
+    }
+    */
+    &:hover {
+        color: $theme-color;
+        text-decoration: none;
+    } 
+}
+
+.break {
+    flex: 2;
+    height: $leading * 6;
+    //min-height: 20rem;
+
+}
+
+
+/************************************************************/
+
+/**
+ * _type.scss   **********************************************************
+ */
+
+
+/**
+ * Typography   **********************************************************
+ */
+
+/* Setup */
+
+html {
+    /* Change default typefaces here */
+    font-family: $baseFontFamily;
+    font-size: $baseFontSize / 16 * 100%;
+    color: $text-color;
+    background-color: $background-color;
+    line-height: $leading;
+    // Make everything look a little nicer in webkit
+    -webkit-font-smoothing: antialiased;
+    // -webkit-text-size-adjust: auto
+    // -moz-text-size-adjust: auto
+    // -ms-text-size-adjust: auto
+    // -o-text-size-adjust: auto
+    // text-size-adjust: auto
+}
+body {
+    margin: 0;
+}
+/* Copy & Lists */
+
+p {
+    margin-top: $leading;
+    margin-bottom: 0;
+}
+ul,
+ol {
+    margin-top: $leading;
+    margin-bottom: $leading;
+    li {
+        line-height: $leading;
+    }
+    ul,
+    ol {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
+blockquote {
+    font-family: $displayFontFamily;
+    line-height: $leading;
+    margin: $leading;
+    border-left: 10px solid $grey-color-light;
+    padding-left: $horizontal-spacing-unit / 2;
+    font-style: italic;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+/* Headings */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    /* Change heading typefaces here */
+    font-family: $baseFontFamily;
+    margin: 0;
+    margin-top: $leading;
+    /* Delete as soon as webfont integrated 
+    margin-bottom: $leading / 6;*/
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1 {
+    font-family: $displayFontFamily;
+    font-size: 3 * $scale * 1rem;
+}
+h2 {
+    font-family: $displayFontFamily;
+    font-size: 2.5 * $scale * 1rem;
+}
+h3 {
+    font-family: $displayFontFamily;
+    font-size: 2 * $scale * 1rem;
+}
+h4 {
+    font-size: 1.5 * $scale * 1rem;
+}
+h5 {
+    font-size: 1 * $scale * 1rem;
+}
+h6 {
+    font-size: $scale / 2 * 1rem;
+}
+
+
+/* Tables */
+
+table {
+    margin-top: $leading;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+td,
+th {
+    padding: 0;
+    line-height: $baseLineHeight * $baseFontSize - 0px;
+}
+/* Code blocks */
+
+code {
+    // Forces text to constrain to the line-height. Not ideal, but works.
+    vertical-align: bottom;
+}
+/* Leading paragraph text */
+
+.lead {
+    font-size: $scale * 1rem;
+}
+/* Hug a the block above you */
+
+.hug {
+    margin-top: 0;
+}
+
+.allhug {
+    margin: 0;
+}
+.push {
+    margin-bottom: $leading;
+}
+
+.display{
+    font-family: $displayFontFamily;
+}
+/**
+ * end typebass.css   **********************************************************
+ */
+
+hr {
+  border: 0;
+  border-top: 1px solid #8c8c8c;
+  border-bottom: 1px solid #fff;
+  margin-top: $leading;
+}
+  /**
+ * Code formatting
+ */
+pre,
+code {
+    vertical-align: bottom;
+    font-size: 15px;
+    border-radius: 3px;
+    background-color: $grey-color-light;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+/**
+ * Links
+ */
+a {
+    color: $theme-color;
+    text-decoration-line: none;
+    /*
+    &:visited {
+        color: darken($brand-color, 15%); 
+    }
+    */
+    &:hover {
+        color: lighten($theme-color, 15%);
+    }
+}
+
+article a {
+    color: $theme-color;
+
+    &:hover {
+    }
+}
+
+footer a {
+    color: #aaa;
+    /*
+    &:visited {
+        color: darken($brand-color, 15%); 
+    }
+    */
+    &:hover {
+        color: $theme-color;
+        text-decoration: none;
+    }
+}
+
+
+
+/**
+ * _layout.scss   **********************************************************
+ */
+
+/**
+ * Site header   **********************************************************
+ */
+.site-header {
+padding: .5rem 0;
+background-color: $theme-color;
+opacity: .96;
+position:fixed;
+left:0px;
+top:0px;
+height: auto;
+width: 100%;
+z-index: 50;
+}
+
+.site-header a {
+color: $background-color;
+}
+.site-title {
+font-size: 20px;
+line-height: $nav-height;
+letter-spacing: -1px;
+margin-bottom: 0;
+&:hover {
+text-decoration: none;
+color: $theme-color;
+    }
+}
+.site-nav {
+display: flex;
+justify-content: space-between;
+align-items: baseline;
+.nav-link{
+display: flex;
+justify-content: space-between;
+align-items: baseline;        
+    }
+.page-link{
+line-height: $baseLineHeight;
+margin-left: 1rem;
+    }
+}
+
+
+@media screen and (max-width: 481px) {
+.site-nav {
+display: block;
+float: left;
+.page-link{
+margin-left: 0;
+margin-right: .5rem;
+&:not(:last-child) {
+margin-right: .5rem;
+            }
+        }
+    }
+}
+    
+/*@include media-query($on-palm) {
+position: fixed;
+top: 0px;
+right: 10px;
+text-align: right;
+&:hover .trigger {
+display: block;
+padding-bottom: 5px;
+        }
+.page-link {
+display: line;
+        }
+    }
+} */
+
+.header-bar{
+    left: 0px;
+    top: 0px;
+    position: relative;
+    display: block;
+    opacity: 1;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 3rem;
+    h1{
+        color: $theme-color;
+    }
+}
+
+/**
+ * Site footer 
+
+border-top: 1px solid $grey-color-dark;
+background-color: $grey-color-dark;
+color: #aaa;
+width:100%;
+min-height: 58px;
+position: absolute;
+left:0px;
+bottom:0px;
+
+**********************************************************
+ */
+.site-footer {
+flex: 3;
+background-color: $grey-color-dark;
+padding: .5rem;
+color: #aaa;
+width:100%;
+max-height: 1.5rem;
+
+
+   
+
+}
+/**
+ * Pagination   **********************************************************
+ */
+.pagination{
+text-align: center;
+width: 100%;
+position: inherit;
+border-top: $leading;
+}
+.paginationicon {
+font-size: 50px;
+a {
+color: $theme-color;
+    }
+}
+/**
+ * Page content   **********************************************************
+ */
+.page-content {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+padding: 2rem 0 0 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+min-height: 54rem;
+}
+
+@media screen and (max-width: 481px) {
+.page-content {  
+padding: 3.5rem 0 0 0;
+    }
+}
+.page-heading {
+/* font-size: 20px; */
+}
+.post-list {
+padding: 0;
+margin: 0;
+list-style: none;
+    > li {
+margin-bottom: $vertical-spacing-unit;
+    }
+}
+.contacticon {
+font-size: 60px;
+display:block;
+margin: 10px;
+}
+.contacticon2 {
+font-size: 20px;
+display:block;
+margin: 10px;
+}
+.center{
+text-align: center;
+}
+/**
+ * Posts  **********************************************************
+ */
+.post-header {
+    margin-bottom: 1rem;
+}
+.post-title {
+font-size: 42px;
+letter-spacing: -1px;
+line-height: 1;
+}
+.post-content { /*
+h2 {
+font-size: 42px;
+}
+h3 {
+font-size: 30px;
+}
+h4 {
+font-size: 20px;
+    }
+h5 {
+font-size: 16px;
+    } */
+}
+.post-meta {
+font-size: $small-font-size;
+color: $grey-color;
+margin-bottom: 0px; 
+}
+.post-link {
+display: block;
+/* font-size: 42px; */
+}
+
+/** Poem formatting ********************************************/
+.poem-title {
+font-size: 24px;
+letter-spacing: -1px;
+line-height: 1;
+}
+
+
+/** 
+ * Portfolio grid **********************************************************
+*/
+// Nicolas Gallagher's micro clearfix hack
+// https://nicolasgallagher.com/micro-clearfix-hack/
+
+/* Three Column */
+
+
+.portfolio {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;  
+}
+.project {
+display: inline-block;
+margin-bottom: 1rem;
+width: calc(33.3% - .5rem);
+}
+.thumbnail{
+width: 100%;
+height: 15rem;
+overflow: hidden;
+}
+.thumbnail img{
+width: 31.25rem;
+height: auto;
+position: relative;
+left: -67.25%;
+}
+.thumbnail a{
+float: left;
+position: relative;
+width: 100%;
+height: 15rem;
+}
+.thumbnail a span {
+display: none;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background: rgba(0,0,0,0.4);
+color: $grey-color-light;
+padding: 1rem;
+text-align: center;
+}
+.thumbnail a:hover span {
+display: block;
+}
+
+
+/* Two Column */
+@media screen and (max-width: 37.5rem) {
+
+    .project {
+        width: calc(50% - .5rem);
+    }
+    .thumbnail img{
+        left: -45%;    
+    }
+}
+/* One Column */
+@media screen and (max-width: 25rem) {
+
+    .project {
+        width: 100%;
+    }
+    .thumbnail img{
+        left: -80px
+    }
+}
+
+/** 
+ * Portfolio pages **********************************************************
+*/
+.blankbox{
+background: $theme-color;
+}
+.img_row{
+height: $img_height;
+width: 100%;
+overflow: hidden;
+box-sizing:border-box;
+padding: $img_spacing;
+}
+.col{ 
+width: 100%;
+height: 100%;
+float: left;
+object-fit: cover;
+box-sizing:border-box;
+padding: 0;
+margin-bottom: 1.45rem;
+}
+.right{
+float: right;
+}
+.left{
+padding: 0 $img_spacing;
+}
+.one {
+width:33.33%;
+padding: 0;
+}
+.two {
+width: 66.66%;
+}
+.three{
+width: 100%;
+}
+.caption{
+height: 100%;
+color: $caption_color;
+text-align: center;
+vertical-align: middle;
+font-size: $caption_font_size;
+}
+
+/** 
+ * Video
+**********************************************************
+*/
+
+
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/** 
+ * Media Queries
+**********************************************************
+*/
+
+
+div {
+    
+}

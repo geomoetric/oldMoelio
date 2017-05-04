@@ -6,25 +6,18 @@ description: Copyright info.
 sitemap: main
 ---
 <h3>Copyright&nbsp;©{{ site.time | date: '%Y' }} {{ site.name | replace:' ','&nbsp;' }} Some&nbsp;Rights&nbsp;Reserved</h3> 
-<br>
 <span class="contacticon center">
   <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"/>
   <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg"/>
   <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
   <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
 </span>
-<br>
 **TLDR:** This site’s code is licensed under the MIT license, and the images/blog content are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
-<br>
 <hr>
-<br>
-<br>
 **Code TLDR:** You can do whatever you want to the code (the jekyll framework/template— excluding my own images/blog content) as long as you include the original copyright and license notice in any copy of the software/source.
 
 <a href="https://tldrlegal.com/license/mit-license" target="_blank">More Info</a> &#124; <a href="https://opensource.org/licenses/MIT" target="_blank">Full License</a> &#124; <a href="https://opensource.org/licenses/MIT" target="_blank">Theme Download</a>
-<br>
 <hr>
-<br>
 
 **Image and Content TLDR:** You can share, copy, and redistribute my images and blog content in any medium or format. You can adapt, remix, transform, and build upon the material. But you can only do so under the following conditions:
 
@@ -35,29 +28,24 @@ sitemap: main
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">More Info</a> &#124; <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" target="_blank">Full License</a>
 
 <hr>
-<br/>
 
-<h3>Code License</h3>
-<h4>The MIT License (MIT)</h4>
+<h2>Code License</h2>
+<h3>The MIT License (MIT)</h3>
 
 Copyright ©{{ site.time | date: '%Y' }} {{ site.name }}
 
-<h4>*Applies to all project files that are not a part of the Image and Content License.</h4>
-<br>
+<h3>*Applies to all project files that are not a part of the Image and Content License.</h3>
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-<br>
 <hr>
-<br>
-<h3>Image and Content License</h3> 
-<h4>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</h4>
+<h2>Image and Content License</h2> 
+<h3>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</h3>
 Copyright ©{{ site.time | date: '%Y' }} {{ site.name }}
 
-<h4>*Applies to all image files and blog content</h4>
-<br>
+<h3>*Applies to all image files and blog content</h3>
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
 **Section 1 – Definitions.**

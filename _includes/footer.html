@@ -6,25 +6,29 @@
 
       <div class="trigger">
        
-       <p><a 
-             href="{{ site.baseurl }}/">{{ site:title | upcase }}</a>&emsp;<wbr><a href="/geomoetric/">SOCIAL</a>&emsp;<wbr><a href="/archive/">ARCHIVE</a>&emsp;<wbr><a href="/sitemap/">SITEMAP</a>&emsp;<wbr><a href="https://jekyllrb.com/" target="_blank">JEKYLL</a>&emsp;<wbr><a class="footer a" href="/copyright/">&copy;{{ site.time | date: '%Y' }}</a></p>
-           
+       <p style="margin: 0;"><a
+            href="#top">TOP</a>&emsp;<wbr><a href="/geomoetric/">SOCIAL</a>&emsp;<wbr><a href="/archive/">ARCHIVE</a>&emsp;<wbr><a href="/sitemap/">SITEMAP</a>&emsp;<wbr><a href="https://jekyllrb.com/" target="_blank">JEKYLL</a>&emsp;<wbr><a class="footer a" href="/copyright/">&copy;{{ site.time | date: '%Y' }}</a></p>
       </div>
     </nav>
 
   </div>
     
+    <!-- Normalize Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/6.0.0/normalize.min.css">
+    
     <!-- CSS/SASS Link -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    <link rel="stylesheet" href="/css/main.css">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  
+    
+    <!-- Typekit -->
+    <script src="https://use.typekit.net/fvs0ulb.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
     
     <!-- Font Awesome Icons -->	
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-   
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
     
     <!-- Image Zoom -->
     <script src="/zooming.min.js"></script>

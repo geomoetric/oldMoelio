@@ -25,10 +25,12 @@ color: $theme-color;
     }
 }
 .site-nav {
-float: right;
-line-height: $nav-height;
+display: flex;
+justify-content: space-between;
+
+}
 .page-link{
-line-height: $base-line-height;
+line-height: $baseLineHeight;
         // Gaps between nav items, but not on the first one
 &:not(:first-child) {
 margin-left: 10px;
@@ -106,8 +108,8 @@ width:100%;
 max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
 text-align: center;
 width: 100%;
-position: fixed;
-bottom: 50px;
+position: inherit;
+
 }
 .paginationicon {
 font-size: 50px;
@@ -149,6 +151,7 @@ text-align: center;
  */
 .post-header {
 margin-bottom: $vertical-spacing-unit;
+clear: both;
 }
 .post-title {
 font-size: 42px;
