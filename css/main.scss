@@ -94,7 +94,6 @@ $brand-color:   $moe;
     padding-left: $horizontal-spacing-unit;
 
 
-
     @include media-query($on-laptop) {
         max-width: $measure * .5rem;
         padding-right: $spacing-unit;
@@ -134,7 +133,9 @@ $brand-color:   $moe;
 
 .break {
     flex: 2;
-    height: $leading * 2;
+    height: $leading * 6;
+    //min-height: 20rem;
+
 }
 
 
@@ -459,13 +460,12 @@ bottom:0px;
 **********************************************************
  */
 .site-footer {
-flex: 1;
+flex: 3;
 background-color: $grey-color-dark;
 padding: .5rem;
 color: #aaa;
-left:0px;
-bottom:0px;
 width:100%;
+max-height: 1.5rem;
 
 
    
@@ -490,9 +490,11 @@ color: $theme-color;
  * Page content   **********************************************************
  */
 .page-content {
-dislay: flex;
+display: flex;
 flex-direction: column;
+justify-content: space-between;
 padding: 2rem 0 0 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+min-height: 54rem;
 }
 
 @media screen and (max-width: 481px) {
