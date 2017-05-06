@@ -7,10 +7,8 @@ published: true
 image: /img/test.png
 ---
 
-<img class="col three lazyload" src="/img/donezoweb.jpg" data-action="zoom">
-<div class="col three caption">
-&nbsp;
-</div>
+{% picture /img/donezoweb.jpg alt="An unsual picture" %}
+
 
 ## Default Front Matter
     ---
