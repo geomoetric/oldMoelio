@@ -100,18 +100,17 @@ gems:
     - jekyll-picture-tag
 
 picture:
-  source: img
-  output: generated
+  source: "img"
+  output: "generated"
   markup: picture
   presets:
     # Full width pictures
     default:
       ppi: [1, 1.5]
       attr:
-        class: lazyload col one
+        class: lazyload col three
         data-action: zoom
         itemprop: image
-        data-original: source-original
       source_lrg:
         media: "(min-width: 42em)"
         width: 672
