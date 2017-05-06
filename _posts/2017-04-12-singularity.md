@@ -8,12 +8,8 @@ image: /img/playweb.jpg
 share: portfolio
 category: portfolio
 redirect_from:
-  - /portfolio/2017-4-12-singularity
-  - portfolio/2017-4-12-singularity
-  - /portfolio/2017-4-12-singularity/
   - portfolio/2017-4-12-singularity/
   - ericmoe.co/portfolio/2017-4-12-singularity/
-
 ---
 
 <img class="lazyload col three" src="/img/play6.jpg" data-action="zoom">
