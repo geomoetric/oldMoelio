@@ -86,7 +86,6 @@ $brand-color:   $moe;
  */ 
 
 .wrapper {
-    width: 100%;
     flex: 1;
     max-width: $measure * .5rem;
     margin-right: auto;
@@ -96,7 +95,7 @@ $brand-color:   $moe;
 
 
     @media screen and (max-width: $measure * .5rem + 1rem) {
-        width: 100%;
+        max-width: 100%;
         padding-right: 0;
         padding-left: 0;
         margin-right: $spacing-unit;
