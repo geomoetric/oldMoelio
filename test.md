@@ -7,7 +7,7 @@ published: true
 image: /img/test.png
 ---
 
-{% picture donezoweb.jpg alt="An unsual picture" %}
+{% picture donezoweb.jpg alt="" %}
 
 <!--<img class="col three lazyload" src="/img/donezoweb.jpg" data-action="zoom">
 <div class="col three caption">
