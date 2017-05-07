@@ -1,38 +1,50 @@
-require "rubygems"
-require "tmpdir"
-
-require "bundler/setup"
+# Rquire jekyll to compile the site.
 require "jekyll"
 
+# Github pages publishing.
+namespace :blog do
+  #
+  # Because we are using 3rd party plugins for jekyll to manage the asset pipeline
+  # and suchlike we are unable to just branch the code, we have to process the site
+  # localy before pushing it to the branch to publish.
+  #
+  # We built this little rake task to help make that a little bit eaiser.
+  #
 
-# Change your GitHub reponame
-GITHUB_REPONAME = "ixti/ixti.github.com"
+  # Usaage:
+  # bundle exec rake blog:publish
+  desc "Publish blog to master"
+  task :publish do
+    # Compile the Jekyll site using the config.
+    Jekyll::Site.new(Jekyll.configuration({
+      "source"      => ".",
+      "destination" => "_site",
+      "config" => "_config.yml"
+    })).process
 
+    # Get the origin to which we are going to push the site.
+    origin = `git config --get remote.origin.url`
 
-desc "Generate blog files"
-task :generate do
-  Jekyll::Site.new(Jekyll.configuration({
-    "source"      => ".",
-    "destination" => "_site"
-  })).process
-end
+    # Make a temporary directory for the build before production release.
+    # This will be torn down once the task is complete.
+    Dir.mktmpdir do |tmp|
+      # Copy accross our compiled _site directory.
+      cp_r "_site/.", tmp
 
+      # Switch in to the tmp dir.
+      Dir.chdir tmp
 
-desc "Site-Update"
-task :publish => [:generate] do
-  Dir.mktmpdir do |tmp|
-    cp_r "_site/.", tmp
+      # Prepare all the content in the repo for deployment.
+      system "git init" # Init the repo.
+      system "git add . && git commit -m 'Site updated at #{Time.now.utc}'" # Add and commit all the files.
 
-    pwd = Dir.pwd
-    Dir.chdir tmp
+      # Add the origin remote for the parent repo to the tmp folder.
+      system "git remote add origin #{origin}"
 
-    system "git init"
-    system "git add ."
-    message = "Site updated at #{Time.now.utc}"
-    system "git commit -m #{message.inspect}"
-    system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
-    system "git push origin master --force"
+      # Push the files to the master branch, forcing an overwrite.
+      system "git push origin master:refs/heads/master --force"
+    end
 
-    Dir.chdir pwd
+    # Done.
   end
 end
