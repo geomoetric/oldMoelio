@@ -587,13 +587,15 @@ justify-content: space-between;
 }
 .project {
 display: inline-block;
-margin-bottom: 1rem;
+margin-bottom: .5rem;
 width: calc(33.3% - .5rem);
 }
 .thumbnail{
 overflow: hidden;
 }
 .thumbnail img{
+width: 100%;
+height: 100%;
 }
 .thumbnail a{
 float: left;

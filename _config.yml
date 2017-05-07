@@ -121,6 +121,7 @@ picture:
         width: 322
     # Portfolio Grid
     grid:
+      ppi: [1, 1.5]
       attr:
         class: lazyload thumbnail
         itemprop: image
