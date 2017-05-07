@@ -592,6 +592,7 @@ width: calc(33.3% - .5rem);
 }
 .thumbnail{
 overflow: hidden;
+height: calc(100% - .5rem);
 }
 .thumbnail img{
 width: 100%;
