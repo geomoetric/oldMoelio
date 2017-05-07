@@ -119,3 +119,21 @@ picture:
         width: 414
       source_default:
         width: 322
+    # Portfolio Grid
+    grid:
+      ppi: [1, 1.5]
+      attr:
+        class: lazyload thumbnail
+        itemprop: image
+        src: img/lq-square.png
+      source_lrg:
+        media: "(min-width: 42em)"
+        width: "214"
+        height: "214"
+      source_med:
+        media: "(min-width: 32em)"
+        width: "260"
+        height: "260"
+      source_default:
+        width: "336"
+        height: "336"

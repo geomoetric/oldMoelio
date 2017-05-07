@@ -587,25 +587,21 @@ justify-content: space-between;
 }
 .project {
 display: inline-block;
-margin-bottom: 1rem;
+margin-bottom: .5rem;
 width: calc(33.3% - .5rem);
 }
 .thumbnail{
-width: 100%;
-height: 15rem;
 overflow: hidden;
+height: calc(100% - .5rem);
 }
 .thumbnail img{
-width: 31.25rem;
-height: auto;
-position: relative;
-left: -67.25%;
+width: 100%;
+height: 100%;
 }
 .thumbnail a{
 float: left;
 position: relative;
 width: 100%;
-height: 15rem;
 }
 .thumbnail a span {
 display: none;
@@ -631,7 +627,6 @@ display: block;
         width: calc(50% - .5rem);
     }
     .thumbnail img{
-        left: -45%;    
     }
 }
 /* One Column */
@@ -641,7 +636,6 @@ display: block;
         width: 100%;
     }
     .thumbnail img{
-        left: -80px
     }
 }
 
