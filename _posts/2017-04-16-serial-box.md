@@ -7,8 +7,7 @@ image: /img/sbweb.jpg
 share: portfolio
 category: portfolio
 ---
-
-<img class="col three lazyload" src="/img/sbweb.jpg"  data-action="zoom">
+{% picture sbweb.jpg alt="Serial Box" %}
 
 Let's be honest guys. E-reader apps are awful. They hurt our eyes, their designs are dated, and they lack the personality and captivation of a real book. Which is a shame because people [seem to enjoy reading on their phones](https://www.theatlantic.com/technology/archive/2016/05/oh-internet-you-wonderful-newsy-readable-lovely-internet/481500/). 
 My challenge in this Type project was to redesign the 
