@@ -95,11 +95,11 @@ $brand-color:   $moe;
 
 
     @media screen and (max-width: $measure * .5rem + 1rem) {
-        width: 100%;
-        padding-right: 0;
-        padding-left: 0;
-        margin-right: $spacing-unit;
-        margin-left: $spacing-unit;
+        width: auto;
+        padding-right: $spacing-unit; 
+        padding-left: $spacing-unit;
+        margin-right: 0; 
+        margin-left: 0;
     }
 }
 
