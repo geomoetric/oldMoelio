@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 {% picture play6.jpg alt="A Singularity" class="lazyload colhug three" %}
-<div class="col three caption">
+<div class="colhug three caption">
 The final design</div>
 
 One of my most recent commissions was for a UT New Works play titled ["A Singularity"](https://www.dailytexanonline.com/2017/04/04/student-play-gives-voice-to-struggles-of-syrian-refugees)
@@ -30,10 +30,9 @@ This is a meaningful play created by passionate people, and a recent [article](h
 >
 >“A lot of people enforce these really negative stereotypes on (refugees),” Newland said. “They are just families wanting to pursue their dreams and trying to resume the lives they had in different places.”
 
-<img class="col one lazyload" src="/img/play4.jpg"  data-action="zoom">
+<img class="col one lazyload" style="margin: 0  1.45rem 0 0" src="/img/play4.jpg"  data-action="zoom">
 
 Design-wise, this was a rush job. The theater department is fast, loose, and behind on their deadlines, so imagine four day turn arounds followed by weeks of silence. They would not give us the dates of the play until the day the poster was due!
-
 
 The hijab was at points a source of contention. Directors are often interested in literal representation in their posters, aka this hijab on the poster needs to be the same color as the literal prop used in the play. However, the suggested color provided to me (Pantone 1245c known as "Old Yellow", displayed on the left) was a nonstarter.
 
@@ -42,7 +41,7 @@ Let me be clear, I have no intention to misrepresent traditional  Syrian clothin
 2. There was a legitimate concern that these head and shoulders would look like male genitals if rendered in that mustard color.
 
 {% picture play2.jpg alt="A Singularity" %}
-<div class="col three caption">
+<div class="colhug three caption">
 My original color choice... I'm still a fan.</div>
 
 Our solution was to produce a muted red color that printed well and satisfied all concerns. I think that both director and designer got a lot out of this collaboration. Those directors will understand the choices made by future poster designers, and I have a new appreciation for humanity both near and far.
