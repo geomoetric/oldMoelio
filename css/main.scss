@@ -660,6 +660,14 @@ object-fit: cover;
 box-sizing:border-box;
 padding: 0;
 margin-bottom: 1.45rem;
+margin-top: 1.45rem;
+
+    .colhug{
+        margin-top: 0;
+    }
+    .coldesc{
+        margin-bottom: 0;
+    }
 }
 .right{
 float: right;

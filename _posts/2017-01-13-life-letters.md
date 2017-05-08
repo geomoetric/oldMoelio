@@ -8,7 +8,7 @@ share: portfolio
 category: portfolio
 ---
 
-{% picture utfall9.jpg alt="Life & Letters" %}
+{% picture utfall9.jpg alt="Life & Letters" class="lazyload colhug three" %}
 
 Here's an unexpected project. As I was recovering from the intense Impact Report, I was given what seemed like a tiny assignment for UT's own Liberal Arts Magazine. No, I was not given the cover of [Life & Letters](https://cenjun.com/){:target="_blank"}—thanks for nothing Jun Cen—but the editorial illustration has been a worthwhile experience I hope to pursue in the future.
 

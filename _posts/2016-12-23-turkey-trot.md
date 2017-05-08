@@ -7,7 +7,7 @@ date: 2016-12-23T05:00:00S
 share: portfolio
 category: portfolio
 ---
-{% picture infog.jpg alt="ThunderCloud" %}
+{% picture infog.jpg alt="ThunderCloud" class="lazyload colhug three" %}
 
 One of the largest projects I had at Brenda Thompson Communications was creating material for [Thundercloud Subs](https://thundercloud.com/){:target="_blank"}
 

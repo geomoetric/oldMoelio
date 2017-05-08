@@ -11,7 +11,7 @@ redirect_from:
   - portfolio/2017-4-12-singularity/
 ---
 
-{% picture play6.jpg alt="A Singularity" %}
+{% picture play6.jpg alt="A Singularity" class="lazyload colhug three" %}
 <div class="col three caption">
 The final design</div>
 

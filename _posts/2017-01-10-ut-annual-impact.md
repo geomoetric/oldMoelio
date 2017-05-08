@@ -8,7 +8,7 @@ share: portfolio
 category: portfolio
 ---
 
-{% picture utfall6.jpg alt="Impact Report" %}
+{% picture utfall6.jpg alt="Impact Report" class="lazyload colhug three" %}
 
 Here is the behemoth of the fall 2016 semester— at my UT job, this was top priority for two months. The Annual Impact Report summarizes donor support and scholarly initiatives of the school year for UT's very own College of Liberal Arts. 
 

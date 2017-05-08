@@ -7,7 +7,7 @@ date: 2017-01-13T05:00:00S
 share: portfolio
 category: portfolio
 ---
-{% picture guide1.JPG alt="Guide Book" %}
+{% picture guide1.JPG alt="Guide Book" class="lazyload colhug three" %}
 
 Here is my final project from fall Typography I. My predicament is that the project was a source book— an overview of my entire semester. So how do I summarize a project that exists as a summary? Furthermore, how do I provide insightful commentary when all the rigmarole I wrote inside the book served double duty on this blog?
 

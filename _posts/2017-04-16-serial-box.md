@@ -7,7 +7,7 @@ image: /img/sbweb.jpg
 share: portfolio
 category: portfolio
 ---
-{% picture sbweb.jpg alt="Serial Box" %}
+{% picture sbweb.jpg alt="Serial Box" class="lazyload colhug three" %}
 
 Let's be honest guys. E-reader apps are awful. They hurt our eyes, their designs are dated, and they lack the personality and captivation of a real book. Which is a shame because people [seem to enjoy reading on their phones](https://www.theatlantic.com/technology/archive/2016/05/oh-internet-you-wonderful-newsy-readable-lovely-internet/481500/). 
 My challenge in this Type project was to redesign the 
@@ -27,9 +27,9 @@ In my project, I started with [victorian typography](https://www.pinterest.com/g
 	<img class="col one lazyload" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Onboarding_2-ndi0reiy.jpg" alt="" title="Serial Box" data-action="zoom"/>
 	<img class="col one lazyload" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Serial_View_Tiles-mem4ody5.jpg" alt="" title="Serial Box" data-action="zoom"/>
 </div>
-<div class="col one caption">Opening Page</div>
-<div class="col one caption">Sign Up Page</div>
-<div class="col one caption">Tile View</div>
+<div class="col one caption" style="margin-bottom: 0;">Opening Page</div>
+<div class="col one caption" style="margin-bottom: 0;">Sign Up Page</div>
+<div class="col one caption" style="margin-bottom: 0;">Tile View</div>
 
 <div class="img_row">
 	<img class="col one lazyload" src="/framer/sb/imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_Share-que3mjjb.jpg" alt="" title="Serial Box" data-action="zoom"/>

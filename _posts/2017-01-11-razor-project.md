@@ -8,7 +8,7 @@ share: portfolio
 category: portfolio
 ---
 
-{% picture sabre5.jpg alt="Razor Project" %}
+{% picture sabre5.jpg alt="Razor Project" class="lazyload colhug three" %}
 
 In case you did not know, I am a genetic Scandinavian anomaly in this great state of Texas. My body thinks we’re about to hook up the reindeer to go ice-fishing, yet outside it has not been sub 70 in the whole month of November. 
 So when we were tasked with redesigning a common tool, I scratched my freshly shaved stubble and realized it had to be the razor. Not just any razor either, my razor of choice in my 8 years of shaving— the safety razor.

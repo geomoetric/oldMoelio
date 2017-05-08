@@ -7,7 +7,7 @@ date: 2016-12-30T13:00:00S
 share: portfolio
 category: portfolio
 ---
-{% picture utxmas2.jpg alt="UT Xmas Card" %}
+{% picture utxmas2.jpg alt="UT Xmas Card" class="lazyload colhug three" %}
 
 Truthfully I did not do much on this card, yet it remains one of my favorites. Each of these photos is from one of the old cactus yearbooks that we keep on the shelves in my office in the College of Liberal Arts. A lot of work goes into finding the seven or so notable snow days in the history of UT photojournalism— while questionable minstrel shows and bygone student organizations populated most pages, I found two photos that seemed to match what we wanted to convey in a Christmas Card for donors. 
 
