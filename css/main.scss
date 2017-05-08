@@ -94,7 +94,7 @@ $brand-color:   $moe;
     padding-left: $horizontal-spacing-unit;
 
 
-    @media screen and (max-width: $measure * .5rem + 1rem) {
+    @media screen and (max-width: $measure * .5rem + 3rem) {
         width: auto;
         padding-right: $spacing-unit; 
         padding-left: $spacing-unit;
