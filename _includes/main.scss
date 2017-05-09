@@ -1,7 +1,6 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
 @charset "utf-8";
+
+
 
 @import
     "https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css",
@@ -10,3 +9,4 @@
     "layout",
     "syntax-highlighting"
 ;
+
