@@ -1,24 +1,30 @@
 /**
- * Reset some basic elements
+ * _base.scss   **********************************************************
  */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
-}
 
 /** Variables **********************************************/
 
-$horizontal-spacing-unit:       50px;
-$vertical-spacing-unit:         40px;
-$nav-height:                    56px;
+/* Typography from https://github.com/devinhunt/typebase.css/blob/master/src/typebase.scss*/
+
+/* Family */
+$baseFontFamily:    Work Sans, Helvetica, sans-serif;
+$displayFontFamily:    clarendon-urw, Georgia;
+
+/* Scale and Spacing */
+$baseFontSize:      16; // in pixels. This would result in 22px on desktop
+$baseLineHeight:    1.45; // how large the line height is as a multiple of font size
+$leading:$baseLineHeight * 1rem;
+// Rate of growth for headings
+// I actually like this to be slightly smaller then the leading. Makes for tight headings.
+$scale:1.414;
+// number of characters you want the line to be.
+$measure: 84;
+$small-font-size:  $baseFontSize * 0.875;
 
 /* portfolio tinkering */
-$img_spacing: 5px; 
-$img_height: 275px;
-$caption_font_size: $scale / 4 * 1rem;
-$caption_color: #aaa;
+$img_spacing:  0.3125rem; 
+$img_height: 17.19rem;
+$caption_font_size: $scale / 2 * 1rem;
 
 /* COLORS  */
 $red:  #FF3636;
@@ -28,21 +34,40 @@ $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
 $navy: #3E69AA;
-$navy_peony: #223A5E;
 $off_white: #f5f6f6;
-$text_color1: #666;
-$text_color2: #424242;
+$text_color: #666;
 
+$moe: #4967AA;
 
-
+$grey-color:       #828282;
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     $text_color1;
+$text-color:     #666;
+$background-color: #fdfdfd;
+$caption_color: #aaa;
 
 /* Set theme color *************************/
-$theme-color:   $navy;
+$theme-color:   $moe;
+$brand-color:   $moe;
+
+/**
+ * Wrapper
+ */ 
+
+.wrapper {
+    flex: 1;
+    width: $measure * .5rem;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $leading;
+    padding-left: $leading;
 
 
-/************************************************************/
-
-
+    @media screen and (max-width: $measure * .5rem + 3rem) {
+        width: auto;
+        padding-right: $leading; 
+        padding-left: $leading;
+        margin-right: 0; 
+        margin-left: 0;
+    }
+}

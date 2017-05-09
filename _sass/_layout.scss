@@ -1,147 +1,120 @@
+/**
+ * _layout.scss   **********************************************************
+ */
 
 /**
  * Site header   **********************************************************
  */
 .site-header {
-border-bottom: 1px solid $grey-color-light;
-background-color: #fff;
-opacity: 0.75;
+padding: .5rem 0;
+background-color: $theme-color;
+opacity: .96;
 position:fixed;
 left:0px;
 top:0px;
-height:56px;
-width:100%;
+height: auto;
+width: 100%;
 z-index: 50;
 }
 
-.site-title {
-font-size: 20px;
-line-height: $nav-height;
-letter-spacing: -1px;
-margin-bottom: 0;
-&:hover {
-text-decoration: none;
-color: $theme-color;
-    }
+.site-header a {
+color: $background-color;
 }
+
 .site-nav {
 display: flex;
 justify-content: space-between;
-
-}
+align-items: baseline;
+.nav-link{
+display: flex;
+justify-content: space-between;
+align-items: baseline;        
+    }
 .page-link{
 line-height: $baseLineHeight;
-        // Gaps between nav items, but not on the first one
-&:not(:first-child) {
-margin-left: 10px;
-        }
+margin-left: 1rem;
     }
-@include media-query($on-palm) {
-position: fixed;
-top: 0px;
-right: 10px;
-text-align: right;
-&:hover .trigger {
+}
+
+
+@media screen and (max-width: 481px) {
+.site-nav {
 display: block;
-padding-bottom: 5px;
-        }
-.page-link {
-display: line;
+float: left;
+.page-link{
+margin-left: 0;
+margin-right: .5rem;
+&:not(:last-child) {
+margin-right: .5rem;
+            }
         }
     }
 }
 
-.header-bar{
-    left: 0px;
-    top: 0px;
-    position: relative;
-    font-size: 20px;
-    display: block;
-    opacity: 1;
-    width: 100%;
-    text-align: center;
-    padding-top: 25px;
-    line-height: 3em;
-    z-index: 25;
-    h1{
-        color: $theme-color;
-        font-size:75px;
-    }
-    h2{
-        font-size:25px;
-    }
-}
 
 /**
- * Site footer 
-
-border-top: 1px solid $grey-color-dark;
-background-color: $grey-color-dark;
-color: #aaa;
-width:100%;
-min-height: 58px;
-position: absolute;
-left:0px;
-bottom:0px;
-
+ * Site footer
 **********************************************************
  */
+
 .site-footer {
-border-top: 1px solid $grey-color-dark;
+flex: 3;
 background-color: $grey-color-dark;
-padding: 2px;
+padding: .5rem;
 color: #aaa;
-position:fixed;
-left:0px;
-bottom:0px;
-height:23px;
 width:100%;
+max-height: 1.5rem;
+}
 
-
-   
-
+.footer a{
+    color: #aaa;
+    text-decoration: none;
 }
 /**
  * Pagination   **********************************************************
  */
+
 .pagination{
-max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
 text-align: center;
 width: 100%;
 position: inherit;
+border-top: $leading;
+}
 
-}
-.paginationicon {
-font-size: 50px;
-a {
-color: $theme-color;
-    }
-}
 /**
  * Page content   **********************************************************
  */
+
 .page-content {
-padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+padding: 2rem 0 0 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+min-height: 100%;
 }
-.page-heading {
-font-size: 20px;
+
+/* for header size */
+@media screen and (max-width: 481px) {
+.page-content {  
+padding: 3.5rem 0 0 0;
+    }
 }
+
 .post-list {
-margin: 0px 0;
+padding: 0;
+margin: 0;
 list-style: none;
     > li {
-margin-bottom: $vertical-spacing-unit;
+margin-bottom: $leading;
     }
 }
 .contacticon {
-font-size: 60px;
+font-size: 3.75rem;
 display:block;
-margin: 10px;
 }
 .contacticon2 {
-font-size: 20px;
+font-size: 1.25rem;
 display:block;
-margin: 10px;
 }
 .center{
 text-align: center;
@@ -150,88 +123,58 @@ text-align: center;
  * Posts  **********************************************************
  */
 .post-header {
-margin-bottom: $vertical-spacing-unit;
-clear: both;
+    margin-bottom: 1rem;
+}
+
+.post-header h2 {
+    margin: 1.45rem 0;
 }
 .post-title {
 font-size: 42px;
 letter-spacing: -1px;
 line-height: 1;
 }
-.post-content {
-h2 {
-font-size: 42px;
-}
-h3 {
-font-size: 30px;
-}
-h4 {
-font-size: 20px;
-    }
-h5 {
-font-size: 16px;
-    }
-}
+
 .post-meta {
 font-size: $small-font-size;
 color: $grey-color;
-margin-bottom: 0px; 
+margin-bottom: 0; 
 }
 .post-link {
 display: block;
-font-size: 42px;
+/* font-size: 42px; */
 }
 
-/** Poem formatting ********************************************/
-.poem-title {
-font-size: 24px;
-letter-spacing: -1px;
-line-height: 1;
-}
 
 
 /** 
  * Portfolio grid **********************************************************
-*/
-// Nicolas Gallagher's micro clearfix hack
-// https://nicolasgallagher.com/micro-clearfix-hack/
 
 /* Three Column */
 
-@media screen and (min-width: 601px) {
-    
-.clearfix:before,
-.clearfix:after {
-content: " ";
-display: table;
-}
-.clearfix:after {
-clear: both;
+
+.portfolio {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;  
 }
 .project {
-width: 33.33%;
-height: 250px;
-float: left;
-vertical-align: middle;
-box-sizing: border-box;
-padding: 10px;
+display: inline-block;
+margin-bottom: .5rem;
+width: calc(33.3% - .5rem);
 }
 .thumbnail{
-width: 100%;
-height: 230px;
 overflow: hidden;
+height: calc(100% - .5rem);
 }
 .thumbnail img{
-width: 500px;
-height: auto;
-position: relative;
-left: -67.25%;
+width: 100%;
+height: 100%;
 }
 .thumbnail a{
 float: left;
 position: relative;
 width: 100%;
-height: 230px;
 }
 .thumbnail a span {
 display: none;
@@ -242,117 +185,30 @@ bottom: 0;
 right: 0;
 background: rgba(0,0,0,0.4);
 color: $grey-color-light;
-padding: 40px;
+padding: 1rem;
 text-align: center;
 }
 .thumbnail a:hover span {
 display: block;
-    }
 }
+
 
 /* Two Column */
-@media screen and (max-width: 600px) {
-    
-.clearfix:before,
-.clearfix:after {
-content: " ";
-display: table;
-}
-.clearfix:after {
-clear: both;
-}
-.project {
-width: 50%;
-height: 250px;
-float: left;
-vertical-align: middle;
-box-sizing: border-box;
-padding: 10px;
-}
-.thumbnail{
-width: 100%;
-height: 230px;
-overflow: hidden;
-}
-.thumbnail img{
-width: 500px;
-height: auto;
-position: relative;
-left: -45%;    
-}
-.thumbnail a{
-float: left;
-position: relative;
-width: 100%;
-height: 230px;
-}
-.thumbnail a span {
-display: none;
-position: absolute;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-background: rgba(0,0,0,0.4);
-color: $grey-color-light;
-padding: 40px;
-text-align: center;
-}
-.thumbnail a:hover span {
-display: block;
+@media screen and (max-width: 37.5rem) {
+
+    .project {
+        width: calc(50% - .5rem);
+    }
+    .thumbnail img{
     }
 }
-
 /* One Column */
-@media screen and (max-width: 400px) {
-    
-.clearfix:before,
-.clearfix:after {
-content: " ";
-display: table;
-}
-.clearfix:after {
-clear: both;
-}
-.project {
-width: 100%;
-height: 250px;
-float: left;
-vertical-align: middle;
-box-sizing: border-box;
-padding: 10px;
-}
-.thumbnail{
-width: 100%;
-height: 230px;
-overflow: hidden;
-}
-.thumbnail img{
-width: 500px;
-height: auto;
-position: relative;
-left: -80px
-}
-.thumbnail a{
-float: left;
-position: relative;
-width: 100%;
-height: 230px;
-}
-.thumbnail a span {
-display: none;
-position: absolute;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-background: rgba(0,0,0,0.4);
-color: $grey-color-light;
-padding: 40px;
-text-align: center;
-}
-.thumbnail a:hover span {
-display: block;
+@media screen and (max-width: 25rem) {
+
+    .project {
+        width: 100%;
+    }
+    .thumbnail img{
     }
 }
 
@@ -375,13 +231,26 @@ height: 100%;
 float: left;
 object-fit: cover;
 box-sizing:border-box;
-padding: $img_spacing;
+padding: 0;
+margin-bottom: 1.45rem;
+margin-top: 1.45rem;
+
+    .colhug{
+        margin-top: 0;
+    }
+    .colall{
+        margin: 0;
+    }
 }
 .right{
 float: right;
 }
+.left{
+padding: 0 $img_spacing;
+}
 .one {
 width:33.33%;
+padding: 0;
 }
 .two {
 width: 66.66%;
@@ -406,25 +275,13 @@ font-size: $caption_font_size;
 .videoWrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
+    padding-top: 25px;
+    height: 0;
 }
 .videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
-
-/** 
- * Img full width
-**********************************************************
-*/
-
-.img_full img {
-    max-width: 100%;
-}
-
-
-
