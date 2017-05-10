@@ -1,10 +1,12 @@
-<type>(<scope>): <subject>
-
-<body>
-
-<footer>
+():
 
 # Using the Angular Commit Message Conventions:
+#
+#<type>(<scope>): <subject>
+#
+#<body>
+#
+#<footer>
 #
 # Types:
 # - feat (feature)
