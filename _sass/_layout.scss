@@ -17,6 +17,11 @@ width: 100%;
 z-index: 50;
 }
 
+.header-bar {
+text-align: center;
+color: $theme-color;
+}
+
 .site-header a {
 color: $background-color;
 }
