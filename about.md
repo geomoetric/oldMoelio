@@ -17,6 +17,9 @@ In my free time, I like to swim at <a href="https://www.edwardsaquifer.net/barto
 	<img class="col one left" src="{{ site.baseurl }}/img/Profile-pic-large.jpg" alt="Eric Moe" title="check"/>
 </div>
 
+<!-- Font Awesome Icons -->	
+<link rel="stylesheet" href="{{ site.fontawesome }}">
+
 <span class="contacticon2 center">
 	<a href="mailto:{{ site.email }}"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
@@ -50,13 +53,13 @@ In my free time, I like to swim at <a href="https://www.edwardsaquifer.net/barto
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://github.com/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.github }}"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-github-alt fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.github }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.codepen }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
-	  <i class="fa fa-shopping-basket fa-stack-1x fa-inverse"></i>
+	  <i class="fa fa-codepen fa-stack-1x fa-inverse"></i>
 	</span></a> 
 	<a href="{{ site.behance }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>

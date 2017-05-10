@@ -12,6 +12,8 @@ url:  #https://www.ericmoe.co #the base hostname & protocol for your site
 
 imgurl: https://www.ericmoe.co
 
+# Font Awesome CDN:
+fontawesome: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
   
 # Social networking links used in footer. Update and remove as you like.
 twitteruser:    https://twitter.com/geomoetric   
@@ -27,6 +29,7 @@ pinterest:  https://www.pinterest.com/geomoetric/
 reddit: https://www.reddit.com/user/geomoetric/
 etsy:   https://www.etsy.com/shop/Geomoetric/
 behance:    https://www.behance.net/EricMoe
+codepen:    https://codepen.io/geomoetric/
 # google plus id, include the '+', eg +mmistakes
 google_plus:
   
@@ -78,7 +81,6 @@ google_analytics:   UA-86525313-1
 
 # Build settings
 markdown: kramdown
-
 highlighter: rouge
 
 
@@ -98,7 +100,9 @@ gems:
     - jekyll-seo-tag
     - jekyll-redirect-from
     - jekyll-picture-tag
-
+    
+    
+# jekyll picture tag
 picture:
   source: "img"
   output: "generated"

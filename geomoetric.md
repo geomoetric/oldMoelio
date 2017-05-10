@@ -15,6 +15,9 @@ image: /img/twitter-image.jpg
   
 </div>
 
+<!-- Font Awesome Icons -->	
+<link rel="stylesheet" href="{{ site.fontawesome }}">
+
 <article class="post-content">
 <span class="contacticon center">
 	<a href="mailto:{{ site.email }}"><span class="fa-stack fa-lg">
@@ -49,13 +52,13 @@ image: /img/twitter-image.jpg
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://github.com/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.github }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-github-alt fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.github }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.codepen }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
-	  <i class="fa fa-shopping-basket fa-stack-1x fa-inverse"></i>
+	  <i class="fa fa-codepen fa-stack-1x fa-inverse"></i>
 	</span></a> 
 	<a href="{{ site.behance }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
