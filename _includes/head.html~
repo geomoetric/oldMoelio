@@ -42,11 +42,33 @@
     <!-- Lazy sizes -->
     <script src="/lazysizes.min.js" async=""></script>
     
-    <!-- Web Fonts -->
+    <!-- Web Font Loader -->
     
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet"> 
+    <script>
+        WebFontConfig = {
+            google: { families: ['Work Sans'] },
+            typekit: { id: 'fvs0ulb' },
+            timeout: 2000,
+            active: function() {
+            sessionStorage.fonts = true; },
+        };
 
-    <!-- Typekit -->
-    <script src="https://use.typekit.net/fvs0ulb.js"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+        (function(d) {
+            var wf = d.createElement('script'), s = d.scripts[0];
+            wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+            wf.async = true;
+            s.parentNode.insertBefore(wf, s);
+        })(document);
+    </script>
+
+    <script>
+        (function() {
+        if (sessionStorage.fonts) {
+            console.log("Fonts installed.");
+            document.documentElement.classList.add('wf-active');
+        } else {
+            console.log("No fonts installed.");
+        }
+        })();
+    </script>
