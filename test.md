@@ -14,6 +14,9 @@ image: /img/test.png
 &nbsp;
 </div> -->
 
+try this:
+{{ post.image }} / {{ page.image }}
+
 ## Default Front Matter
     ---
     layout: post
