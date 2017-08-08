@@ -3,7 +3,7 @@ title: Eric Moe
 email:  geomoetric@gmail.com
 name: "Eric Moe"
 description: The design portfolio of Eric Moe.
-baseurl:
+baseurl: https://ericmoe.co
 prof_pic:   /img/prof_pic.jpg
 
 # Your site's domain goes here (eg: https://yourusername.github.io, https://yourdomain.com, etc)
