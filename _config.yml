@@ -93,8 +93,8 @@ paginate_path: "/page:num/"
 sass:
   style: compressed
   
-# gems
-gems:
+# Gems/Plugins
+plugins:
     - jekyll-sitemap
     - jekyll-paginate
     - jekyll-seo-tag
