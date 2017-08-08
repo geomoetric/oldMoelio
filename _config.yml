@@ -8,7 +8,7 @@ prof_pic:   /img/prof_pic.jpg
 
 # Your site's domain goes here (eg: https://yourusername.github.io, https://yourdomain.com, etc)
 # When testing locally leave blank or use https://localhost:4000
-url:  #https://www.ericmoe.co #the base hostname & protocol for your site
+url:  https://ericmoe.co #the base hostname & protocol for your site
 
 imgurl: https://www.ericmoe.co
 
