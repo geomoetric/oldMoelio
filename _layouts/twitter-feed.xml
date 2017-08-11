@@ -11,54 +11,7 @@
     
     {% assign platform = 'twitter' %}
       
-     {% for project in site.portfolio %}
-        {% assign share_on = project.share | downcase %}
-
-        {% if share_on contains '--twitter-title' %}
-            {% assign post_title = project.title %}
-
-        {% else %}
-      
-            {% assign format_parsed = site.twitter_format | replace: '@title', project.description | replace: '@url', '' | replace: '@tags', '' | size %}
-            {% assign post_tags = '' %}
-            {% assign space_left = site.twitter_max_length | minus: format_parsed.size %}
-
-            {% if site.twitter_format contains '@url' %}
-                {% assign space_left = space_left | minus: site.twitter_url_length %}
-            {% endif %}
-
-            {% for tag in project.tags %}
-                {% capture new_tag %} #{{ tag }}{% endcapture %}
-                {% assign new_space_left = space_left | minus: new_tag.size %}
-
-                {% if new_space_left > 0 %}
-                    {% assign post_tags = post_tags | append: new_tag %}
-                    {% assign space_left = space_left | minus: new_tag.size %}
-                {% endif %}
-            {% endfor %}
-
-            {% assign post_title = site.twitter_format | replace: '@title', project.description | replace: '@tags', post_tags | replace: '@url', project.url %}
-
-        {% endif %}
-
-        {% if share_on contains platform %}
-        <item>
-            <title>{{ post_title | xml_escape }}</title>
-            <description>{{ project.description | xml_escape }}</description>
-            <pubDate>{{ project.date | date_to_rfc822 }}</pubDate>
-            <link>{{ project.url | prepend: site.url }}</link>
-            <guid isPermaLink="true">{{ project.url | prepend: site.url }}</guid>
-            {% for tag in project.tags %}
-            <category>{{ tag | xml_escape }}</category>
-            {% endfor %}
-            {% for cat in project.categories %}
-            <category>{{ cat | xml_escape }}</category>
-            {% endfor %}
-        </item>
-        {% endif %}
-    {% endfor %}
-
-    {% for post in site.posts limit:10 %}
+        {% for post in site.posts limit:10 %}
         {% assign share_on = post.share | downcase %}
 
          {% if share_on contains '--twitter-title' %}
@@ -69,6 +22,7 @@
             {% assign format_parsed = site.twitter_format | replace: '@title', post.description | replace: '@url', '' | replace: '@tags', '' | size %}
             {% assign post_tags = '' %}
             {% assign space_left = site.twitter_max_length | minus: format_parsed.size %}
+            {% assign full_url = post.url | prepend: site.url %}
 
             {% if site.twitter_format contains '@url' %}
                 {% assign space_left = space_left | minus: site.twitter_url_length %}
@@ -84,7 +38,7 @@
                 {% endif %}
             {% endfor %}
 
-            {% assign post_title = site.twitter_format | replace: '@title', post.description | replace: '@tags', post_tags | replace: '@url', post.url %}
+            {% assign post_title = site.twitter_format | replace: '@title', post.description | replace: '@tags', post_tags | replace: '@url', full_url %}
 
         {% endif %}
 
