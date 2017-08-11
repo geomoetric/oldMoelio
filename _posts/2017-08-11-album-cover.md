@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Album Cover
-date: '2017-08-11T09:30:00R'
+date: '2017-08-11T08:30:00R'
 description: Getting weird with Aussie Psych Album Design.
 image: /img/album-web.png
 category: portfolio
