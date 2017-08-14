@@ -1,0 +1,17 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<!-- This is meant to be a simple redirect link that points to your most recent post. Especially useful for Social Media Profiles. -->
+<html lang="en-US">
+  <meta charset="utf-8">
+  <title>Redirecting&hellip;</title>
+  {% for post in site.posts limit:1 %}
+  <link rel="canonical" href="{{ post.url | prepend: site.url }}">
+  <meta http-equiv="refresh" content="0; url={{ post.url | prepend: site.url }}">
+  <meta name="robots" content="noindex">
+  <h1>Redirecting&hellip;</h1>
+  <a href="{{ post.url | prepend: site.url }}">Click here if you are not redirected.</a>
+  <script>location="{{ post.url | prepend: site.url }}"</script>
+  {% endfor %}
+</html>
