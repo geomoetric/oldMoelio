@@ -6,10 +6,10 @@
 Desktop.ini
 
 # Jekyll
-_site/
 _site/social-feeds/
 .sass-cache/
 .jekyll-metadata
+img
 
 # Personal
 ignore/

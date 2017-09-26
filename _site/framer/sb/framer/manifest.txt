@@ -1,0 +1,100 @@
+app.coffee
+framer/backups/backup-2017-04-14 12.41.08.coffee
+framer/backups/backup-2017-04-14 12.42.08.coffee
+framer/backups/backup-2017-04-14 12.43.08.coffee
+framer/backups/backup-2017-04-14 12.44.08.coffee
+framer/backups/backup-2017-04-14 12.45.08.coffee
+framer/backups/backup-2017-04-14 12.46.08.coffee
+framer/backups/backup-2017-04-14 13.05.08.coffee
+framer/backups/backup-2017-04-14 13.15.08.coffee
+framer/backups/backup-2017-04-14 18.12.55.coffee
+framer/backups/backup-2017-04-14 18.13.46.coffee
+framer/backups/backup-2017-04-14 18.14.46.coffee
+framer/backups/backup-2017-04-14 18.16.46.coffee
+framer/backups/backup-2017-04-14 18.17.46.coffee
+framer/backups/backup-2017-04-14 18.21.46.coffee
+framer/backups/backup-2017-04-14 18.22.46.coffee
+framer/backups/backup-2017-04-14 18.31.46.coffee
+framer/backups/backup-2017-04-14 18.32.46.coffee
+framer/backups/backup-2017-04-15 08.54.23.coffee
+framer/backups/backup-2017-04-16 12.32.54.coffee
+framer/backups/backup-2017-04-16 16.33.28.coffee
+framer/backups/backup-2017-04-16 16.38.28.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/style.css
+framer/version
+imported/Jason_Podcast_Framer@2x/images/Layer-audio-muvcnji4.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Author-ouizntg0.png
+imported/Jason_Podcast_Framer@2x/images/Layer-book-rdc1rdew.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Ep1-mtezn0fe.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Ep1-otrdqky4.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Ep2-mdg1nkjb.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Ep2-rduzm0u4.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Ep2Info-ntrfnujf.png
+imported/Jason_Podcast_Framer@2x/images/Layer-EpShare-qkuzrtbd.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Group-njywrdy5.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Group-refeoeew.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Group-rti3mzcy.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Group_2-qzkzmdgw.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Group_3-nkq2mzmy.png
+imported/Jason_Podcast_Framer@2x/images/Layer-HeaderInteractive-othbrdlf.png
+imported/Jason_Podcast_Framer@2x/images/Layer-HeaderInteractive-otiyndmx.png
+imported/Jason_Podcast_Framer@2x/images/Layer-HeaderMenu-mddfnze5.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Library-qknerjrf.png
+imported/Jason_Podcast_Framer@2x/images/Layer-MainBackground-mtlcqtk0.png
+imported/Jason_Podcast_Framer@2x/images/Layer-MainBackground-ndrcruve.png
+imported/Jason_Podcast_Framer@2x/images/Layer-menu-mkzfrue2.png
+imported/Jason_Podcast_Framer@2x/images/Layer-miniHeader-nuu5n0iz.png
+imported/Jason_Podcast_Framer@2x/images/Layer-onboard1-qtk4njyx.png
+imported/Jason_Podcast_Framer@2x/images/Layer-onboard2-mzjbmtcy.png
+imported/Jason_Podcast_Framer@2x/images/Layer-onboard3-meqznju4.png
+imported/Jason_Podcast_Framer@2x/images/Layer-ReadMenu-mjm1ntfg.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Recap-rtcyoene.png
+imported/Jason_Podcast_Framer@2x/images/Layer-StartScreen-oeyzntu2.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Summary_Copy-rendrtmz.png
+imported/Jason_Podcast_Framer@2x/images/Layer-Tiles-nuqxnjfb.png
+imported/Jason_Podcast_Framer@2x/images/Layer-ViewCard1-ndhboeq1.png
+imported/Jason_Podcast_Framer@2x/images/Layer-ViewCard2-oem4qui0.png
+imported/Jason_Podcast_Framer@2x/images/Layer-ViewCard3-otvbrdhf.png
+imported/Jason_Podcast_Framer@2x/layers.json
+imported/Jason_Podcast_Framer@2x/layers.json.js
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_Audio-n0neqjkx.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_List_Menu2-oee5odjg.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_OverviewA2-rtkxouy3.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Episode_Share-que3mjjb.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-HeaderMenu-mddfnze5.png
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Main-ntq5rjq1.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-MainPretty-qufdrty4.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Menu_How_it_works-mzewqjm1.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Menu_My_Library-oeq2qtcw.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Menu_start_screen-nurbmzg1.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Onboarding_1-nem0odkz.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Onboarding_2-ndi0reiy.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Onboarding_3-qjbdneuw.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-ReadMenu-mjm1ntfg.png
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Recap-rtcyoene.png
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Serial_View_Cards1-rtkyqkmx.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Serial_View_Cards2-ndm5qzk4.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Serial_View_Cards3-rdm0otfb.jpg
+imported/Jason_Podcast_Framer_Export@2x/images/Layer-Serial_View_Tiles-mem4ody5.jpg
+imported/Jason_Podcast_Framer_Export@2x/layers.json
+imported/Jason_Podcast_Framer_Export@2x/layers.json.js
+index.html
+modules/myModule.coffee
