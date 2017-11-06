@@ -23,7 +23,8 @@ image: /img/twitter-image.jpg
 <h6 class="hug">Aug '17–Present | Austin, TX</h6>
 <ul class="hug">
 <li>Managed day to day operations of UT's student led design studio.</li>
-<li>Planned the studio's long term trajectory.</li>
+<li>Won all client pitches and led teams for two out of the four fall projects.</li>
+<li>Formed a <a href="http://wkrmdesign.storenvy.com/">studio store</a> and curated design projects to sell online for profit.</li>
 </ul>
 <hr/>
 
