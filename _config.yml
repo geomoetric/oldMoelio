@@ -103,7 +103,7 @@ plugins:
     
     
 # jekyll picture tag
-picture:
+moe-picture:
   source: "img"
   output: "generated"
   markup: picture
@@ -115,6 +115,7 @@ picture:
         class: lazyload col three
         data-action: zoom
         itemprop: image
+        src: /img/lq.png
       source_lrg:
         media: "(min-width: 42em)"
         width: 672
