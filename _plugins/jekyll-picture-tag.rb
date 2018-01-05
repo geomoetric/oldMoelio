@@ -155,8 +155,16 @@ module Jekyll
           media = " media=\"#{instance[source]['media']}\"" unless source == 'source_default'
           webp = "#{url}#{instance[source][:generated_src]}"[0..-5]
           webp.concat(".webp")
-          source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{webp}\"#{media}>\n"
-          source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{url}#{instance[source][:generated_src]}\"#{media}>\n"
+          type = "#{url}#{instance[source][:generated_src]}"[-3,3]
+          if type == "png"
+            type = "type=\"image/png\""
+          elsif type == "jpg"
+            type = "type=\"image/jpeg\""
+          else
+            type = ""
+          end
+          source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{webp}\"#{media}type=\"image/webp\">\n"
+          source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{url}#{instance[source][:generated_src]}\"#{media}#{type}>\n"
         end
 ###
         # Note: we can't indent html output because markdown parsers will turn 4 spaces into code blocks
