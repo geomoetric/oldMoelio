@@ -163,8 +163,8 @@ module Jekyll
           else
             type = ""
           end
-          source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{webp}\"#{media}type=\"image/webp\">\n"
-          source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{url}#{instance[source][:generated_src]}\"#{media}#{type}>\n"
+          source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{webp}\"#{media} type=\"image/webp\">\n"
+          source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{url}#{instance[source][:generated_src]}\"#{media} #{type}>\n"
         end
 ###
         # Note: we can't indent html output because markdown parsers will turn 4 spaces into code blocks
