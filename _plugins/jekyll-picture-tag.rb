@@ -146,16 +146,19 @@ module Jekyll
       instance.each { |key, source|
         instance[key][:generated_src] = generate_image(source, site.source, site.dest, settings['source'], settings['output'], site.config["baseurl"])
       }
-
+###
       # Construct and return tag
       if settings['markup'] == 'picture'
 
         source_tags = ''
         source_keys.each do |source|
           media = " media=\"#{instance[source]['media']}\"" unless source == 'source_default'
+          webp = "#{url}#{instance[source][:generated_src]}"[0..-5]
+          webp.concat(".webp")
+          source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{webp}\"#{media}>\n"
           source_tags += "#{markdown_escape * 4}<source data-srcset=\"#{url}#{instance[source][:generated_src]}\"#{media}>\n"
         end
-
+###
         # Note: we can't indent html output because markdown parsers will turn 4 spaces into code blocks
         # Note: Added backslash+space escapes to bypass markdown parsing of indented code below -WD
         picture_tag = "<picture>\n"\
