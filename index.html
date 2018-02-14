@@ -16,29 +16,6 @@ image: /img/twitter-image.jpg
 
     {% for post in paginator.posts %}
 
-    {% if post.redirect %}
-    <div class="project">
-        <div class="thumbnail">
-            <a href="{{ post.redirect }}" target="_blank">
-            {% if post.image %}
-            <img class="lazyload thumbnail"
-      src="/img/lqweb.png" data-src="{{ post.image }}" alt="100%x200"/>
-            {% else %}
-            <div class="thumbnail blankbox"></div>
-            {% endif %}    
-            <span>
-                <h1>{{ post.title }}</h1>
-                <br/>
-                <p>{{ post.description }}</p>
-            </span>
-            </a>
-        </div>
-    </div>
-
-    {% else %}
-
-    <div class="project ">
-        <div class="thumbnail">
             <a href="{{ site.baseurl }}{{ post.url }}">
             {% if post.image %}
             {% picture grid {{ post.image | remove: "/img/"}} alt="Project Preview" %}
@@ -50,10 +27,7 @@ image: /img/twitter-image.jpg
                 <p>{{ post.description }}</p>
             </span>
             </a>
-        </div>
-    </div>
 
-    {% endif %}
     {% endfor %}
   </nav>
 

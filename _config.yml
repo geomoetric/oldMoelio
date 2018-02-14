@@ -132,14 +132,9 @@ moe-picture:
         itemprop: image
         src: img/lq-square.png
       source_lrg:
-        media: "(min-width: 42.625em
-)"
+        media: "(min-width: 682px)"
         width: "295"
         height: "328"
-      source_med:
-        media: "(min-width: 12.125em)"
-        width: "635"
-        height: "706"
       source_default:
         width: "148"
         height: "164"
