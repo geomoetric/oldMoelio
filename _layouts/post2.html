@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<header class="site-header">
+  <div>
+  <h3><span class="active">work&emsp;</span>blog&emsp;about&emsp;resume</h3>
+  <h6>Eric Moe</h6>
+  </div>
+</header>
+
+<section>
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+          
+    <h4>{{ page.problem }} {{ page.description }} {{ page.role }} {{ page.date | date: "%-d %B %Y"}}</h4>
+  </header>
+
+  {{ content }}
+
+</section>
+
+<div class="share">
+  {% include share.html %}
+</div>
