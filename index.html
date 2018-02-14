@@ -15,7 +15,7 @@ image: /img/twitter-image.jpg
   <nav>
 
     {% for post in paginator.posts %}
-
+      <div class="project">
             <a href="{{ site.baseurl }}{{ post.url }}">
             {% if post.image %}
             {% picture grid {{ post.image | remove: "/img/"}} alt="Project Preview" %}
@@ -23,11 +23,10 @@ image: /img/twitter-image.jpg
             <div class="thumbnail blankbox"></div>
             {% endif %}    
             <span>
-                <h4 class="display">{{ post.title }}</h4>
-                <p>{{ post.description }}</p>
+                <h2 class="display">{{ post.title }}</h2>
             </span>
             </a>
-
+      </div>
     {% endfor %}
   </nav>
 

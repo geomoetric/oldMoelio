@@ -135,6 +135,10 @@ moe-picture:
         media: "(min-width: 682px)"
         width: "295"
         height: "328"
+      source_med:
+        media: "(min-width: 194px)"
+        width: "295"
+        height: "328"
       source_default:
         width: "148"
         height: "164"
