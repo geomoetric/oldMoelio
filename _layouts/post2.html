@@ -12,11 +12,21 @@ layout: default
   <header class="post-header">
     <h1>{{ page.title }}</h1>
           
-    <h4>{{ page.problem }} {{ page.description }} {{ page.role }} {{ page.date | date: "%-d %B %Y"}}</h4>
+    <h4>{{ page.problem }}</br>{{ page.description }} {{ page.role }}</br>{{ page.date | date: "%-d %B %Y"}}</h4>
   </header>
-
+  <figure>
+    {% for image in page.figure %}
+      {% picture {{ image.image }} alt="Dedman Badges" %}
+        {% if image.caption %}
+          <figcaption>
+            {{ image.caption }}
+          </figcaption>
+        {% endif %}
+    {% endfor %}
+  </figure>
+  <article>
   {{ content }}
-
+  </article>
 </section>
 
 <div class="share">

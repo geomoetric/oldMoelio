@@ -23,7 +23,6 @@ image: /img/twitter-image.jpg
             <div class="thumbnail blankbox"></div>
             {% endif %}    
             <span>
-                <h2 class="display">{{ post.title }}</h2>
             </span>
             </a>
       </div>
@@ -34,17 +33,36 @@ image: /img/twitter-image.jpg
   <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">Newer Projects</a>
-      <wbr>|<wbr>
+      <wbr>&middot;<wbr>
     {% else %}
     {% endif %}
     <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-      <wbr>|<wbr>
+      <wbr>&middot;<wbr>
       <a href="{{ paginator.next_page_path }}" class="next">Older Projects</a>
     {% else %}
     {% endif %}
   </div>
 
-  {{ footer }}
+  <footer>
+    <div>
+      <h3>
+        <a href="mailto:moe@ericmoe.co">moe@ericmoe.co</a>&emsp;<wbr><a href="/geomoetric/">@geomoetric</a>&emsp;<wbr><a href="/archive/">archive</a>&emsp;<wbr><a href="/sitemap/">sitemap</a>&emsp;<wbr><a href="https://jekyllrb.com/" target="_blank">jekyll</a>&emsp;<wbr><a  href="/copyright/">&copy;{{ site.time | date: '%Y' }}</a>&emsp;<wbr><a href="#top">top</a>
+      </h3>
+    </div>
 
+  <!-- Image Zoom -->
+    <script src="/zooming.min.js"></script>
+    
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');  
+      ga('require', 'linkid', 'linkid.js');
+      ga('send', 'pageview');
+    </script>
+  </footer>
 </main> 
