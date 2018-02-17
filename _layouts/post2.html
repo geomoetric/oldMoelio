@@ -3,8 +3,13 @@ layout: default
 ---
 <header class="site-header">
   <div>
-  <h3><span class="active">work&emsp;</span>blog&emsp;about&emsp;resume</h3>
-  <h6>Eric Moe</h6>
+    <h3>
+      <a class="active" href="/index">work&emsp;</a>
+      <a href="/blog/">blog&emsp;</a>
+      <a href="/about/">about&emsp;</a>
+      <a href="/resume/">resume</a>
+    </h3>
+    <h6>Eric Moe</h6>
   </div>
 </header>
 
@@ -14,9 +19,10 @@ layout: default
           
     <h4>{{ page.problem }}</br>{{ page.description }} {{ page.role }}</br>{{ page.date | date: "%-d %B %Y"}}</h4>
   </header>
+
   <figure>
     {% for image in page.figure %}
-      {% picture {{ image.image }} alt="Dedman Badges" %}
+    {% picture {{ image.image }} alt="{{ page.title }}" %}
         {% if image.caption %}
           <figcaption>
             {{ image.caption }}
@@ -24,11 +30,12 @@ layout: default
         {% endif %}
     {% endfor %}
   </figure>
+
   <article>
   {{ content }}
   </article>
+
 </section>
 
 <div class="share">
-  {% include share.html %}
 </div>

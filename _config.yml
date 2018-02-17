@@ -112,7 +112,7 @@ moe-picture:
     default:
       ppi: [1, 1.5]
       attr:
-        class: lazyload col three
+        class: lazyload full
         data-action: zoom
         itemprop: image
         src: /img/lq.png
