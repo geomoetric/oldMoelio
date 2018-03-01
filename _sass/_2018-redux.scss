@@ -11,6 +11,7 @@
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
+- Variables
 - Grid
 - Base Styles
 - Typography
@@ -26,6 +27,15 @@
 - Media Queries
 */
 
+/* Variables
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+$my-brand: #4967aa;
+$light-link: #b5c3e1;
+$text-color: #2e384f;
+$ghost-white: #f7f9fc;
+$footer-peony: #1b365d;
+
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -34,25 +44,26 @@ html {
 }
 
 main {
-  background: white;
+  background: $ghost-white;
   z-index: 2;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding: 0 23px;
 }
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 body {
-  background: #4967aa;
+  background: $my-brand;
   z-index: 1;
   position: relative;
   padding: 75px 0 0 0;
 
   /* font */
   font-family: 'FreightSans Pro', serif;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.45;
   color: #333;
 
@@ -89,6 +100,7 @@ h6 {
 h6 {
   font-size: 3.998em;
   font-family: "Clarendon URW", "Hoefler Text", Baskerville, "Times New Roman", serif;
+  font-weight: 500;
 }
 
 h1 {
@@ -97,16 +109,19 @@ h1 {
 
   /* margin-top: 0 */
   margin: 0 0 20px 0;
+  font-weight: 400;
 }
 
 h2 {
   font-size: 1.999em;
   font-family: "Clarendon URW", "Hoefler Text", Baskerville, "Times New Roman", serif;
   font-style: italic;
+  font-weight: 300;
 }
 
 h3 {
   font-size: 1.414em;
+  font-weight: 600;
 }
 
 h4,
@@ -114,6 +129,7 @@ h4,
   font-size: 1.414em;
   line-height: 1.45;
   margin: 1rem 0 1rem 0;
+  font-weight: 600;
 }
 
 small,
@@ -122,6 +138,7 @@ figcaption {
   font-size: 0.707em;
   margin: 0 auto 1rem auto;
   letter-spacing: 1px;
+  font-weight: 500;
 }
 
 .small-caps,
@@ -145,15 +162,15 @@ table {
 p a,
 .pagination a {
   text-decoration: none;
-  border-bottom: 3px solid #4967aa;
+  border-bottom: 1px solid $light-link;
+  box-shadow: inset 0 -4px 0 $light-link;
   transition: background 0.3s ease-out;
-  color: black;
+  color: $text-color;
 }
 
 p a:hover,
 .pagination a:hover {
-  background: #4967aa;
-  color: white;
+  background: $light-link;
 }
 
 ol,
@@ -170,7 +187,7 @@ article {
 }
 
 .box-1 {
-  background-color: #4967aa;
+  background-color: $my-brand;
 }
 
 .box-2 {
@@ -202,8 +219,9 @@ article {
 footer {
   grid-column: span 3;
   grid-row: 3;
-  background-color: #4967aa;
-  height: 38px;
+  background-color: $footer-peony;
+
+  /* height: 100vh; */
 }
 
 footer a {
@@ -213,16 +231,18 @@ footer a {
 
 footer a,
 .site-header a {
-  color: white;
+  color: $ghost-white;
   text-decoration: none;
 }
 
 a.active {
-  color: #b5c3e1;
+  color: $light-link;
 }
 
 footer div {
+  background: $footer-peony;
   margin: 0 23px 0 23px;
+  min-height: 38px;
 }
 
 .pagination {
@@ -234,14 +254,14 @@ footer div {
 }
 
 .site-header {
-  background-color: #4967aa;
+  background-color: $my-brand;
   margin: 0 auto;
   height: 98px;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
   z-index: 6;
-  color: white;
+  color: $ghost-white;
 }
 
 .x-large {
@@ -269,7 +289,7 @@ footer div {
 
 .post-rule {
   display: block;
-  border: 0.5px solid black;
+  border: 0.5px solid $text-color;
   margin-top: 1rem;
 }
 
@@ -299,14 +319,14 @@ nav {
   padding-top: 28px;
 }
 
-section {
+.post-section {
   display: flex;
   flex-direction: column;
   grid-column: 2;
   width: auto;
   justify-content: center;
   padding: 0 23px;
-  background: white;
+  background: $ghost-white;
 }
 
 article {
@@ -327,14 +347,13 @@ figcaption {
 figcaption::after {
   content: ' ';
   display: block;
-  border: 0.5px solid black;
+  border: 0.5px solid $text-color;
   margin-top: 0.5rem;
 }
 
 footer div,
 .site-header div {
   display: block;
-  background: #4967aa;
   padding-bottom: 2px;
 }
 
@@ -372,7 +391,7 @@ footer div,
   bottom: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.4);
-  color: white;
+  color: $ghost-white;
   padding: 1rem;
   text-align: center;
 }
@@ -385,7 +404,10 @@ footer div,
   width: 100%;
 }
 
-
+.featured {
+  grid-column-start: 2;
+  padding: 20px 0 0 0;
+}
 
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -400,9 +422,10 @@ footer div,
   main {
     display: grid;
     grid-template-columns: minmax(0, 1fr) 613px minmax(0, 1fr);
-    grid-template-rows: auto auto 38px;
+    grid-template-rows: auto 40px;
     grid-column-gap: 23px;
     grid-row-gap: 20px;
+    padding: 0;
   }
 
   nav {
@@ -412,7 +435,7 @@ footer div,
     padding-top: 20px;
   }
 
-  section {
+  .post-section {
     padding: 0;
     width: 100%;
   }
@@ -494,7 +517,7 @@ footer div,
     grid-template-rows: 328px 328px 328px 328px;
   }
 
-  section {
+  .post-section {
     width: auto;
     display: grid;
     grid-template-rows: auto auto;
@@ -557,7 +580,7 @@ footer div,
     grid-template-rows: 328px 328px 328px;
   }
 
-  section {
+  .post-section {
     grid-template-columns: 772px 456px;
   }
 
@@ -600,7 +623,7 @@ footer div,
     grid-template-rows: 328px 328px 328px;
   }
 
-  section {
+  .post-section {
     grid-template-columns: 1090px 454px;
   }
 
