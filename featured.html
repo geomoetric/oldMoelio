@@ -22,7 +22,7 @@ image: /img/twitter-image.jpg
   <section class="featured">
   <summary>
     <h1>Howdy {{ page.title }}!</h1>
-    <h4>Value Proposition—Maecenas in sem in turpis iaculis malesuada. Positioning Statement—dignissim praesent id ante a mi fringilla. Elevator Pitch—vel velit. Praesent aliquet sem vel porta sollicitud.</h4> 
+    <h4>Value Proposition—Maecenas in sem in turpis iaculis malesuada.<wbr> Positioning Statement—dignissim praesent id ante a mi fringilla.<wbr> Elevator Pitch—vel velit. Praesent aliquet sem vel porta sollicitud.</h4> 
   </summary>
 
   <aside>
@@ -50,7 +50,19 @@ image: /img/twitter-image.jpg
 </div> 
 
 <div>
-  {% about.md %}
+  {% for p in site.pages %}
+    {% if p.url contains 'about' %}
+      {{ p.content }}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div>
+  {% for p in site.pages %}
+    {% if p.url contains 'resume' %}
+      {{ p.content }}
+    {% endif %}
+  {% endfor %}
 </div>
 
 </main> 

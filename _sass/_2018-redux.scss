@@ -159,8 +159,15 @@ table {
   font-feature-settings: "tnum";
 }
 
-p a,
-.pagination a {
+ol,
+li {
+  padding-bottom: 19px;
+}
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+a {
   text-decoration: none;
   border-bottom: 1px solid $light-link;
   box-shadow: inset 0 -4px 0 $light-link;
@@ -168,14 +175,45 @@ p a,
   color: $text-color;
 }
 
-p a:hover,
-.pagination a:hover {
+footer a {
+  margin: 0 auto;
+  line-height: 1.45;
+  text-decoration: none;
+  border-bottom: none;
+  box-shadow: none;
+  transition: none;
+  color: $ghost-white;
+}
+
+.site-header a {
+  text-decoration: none;
+  border-bottom: none;
+  box-shadow: none;
+  transition: none;
+  color: $ghost-white;
+}
+
+a:hover {
   background: $light-link;
 }
 
-ol,
-li {
-  padding-bottom: 19px;
+.site-footer a {
+  text-decoration: none;
+  border-bottom: 1px solid $ghost-white;
+  box-shadow: inset 0 -4px 0 $ghost-white;
+  transition: background 0.3s ease-out;
+  transition: color 0.3s ease-out;
+  color: $text-color;
+}
+
+footer a:hover,
+.site-header a:hover {
+  background: none;
+}
+
+.site-footer a:hover {
+  background: $ghost-white;
+  color: $footer-peony;
 }
 
 /* Spacing
@@ -222,17 +260,6 @@ footer {
   background-color: $footer-peony;
 
   /* height: 100vh; */
-}
-
-footer a {
-  margin: 0 auto;
-  line-height: 1.45;
-}
-
-footer a,
-.site-header a {
-  color: $ghost-white;
-  text-decoration: none;
 }
 
 a.active {
