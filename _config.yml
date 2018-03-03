@@ -16,20 +16,23 @@ imgurl: https://www.ericmoe.co
 fontawesome: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
   
 # Social networking links used in footer. Update and remove as you like.
-twitteruser:    https://twitter.com/geomoetric   
-facebook:   https://www.facebook.com/geomoetric   
-github: https://github.com/geomoetric  
-stackexchange:  
+dribbble:   https://dribbble.com/geomoetric/
 linkedin:   https://www.linkedin.com/in/geomoetric
 instagram:  https://www.instagram.com/geomoetric/
-flickr:         
+medium:    https://medium.com/@geomoetric/
+twitteruser:    https://twitter.com/geomoetric   
 tumblr: https://geomoetric.tumblr.com/
-dribbble:   https://dribbble.com/geomoetric/
 pinterest:  https://www.pinterest.com/geomoetric/
 reddit: https://www.reddit.com/user/geomoetric/
-etsy:   https://www.etsy.com/shop/Geomoetric/
-behance:    https://www.behance.net/EricMoe
+github: https://github.com/geomoetric  
 codepen:    https://codepen.io/geomoetric/
+behance:    https://www.behance.net/EricMoe
+spotify:    https://open.spotify.com/user/geomoetric
+
+facebook:   https://www.facebook.com/geomoetric   
+stackexchange:  
+flickr:         
+etsy:   https://www.etsy.com/shop/Geomoetric/
 # google plus id, include the '+', eg +mmistakes
 google_plus:
   
@@ -40,7 +43,7 @@ username:
   instagram:      "geomoetric"
   
 # Jekyll SEO tag
-author: geomoetric
+author: Eric Moe
 twitter:
   username: geomoetric
 facebook:
@@ -51,14 +54,14 @@ logo: /img/twitter-image.jpg
 social:
   name: Eric Moe
   links:
-    - https://twitter.com/geomoetric
     - https://www.facebook.com/geomoetric
-    - https://www.linkedin.com/in/geomoetric
-    - https://github.com/geomoetric
+    - https://twitter.com/geomoetric
     - https://www.instagram.com/geomoetric/
+    - https://www.linkedin.com/in/geomoetric
+    - https://www.pinterest.com/geomoetric/
+    - https://github.com/geomoetric
     - https://geomoetric.tumblr.com/
     - https://dribbble.com/geomoetric/
-    - https://www.pinterest.com/geomoetric/
     - https://www.reddit.com/user/geomoetric/
     - https://www.etsy.com/shop/Geomoetric/
     - https://www.behance.net/EricMoe
@@ -73,21 +76,16 @@ twitter_max_length: 140
 timezone:   America/Chicago
 future: false  # publish future dated posts --  true, false (default) 
 
-
 # Analytics stuff goes here
 google_analytics:   UA-86525313-1  
-  
-
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 
-
 # Pagination
 paginate: 12
 paginate_path: "/page:num/"
-
 
 # sass
 sass:
