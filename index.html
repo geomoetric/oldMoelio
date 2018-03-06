@@ -4,19 +4,7 @@ title: Eric Moe
 description: The portfolio of Eric Moe.
 image: /img/twitter-image.jpg
 ---
-<header class="site-header">
-  <div>
-    <h3>
-      <a class="active" href="/index">work&emsp;</a>
-      <a href="/blog/">blog&emsp;</a>
-      <a href="/about/">about&emsp;</a>
-      <a href="/resume/">resume</a>
-    </h3>
-    <h6>
-      <a href="/index">Eric Moe</a>
-    </h6>
-  </div>
-</header>
+{% include work-header.html %}
 
 <main>
   <nav>
@@ -52,24 +40,5 @@ image: /img/twitter-image.jpg
   </div>
 </main> 
 
-  <footer>
-    <div>
-      <h3>
-        <a href="mailto:moe@ericmoe.co">moe@ericmoe.co</a>&emsp;<wbr><a href="/geomoetric/">@geomoetric</a>&emsp;<wbr><a href="/archive/">archive</a>&emsp;<wbr><a href="/sitemap/">sitemap</a>&emsp;<wbr><a href="https://jekyllrb.com/" target="_blank">jekyll</a>&emsp;<wbr><a  href="/copyright/">&copy;{{ site.time | date: '%Y' }}</a>&emsp;<wbr><a href="#top">top</a>
-      </h3>
-    </div>
+{% include footer.html %}
 
-  <!-- Image Zoom -->
-    <script src="/zooming.min.js"></script>
-    
-    <!-- Google Analytics -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');  
-      ga('require', 'linkid', 'linkid.js');
-      ga('send', 'pageview');
-    </script>
-  </footer>

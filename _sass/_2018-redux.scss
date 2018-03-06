@@ -308,7 +308,8 @@ article {
   background-color: teal;
 }
 
-.post-header {
+.post-header,
+.old-post-header {
   padding-top: 2rem;
 }
 
@@ -350,13 +351,14 @@ nav {
   padding-top: 28px;
 }
 
-.post-section {
+.post-section,
+.old-post-section {
   display: flex;
   flex-direction: column;
   grid-column: 2;
   width: auto;
   justify-content: center;
-  padding: 0 23px;
+  padding: 0 23px 60px 23px;
   background: $ghost-white;
 }
 
@@ -528,8 +530,9 @@ figcaption::after {
     padding-top: 20px;
   }
 
-  .post-section {
-    padding: 0;
+  .post-section,
+  .old-post-section {
+    padding: 0 0 60px 0;
     width: 100%;
   }
 
@@ -571,6 +574,8 @@ figcaption::after {
   }
 
   .post-header,
+  .old-post-header,
+  .old-article,
   article,
   figure {
     width: 613px;
@@ -648,7 +653,7 @@ figcaption::after {
   }
 
   .post-section {
-    width: auto;
+    width: autoold-;
     display: grid;
     grid-template-rows: auto auto;
     grid-template-columns: 613px 295px;
@@ -770,16 +775,6 @@ figcaption::after {
     width: 1249px;
     margin: 0 auto;
   }
-
-  .site-header h6 {
-    font-size: 5.653rem;
-    margin: 0 0 -10px 0;
-  }
-
-  .site-header h3 {
-    font-size: 1.999rem;
-    margin: 0 0 17px 0;
-  }
 }
 
 @media screen and (min-width: 1613px) {
@@ -811,5 +806,15 @@ figcaption::after {
   .site-header div {
     width: 1567px;
     margin: 0 auto;
+  }
+
+  .site-header h6 {
+    font-size: 5.653rem;
+    margin: 0 0 -10px 0;
+  }
+
+  .site-header h3 {
+    font-size: 1.999rem;
+    margin: 0 0 17px 0;
   }
 }
