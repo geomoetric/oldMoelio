@@ -7,63 +7,68 @@ image: /img/twitter-image.jpg
 <header class="site-header">
   <div>
     <h3>
-      <a class="active" href="/index">work&emsp;</a>
-      <a href="/blog/">blog&emsp;</a>
-      <a href="/about/">about&emsp;</a>
-      <a href="/resume/">resume</a>
+      <a class="active" href="#featured">featured&emsp;</a>
+      <a href="#about">about&emsp;</a>
+      <a href="#resume">resume</a>
     </h3>
     <h6>
-      <a href="/index">Eric Moe</a>
+      <a href="#featured">Eric Moe</a>
     </h6>
   </div>
 </header>
 
 <main>
-  <section class="featured">
-  <summary>
-    <h1>Howdy {{ page.title }}!</h1>
-    <h4>Value Proposition—Maecenas in sem in turpis iaculis malesuada.<wbr> Positioning Statement—dignissim praesent id ante a mi fringilla.<wbr> Elevator Pitch—vel velit. Praesent aliquet sem vel porta sollicitud.</h4> 
-  </summary>
 
-  <aside>
-    <h3>contact</h3>
-    <p>
-      <a href="mailto:moe@ericmoe.co">moe@ericmoe.co</a><br>
-      <a href="/geomoetric/">@geomoetric</a>
-    </p> 
-  </aside> 
+  <section class="feature" id="featured">
 
-<div>
-  {% for post in page.posts %}
-    <div class="project">
-          <a href="{{ site.baseurl }}{{ post.url }}">
-          {% if post.image %}
-          {% picture grid {{ post.image | remove: "/img/"}} alt="Project Preview" %}
-          {% else %}
-          <div class="thumbnail blankbox"></div>
-          {% endif %}    
-          <span>
-          </span>
-          </a>
-    </div>
-  {% endfor %}
-</div> 
+  <div>
+    <summary>
+      <h1>Howdy {{ page.title }}!</h1>
+      <h4>Value Proposition—Maecenas in sem in turpis iaculis malesuada.<wbr> Positioning Statement—dignissim praesent id ante a mi fringilla.<wbr> Elevator Pitch—vel velit. Praesent aliquet sem vel porta sollicitud.</h4> 
+    </summary>
 
-<div>
-  {% for p in site.pages %}
-    {% if p.url contains 'about' %}
-      {{ p.content }}
-    {% endif %}
-  {% endfor %}
-</div>
+    <aside>
+      <h3>contact</h3>
+      <p>
+        <a href="mailto:moe@ericmoe.co">moe@ericmoe.co</a><br>
+        <a href="/geomoetric/">@geomoetric</a>
+      </p> 
+    </aside> 
+  </div>
 
-<div>
-  {% for p in site.pages %}
-    {% if p.url contains 'resume' %}
-      {{ p.content }}
-    {% endif %}
-  {% endfor %}
-</div>
+  <div>
+    {% for post in page.posts %}
+      <div class="project">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+            {% if post.image %}
+            {% picture grid {{ post.image | remove: "/img/"}} alt="Project Preview" %}
+            {% else %}
+            <div class="thumbnail blankbox"></div>
+            {% endif %}    
+            <span>
+            </span>
+            </a>
+      </div>
+    {% endfor %}
+  </div> 
+
+  <div id="about" class="bookmark">
+    <h1>About</h1>
+    {% for p in site.pages %}
+      {% if p.url contains 'about' %}
+        {{ p.content }}
+      {% endif %}
+    {% endfor %}
+  </div> 
+
+  <div id="resume" class="bookmark">
+    <h1>Resume</h1>
+    {% for p in site.pages %}
+      {% if p.url contains 'resume' %}
+        {{ p.content }}
+      {% endif %}
+    {% endfor %}
+  </div> 
 
 </main> 
 {% include footer2.html %}
