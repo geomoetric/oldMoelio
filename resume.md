@@ -11,7 +11,7 @@ image: /img/twitter-image.jpg
 <hr>
 
 <h5>Graphic Designer at <a href="https://liberalarts.utexas.edu/" target="_blank">UT Liberal Arts</a> and <a href="https://lifeandletters.la.utexas.edu/" target="_blank">Life &amp; Letters Magazine</a></h5>
-<h6 class="hug">May '16–Present | Austin, TX</h6>
+<h6 class="hug">May '16–Present · Austin, TX</h6>
 <ul class="hug">
 <li>Designed editorial illustrations for articles in <a href="/portfolio/2017-01-13-life-letters/">Life and Letters magazine</a>.</li>
 <li>Created UT branded <a href="/portfolio/2016-11-02-ut-postcard/">cards</a> and <a href="/portfolio/2016-12-30-ut-xmas-card/">print media</a> for Liberal Arts Development.</li>
@@ -20,7 +20,7 @@ image: /img/twitter-image.jpg
 <hr/>
 
 <h5>Studio Manager at <a href="http://www.wkrmdesign.com/" target="_blank">wkrm design</a></h5>
-<h6 class="hug">Aug '17–Present | Austin, TX</h6>
+<h6 class="hug">Aug '17–Present · Austin, TX</h6>
 <ul class="hug">
 <li>Managed day to day operations of UT's student led design studio.</li>
 <li>Won all client pitches and led teams for two out of the four fall projects.</li>
@@ -29,7 +29,7 @@ image: /img/twitter-image.jpg
 <hr/>
 
 <h5>Graphic Designer at <a href="https://www.mccombs.utexas.edu/mstc" target="_blank">McCombs School of Business MSTC Program</a></h5>
-<h6 class="hug">July '17–Aug '17 | Austin, TX</h6>
+<h6 class="hug">July '17–Aug '17 · Austin, TX</h6>
 <ul class="hug">
 <li>Coded responsive HTML5 web advertisements for the Google Display Network.</li>
 <li>Generated hundreds of static advertisements and assets.</li>
@@ -38,7 +38,7 @@ image: /img/twitter-image.jpg
 <hr/>
 
 <h5>Administrative Assistant at <a href="https://www.brendathompson.com/" target="blank">Brenda Thompson Communications</a></h5>
-<h6 class="hug">May '16–Dec '16 | Austin, TX</h6>
+<h6 class="hug">May '16–Dec '16 · Austin, TX</h6>
 <ul class="hug">
 <li>Designed graphics, social media campaigns, and client proposals.</li>
 <li>Collaborated with prominent Austin businesses such as <a href="https://thundercloud.com/" target="_blank">ThunderCloud Subs</a>, <a href="https://kerbeylanecafe.com/" target="_blank">Kerbey Lane Cafe</a>, and <a href="https://freedomsolarpower.com/" target="_blank">Freedom Solar Power</a>.</li>
@@ -47,7 +47,7 @@ image: /img/twitter-image.jpg
 <hr/>
 
 <h5>Intern at <a href="https://www.generousart.org/" target="blank">Generous Art</a></h5>
-<h6 class="hug">June '14–Aug '14 | Austin, TX</h6>
+<h6 class="hug">June '14–Aug '14 · Austin, TX</h6>
 <ul class="hug">
 <li>Designed print, web, and branding material for a local non-profit art gallery and arts advocacy group.</li>
 <li>Managed data and image entry for their website and online store.</li>
@@ -57,7 +57,7 @@ image: /img/twitter-image.jpg
 <hr/>
 
 <h5>Fellow at <a href="https://mindpop.org/fellowship-program-overview/" target="blank">MINDPOP Fellowship for Creative Leadership</a></h5>
-<h6 class="hug">May '14–May '15 | Austin, TX</h6>
+<h6 class="hug">May '14–May '15 · Austin, TX</h6>
 <ul class="hug">
 <li>Developed career skills as one of ten fellows selected for the education non-profit’s program.</li>
 <li>Explored opportunities in non-profit arts education.</li>
@@ -66,7 +66,7 @@ image: /img/twitter-image.jpg
 <hr/>
 
 <h5>Lifeguard at <a href="https://circlecranch.info/amenities/circle-c-aquatics/" target="blank">Circle C Swim Center</a></h5>
-<h6 class="hug">June '14–Jan '16 | Austin, TX</h6>
+<h6 class="hug">June '14–Jan '16 · Austin, TX</h6>
 <ul class="hug">
 <li>Completed and sustained Red Cross Lifeguard Certification.</li>
 <li>Maintained pool facilities and equipment hourly.</li>
@@ -76,7 +76,7 @@ image: /img/twitter-image.jpg
 <hr/>
 
 <h5>Camp Counselor at <a href="https://www.bsacac.org/activities/for_boy_scouts/summercamp" target="blank">Lost Pines Boy Scout Camp</a></h5>
-<h6 class="hug">May '11–Aug '13 | Austin, TX</h6>
+<h6 class="hug">May '11–Aug '13 · Austin, TX</h6>
 <ul class="hug">
 <li>Instructed merit badge classes on art, wilderness survival, swimming, and outdoor skills.</li>
 <li>Maintained indoor and outdoor program areas.</li>
