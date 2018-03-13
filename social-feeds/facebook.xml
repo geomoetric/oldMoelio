@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facebook</title>
+    <description>The design portfolio of Eric Moe.</description>
+    <link>https://ericmoe.co</link>
+    <atom:link href="https://ericmoe.co/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 13 Mar 2018 09:24:20 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Mar 2018 09:24:20 -0500</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+
+    
+
+    
+        
+
+        
+        <item>
+            <title>Dedman Badges</title>
+            <description>My news chyron reads &quot;Merit Badge Expert&quot;.</description>
+            <pubDate>Thu, 28 Sep 2017 11:45:00 -0500</pubDate>
+            <link>https://ericmoe.co/portfolio/2017/09/28/dedman.html</link>
+            <guid isPermaLink="true">https://ericmoe.co/portfolio/2017/09/28/dedman.html</guid>
+            <content>https://ericmoe.co/img/dedweb.png</content>
+            
+            <category>badge</category>
+            
+            <category>patch</category>
+            
+            <category>symbol</category>
+            
+            
+            <category>portfolio</category>
+            
+        </item>
+        
+    
+        
+
+        
+        <item>
+            <title>Australia &amp; New Zealand Logos</title>
+            <description>Zero for ten on this logo project.</description>
+            <pubDate>Sat, 16 Sep 2017 16:33:18 -0500</pubDate>
+            <link>https://ericmoe.co/portfolio/2017/09/16/aus-nz.html</link>
+            <guid isPermaLink="true">https://ericmoe.co/portfolio/2017/09/16/aus-nz.html</guid>
+            <content>https://ericmoe.co/img/nzaus-web.png</content>
+            
+            <category>Australia</category>
+            
+            <category>NewZealand</category>
+            
+            <category>logo</category>
+            
+            <category>ut</category>
+            
+            
+            <category>portfolio</category>
+            
+        </item>
+        
+    
+        
+
+        
+        <item>
+            <title>Mid-Century Exhibition</title>
+            <description>The dream of the 50's is alive in Austin.</description>
+            <pubDate>Sat, 16 Sep 2017 10:58:06 -0500</pubDate>
+            <link>https://ericmoe.co/portfolio/2017/09/16/mid-century.html</link>
+            <guid isPermaLink="true">https://ericmoe.co/portfolio/2017/09/16/mid-century.html</guid>
+            <content>https://ericmoe.co/img/mid-web.png</content>
+            
+            <category>Eames</category>
+            
+            <category>chair</category>
+            
+            <category>midcentury</category>
+            
+            <category>modernism</category>
+            
+            
+            <category>portfolio</category>
+            
+        </item>
+        
+    
+        
+
+        
+    
+        
+
+        
+    
+        
+
+        
+        <item>
+            <title>Cards Against Moe Family</title>
+            <description>A party game for a rowdy family.</description>
+            <pubDate>Mon, 04 Sep 2017 09:30:00 -0500</pubDate>
+            <link>https://ericmoe.co/portfolio/2017/09/04/cards-against-moe-family.html</link>
+            <guid isPermaLink="true">https://ericmoe.co/portfolio/2017/09/04/cards-against-moe-family.html</guid>
+            <content>https://ericmoe.co/img/cardweb.jpg</content>
+            
+            <category>CAH,</category>
+            
+            <category>cards,</category>
+            
+            <category>diy</category>
+            
+            
+            <category>portfolio</category>
+            
+        </item>
+        
+    
+        
+
+        
+        <item>
+            <title>Album Cover</title>
+            <description>Getting weird with Aussie Psych Album Design.</description>
+            <pubDate>Fri, 11 Aug 2017 08:30:00 -0500</pubDate>
+            <link>https://ericmoe.co/portfolio/2017/08/11/album-cover.html</link>
+            <guid isPermaLink="true">https://ericmoe.co/portfolio/2017/08/11/album-cover.html</guid>
+            <content>https://ericmoe.co/img/album-web.png</content>
+            
+            <category>psychedelic,</category>
+            
+            <category>kinggizzard,</category>
+            
+            <category>album</category>
+            
+            
+            <category>portfolio</category>
+            
+        </item>
+        
+    
+        
+
+        
+    
+        
+
+        
+    
+        
+
+        
+        <item>
+            <title>Bite Sized Web Projects</title>
+            <description>Some weird typographic web experiments. Contains whales.</description>
+            <pubDate>Thu, 06 Apr 2017 12:30:00 -0500</pubDate>
+            <link>https://ericmoe.co/portfolio/2017/04/06/web-experiments.html</link>
+            <guid isPermaLink="true">https://ericmoe.co/portfolio/2017/04/06/web-experiments.html</guid>
+            <content>https://ericmoe.co/img/web-experiments-web.png</content>
+            
+            <category>whales</category>
+            
+            <category>webdev</category>
+            
+            
+            <category>portfolio</category>
+            
+        </item>
+        
+    
+  </channel>
+</rss>
